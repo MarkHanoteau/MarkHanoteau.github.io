@@ -24,7 +24,7 @@ I see a lot of practices wrongly claim that they adhere to Scrum. One of the mos
 
 **Focus:** 
 
-As part of their strategic planning, leaders can overstretch at times and set challenges for their teams that unrealistically go beyond the team's current capabilities. When designing the roadmap towards strategic goals, leaders shouldn't overlook focusing on the present and setting intermediate objectives in incremental steps based on what is empirically known and achievable. This will build confidence and excitement within the team as they gradually complete the objectives and progress towards the strategic goal and as they upskil and become more capable along the way. The Scrum Guide can help teams shape their work such progresive sprints and EBM is a useful guide for strategic planning. 
+As part of their strategic planning, leaders can overstretch at times and set challenges for their teams that unrealistically go beyond the team's current capabilities. When designing the roadmap towards strategic goals, leaders shouldn't overlook focusing on the present and setting intermediate objectives in incremental steps based on what is empirically known and achievable. This will build confidence and excitement within the team as they gradually complete the objectives and progress towards the strategic goal and as they upskill and become more capable along the way. The Scrum Guide can help teams shape their work into progresive sprints and EBM is a useful guide for strategic planning. 
 
 **Openness:**
 
