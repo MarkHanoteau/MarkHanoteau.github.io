@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Agile Leadership
-subtitle: Implementing the Scrum Values as a baseline towards sucess 
+subtitle: Scrum Values Implementation as a baseline for sucess 
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
