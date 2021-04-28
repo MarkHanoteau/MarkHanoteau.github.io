@@ -20,7 +20,7 @@ It is unfortunately more common that we'd like for teams to get lost into busy w
 
 Commitment:
 
-I see a lot of practices wrongly claim that they adhere to Scrum. One of the most common examples of this is teams skipping one of the formal Scrum meetings (Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective). Each of these events are designed to make the process and work transparent, which in turn enables inspection and identification of opportunities to improve and adapt in a timely and iterative manner. Should you fail to respect these events, you are not following Scrum as you are deviating from the Agile benefits the framework intends to implement. It is important for leaders to understand the Scrum Guide, and should they decide it is the ideal framework to adopt given their market pressures and scope of work, to commit to the Scrum rules. 
+I see a lot of practices wrongly claim that they adhere to Scrum. One of the most common examples of this is teams skipping one of the formal Scrum meetings (Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective). Each of these events are designed to make the process and work transparent, which in turn enables inspection and identification of opportunities to improve and adapt in a timely and iterative manner. Should you fail to respect these events, you are not following Scrum as you are deviating from the Agile benefits the framework intends to implement. It is important for leaders to understand the implications of the Scrum Guide, and should they decide it is the ideal framework to adopt given their market pressures and scope of work, to commit to the Scrum rules. 
 
 Focus: 
 
