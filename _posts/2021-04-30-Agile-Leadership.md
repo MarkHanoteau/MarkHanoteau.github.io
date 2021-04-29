@@ -28,7 +28,7 @@ As part of their strategic planning, leaders can overstretch at times and set ch
 
 **Openness:**
 
-Another recurring strugle is openess to change. Change that benefits stakeholders, whether customers, users or employees, should be embraced and implemented quickly to ensure competitive advantage. However, as it may conflict with the feasibility of ingrained plans, it is tempting for leaders to stick with original aspirations - with potentially damaging consequences. Agile has multiple frameworks that help you shift from Project Management or Waterfall biased approaches to methodologies that cultivate change acceptance. More importantly, the Agile principles nurture change-savy mentalities as responding to change is a core priority of the Agile Manifesto.
+Another recurring struggle is openness to change. Change that benefits stakeholders, whether customers, users or employees, should be embraced and implemented quickly to ensure competitive advantage. However, as it may conflict with the feasibility of ingrained plans, it is tempting for leaders to stick with original aspirations - with potentially damaging consequences. Agile has multiple frameworks that help you shift from Project Management or Waterfall biased approaches to methodologies that cultivate change acceptance. More importantly, the Agile principles nurture change-savy mentalities as responding to change is a core priority of the Agile Manifesto.
 
 **Respect:**
 
