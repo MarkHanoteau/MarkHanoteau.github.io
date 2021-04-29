@@ -16,6 +16,8 @@ Scrum shapes these soft skills into five values that a team's success depends on
 
 **Courage:**
 
+![Scrum Value Courage](https://www.cmohs.org/news-events/wp-content/uploads/2020/04/87095576_l-scaled-1-600x500.jpg){: .mx-auto.d-block :}
+
 It is unfortunately more common that we'd like for teams to get lost into busy work; to confuse high volumes of tasks completed as high performance. Leaders have a duty to intervene in these instances, and to educate their teams on how important it is for them to bias their work towards output and outcome focused activities. It likely will take courage to break these habits - people don't like being told what they've been doing adds no value - and to do so leaders need to have a clear vision that they firmly believe in. As a Scrum Product Owner, I frequently refer to the [Evidenced Based Management](https://www.scrum.org/resources/evidence-based-management-guide) (EBM) Guide to shape this vision and ensure my team's endeavors are strategic. It has been extremely helpful in identifying what we should focus on as a team, and what is not worth our time. 
 
 **Commitment:**
