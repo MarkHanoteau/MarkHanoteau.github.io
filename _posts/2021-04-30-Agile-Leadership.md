@@ -5,7 +5,7 @@ subtitle: Scrum Values Implementation as the root of success
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [Agile, Scrum]
+tags: [Leadership, Agile Transformation, Scrum Values]
 ---
 
 As the [Agile Manifesto](https://agilemanifesto.org/) celebrates its 20th anniversary this year, I thought it would be fitting to follow up on my recent Scrum Product Owner certification on the day of my birthday with my first true LinkedIn post to reflect on what Agile has meant for me and other leaders within my company, client ecosystem as well as many more businesses around the world.
