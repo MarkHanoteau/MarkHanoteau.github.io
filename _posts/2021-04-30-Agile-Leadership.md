@@ -12,7 +12,7 @@ As the [Agile Manifesto](https://agilemanifesto.org/) celebrates its 20th annive
 
 Agile Transformation is nothing new. It is a long-running product of leaders striving to shape their businesses into a leaner, nimbler organization capable of fulfilling increasingly demanding customer needs and expectations whilst being cost effective. Amongst the myriad of choices to make - selecting the right technology stack fit for their organization being one of them - comes how to adopt Agile in a valuable manner. In their efforts to thouroughly understand the Agile principles, values, frameworks and methodologies and how appropriate each of these may be for the way they would like to their company to perform, leaders risk distracting themselves from fundamental soft skills that nurture operational success. 
 
-Scrum shapes these soft skills into five values that a team's success depends on. I'll provide some high priority examples from professional environments that illustrates how respecting these values is instrumental to ensuring business agility. 
+Scrum shapes these soft skills into five values that a team's success depends on. I'll provide some high priority paintpoints that leaders tend to face in their professional environments and will illustrate why it is instrumental that leaders promote these scrum values to work around the challenges and ensure business agility. 
 
 **Courage:**
 
