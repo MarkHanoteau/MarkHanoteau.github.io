@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [Agile, Scrum]
 ---
-
+<div style="text-align: justify">
 As the [Agile Manifesto](https://agilemanifesto.org/) celebrates its 20th anniversary this year, I thought it'd be fitting to follow up on my recent Scrum Product Owner certification the day of my birthday with my first true LinkedIn post to reflect on what Agile has meant for me and other leaders within my company, client ecosystem as well as many more businesses around the world.
 
 Agile Transformation is nothing new. It is a long-running product of leaders striving to shape their businesses into a leaner, nimbler organization capable of fulfilling increasingly demanding customer needs and expectations whilst being cost effective. Amongst the myriad of choices to make - selecting the right technology stack fit for their organization being one of them - comes how to adopt Agile in a valuable manner. In their efforts to thouroughly understand the Agile principles, values, frameworks and methodologies and how appropriate each of these may be for the way they would like to their company to perform, leaders risk distracting themselves from fundamental soft skills that nurture operational success. 
@@ -33,3 +33,4 @@ Another recurring strugle is openess to change. Change that benefits stakeholder
 **Respect:**
 
 It is important for leaders to respect the essence of Agile frameworks and be self aware in terms of where they can foster Agile work or where their management intervention may hinder it. In Scrum, the product owner is responsible for maximising the value of the solution being developed, whereas the developers are accountable for how this solution will be brought to life. Any leader external to these roles should respect these roles and accountabilities. They should not attempt to dictate the direction or approach the potential solution should take as this will diffuse clarity in terms of who ultimately responsible for the project. This is not to say that leaders will be excluded from the process - they could be invited as stakeholders to collaborate with the scrum team and provide guidance on the potential market value, usability or functionality of the product so that the scrum team can take this feedback into acount.
+</div>
