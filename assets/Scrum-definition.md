@@ -10,9 +10,7 @@ tags: [Leadership, Agile Transformation, Scrum]
 
 Rugby: scrum packing closely together with their heads down and attempting
 
-For those who are apathetic towards scrum.
-
-
+There are two types of people in this world: those who are apathetic towards Scrum, its jargon and rules. 
 
 The point of Scrum isn't to do Scrum... it's to align the team and the organisation so that everyone is working towards a common goal.
 
