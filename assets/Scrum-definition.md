@@ -10,7 +10,7 @@ tags: [Leadership, Agile Transformation, Scrum]
 
 Rugby: scrum packing closely together with their heads down and attempting
 
-For those of you who do not see what the fuss is all about with scrum.
+For those who are apathetic towards scrum.
 
 
 
