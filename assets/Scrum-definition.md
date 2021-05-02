@@ -1,1 +1,27 @@
-content tbd
+---
+layout: post
+title: What is scrum about anyway?
+subtitle: Taking away the terminology and focusing on the value 
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [Leadership, Agile Transformation, Scrum]
+---
+
+Rugby: scrum packing closely together with their heads down and attempting
+
+For those of you who do not see what the fuss is all about with scrum.
+
+
+
+The point of Scrum isn't to do Scrum... it's to align the team and the organisation so that everyone is working towards a common goal.
+
+Every day the team are focussed on taking the next step towards achieving the Sprint Goal.
+
+Every Sprint Goal is a distinct step towards the Product Goal.
+
+And the current Product Goal is intended to be a concrete milestone towards the Product Owner's vision for the product.
+
+Imagine... your team understanding their purpose and working together as a single unit towards a clearly defined, valuable and achievable goal. Every day. Even when there are bumps in the road.
+
+That's Scrum. Not all the dogma.
