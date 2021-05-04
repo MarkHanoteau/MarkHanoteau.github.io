@@ -16,6 +16,12 @@ There are two types of people in this world: those who are apathetic towards Scr
 
 Bottom up thinking?
 
+Interested in some details: 
+
+https://www.knowledgehut.com/blog/agile/infographic-scrum-process-in-a-nutshell
+
+For those who are super interested in knowing more: Valentin Despa
+
 Scrum works not because it has three roles, five events, and three artifacts but because it adheres to the underlying Agile principles of iterative, value-based incremental delivery by frequently gathering customer feedback and embracing change. 
 
 The point of Scrum isn't to do Scrum... it's to align the team and the organisation so that everyone is working towards a common goal.
