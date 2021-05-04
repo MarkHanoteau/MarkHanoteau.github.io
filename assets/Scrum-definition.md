@@ -7,6 +7,8 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [Leadership, Agile Transformation, Scrum]
 ---
+Demystifying Scrum 
+For those of you who are not interesed in the terminology, here's the value. 
 
 Rugby: scrum packing closely together with their heads down and attempting
 
@@ -16,7 +18,7 @@ There are two types of people in this world: those who are apathetic towards Scr
 
 Bottom up thinking?
 
-Interested in some details: 
+Now that you know the value, here's a snapshot of how scrum is applied: 
 
 https://www.knowledgehut.com/blog/agile/infographic-scrum-process-in-a-nutshell
 
