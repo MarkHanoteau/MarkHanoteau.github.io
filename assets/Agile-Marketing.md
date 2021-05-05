@@ -8,6 +8,8 @@ share-img: /assets/img/path.jpg
 tags: [Agile Marketing]
 ---
 
+You can be an Agile Marketer without applying any Agile Methodology.
+
 Some Marketers: We're going to do some direct marketing, a webinar, distribute some flyers.
 
 Me: Great! Which channel works best?
