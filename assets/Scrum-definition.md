@@ -1,26 +1,41 @@
 ---
 layout: post
-title: What is scrum about anyway?
-subtitle: Taking away the terminology and focusing on value 
+title: Demystifying Scrum
+subtitle: Understanding Scrum.. by using Scrum! 
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [Leadership, Agile Transformation, Scrum]
+tags: [Demystifying Scrum]
 ---
 
 LinkedIn Post:
 
 What is Scrum about anyway?
 
-Let's remove the jargon and focus on Scrum's benefits.
+Learn about Scrum and its benefits. This article allows you to chose whether to be exposed to jargon.. or not!
 
-Picture: Two types of people in this world: 
+Picture: Isn't Scrum something to do with rugby?
 
-Isn't Scrum something to do with rugby?
+This post will be divided into 3 sections. The first passage will focus on the value of scrum without using any of the terminology. The second adds the framework guidlines to allow for a fundamental understanding of Scrum. The final paragraph sprints through my recommendation on how to assimilate Scrum concepts in the most intuitive and enjoyable manner. 
 
-Allow me to demystify Scrum, to move away from its rules, roles, meetings and commitments and to focus on the value it generates. 
+Understanding Scrum - Step 1: Focus on Value.
 
-The essense of Scrum is to bias work towards valuable business outcomes. 
+(Allow yourself not to think about Scrum for the length of the paragraph. Move away from its rules, roles, meetings and commitments. Think differently. Instead, focus on the value it generates.) 
+
+Imagine understanding your personal and your team's accountability towards the work.
+Imagine everyone collaborating as a cohesive unit towards a common and valuable business outcome.
+Imagine having this shared goal broken down into an intermediate objective which is within your realistic capabilities to accomplish in a short duration.
+Imagine being confident that the output of your current work is the most valuable milestone you can produce within your scope of work. Imagine the feeling of each milestone being a step closer towards achieving your business outcome.
+Imagine feeling empowered by guidance and validation from peers, customers and stakeholders as you progress through your work. 
+Imagine being able to pivot your work and respond to this feedback in iterative and innovative measures, mitigating risk along the way. 
+
+This is the essence of Scrum.
+
+Understanding Scrum - Step 2: Now let´s add Scrum concepts. 
+
+Allow yourself not to think about Scrum for the length of the paragraph. Move away from its rules, roles, meetings and commitments. Think differently. Instead, focus on the value it generates. 
+
+prescriptive approach. short duration iterations. 
 
 
 
