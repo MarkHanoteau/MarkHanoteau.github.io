@@ -1,20 +1,22 @@
 ---
 layout: post
 title: What is scrum about anyway?
-subtitle: Taking away the terminology and focusing on the value 
+subtitle: Taking away the terminology and focusing on value 
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [Leadership, Agile Transformation, Scrum]
 ---
-Demystifying Scrum 
-For those of you who are not interesed in the terminology, here's the value. 
 
-Rugby: scrum packing closely together with their heads down and attempting
+Picture: Two types of people in this world: 
 
 Isn't Scrum something to do with rugby?
 
-There are two types of people in this world: those who are apathetic towards Scrum, its jargon and rules. 
+Allow me to demystify Scrum, to move away its jargon, rules, meetings, artifacts and roles, and to focus on the value it generates. 
+
+Rugby: scrum packing closely together with their heads down and attempting
+
+
 
 Bottom up thinking?
 
