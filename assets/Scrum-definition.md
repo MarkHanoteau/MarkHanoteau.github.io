@@ -8,11 +8,21 @@ share-img: /assets/img/path.jpg
 tags: [Leadership, Agile Transformation, Scrum]
 ---
 
+LinkedIn Post:
+
+What is Scrum about anyway?
+
+Let's remove the jargon and focus on Scrum's benefits.
+
 Picture: Two types of people in this world: 
 
 Isn't Scrum something to do with rugby?
 
-Allow me to demystify Scrum, to move away its jargon, rules, meetings, artifacts and roles, and to focus on the value it generates. 
+Allow me to demystify Scrum, to move away from its rules, roles, meetings and commitments and to focus on the value it generates. 
+
+The essense of Scrum is to bias work towards valuable business outcomes. 
+
+
 
 Rugby: scrum packing closely together with their heads down and attempting
 
