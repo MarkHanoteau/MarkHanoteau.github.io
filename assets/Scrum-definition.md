@@ -19,6 +19,7 @@ This post will be divided into 3 sequences. The first passage will focus on the 
 **Understanding Scrum - Step 1: Focus on Value.**
 
 Imagine being clear about your and your team's purpose in an environment where bottom up thinking is the norm.
+
 Imagine everyone collaborating as a cohesive unit towards a clearly defined, common and valuable business outcome.
 Imagine having this shared vision broken down into an intermediate goal. This objective is within your realistic capabilities to accomplish in a short duration.
 Imagine being confident that the output of your current work is the most valuable milestone you can produce within your scope of work. Imagine the feeling of each milestone being a step closer towards achieving your business outcome as it builds on previous outputs.
