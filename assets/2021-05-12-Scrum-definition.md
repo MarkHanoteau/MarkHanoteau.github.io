@@ -20,9 +20,9 @@ This post will be divided into 3 sequences. The first passage will focus on the 
 
 Imagine..
 
-> .. having utmost clarity about your and your team's purpose
+> .. having utmost clarity about your and your team's purpose  
 > .. collaborating as a cohesive unit with your team towards a clearly defined, common and valuable business outcome  
-> .. cooperating to break this shared vision down into realistic and prioritized milestones
+> .. cooperating to break this shared vision down into realistic and prioritized milestones  
 > .. picking one milestone at a time and accomplishing it within a short duration  
 > .. being confident that your current work output adds the most possible value to the desired outcome  
 > .. moving ever closer towards achieving your business outcome as it builds on previous outputs  
