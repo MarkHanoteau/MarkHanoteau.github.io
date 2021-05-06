@@ -35,6 +35,9 @@ Understanding Scrum - Step 2: Now let´s add Scrum concepts.
 
 Allow yourself not to think about Scrum for the length of the paragraph. Move away from its rules, roles, meetings and commitments. Think differently. Instead, focus on the value it generates. 
 
+![ScrumNutshell](https://d2o2utebsixu4k.cloudfront.net/media/images/d4fc313b-919c-44f0-9fdd-b7ee079a991e.jpg){: .mx-auto.d-block :}
+
+
 prescriptive approach. short duration iterations. 
 
 
