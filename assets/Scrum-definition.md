@@ -14,15 +14,13 @@ What is Scrum about anyway?
 
 Learn about Scrum and its benefits. This article allows you to chose whether to be exposed to jargon.. or not!
 
-Picture: Isn't Scrum something to do with rugby?
-
 This post will be divided into 3 sequences. The first passage will focus on the value of scrum without using any of the terminology. The second adds the framework guidlines to allow for a fundamental understanding of Scrum. The final paragraph sprints through my recommendation on how to assimilate Scrum concepts in the most intuitive and enjoyable manner. 
 
-Understanding Scrum - Step 1: Focus on Value.
+**Understanding Scrum - Step 1: Focus on Value.**
 
 (Allow yourself not to think about Scrum for the length of the paragraph. Move away from its rules, roles, meetings and commitments. Think differently. Instead, focus on the value it generates.) 
 
-Imagine understanding your personal and your team's accountability towards the work.
+Imagine being fully accountable for your and your team's work.
 Imagine everyone collaborating as a cohesive unit towards a common and valuable business outcome.
 Imagine having this shared goal broken down into an intermediate objective which is within your realistic capabilities to accomplish in a short duration.
 Imagine being confident that the output of your current work is the most valuable milestone you can produce within your scope of work. Imagine the feeling of each milestone being a step closer towards achieving your business outcome.
@@ -31,14 +29,11 @@ Imagine being able to pivot your work and respond to this feedback in iterative 
 
 This is the essence of Scrum.
 
-Understanding Scrum - Step 2: Now let´s add Scrum concepts. 
+**Understanding Scrum - Step 2: Now let´s add Scrum concepts.**
 
 Allow yourself not to think about Scrum for the length of the paragraph. Move away from its rules, roles, meetings and commitments. Think differently. Instead, focus on the value it generates. 
 
 ![ScrumNutshell](https://d2o2utebsixu4k.cloudfront.net/media/images/d4fc313b-919c-44f0-9fdd-b7ee079a991e.jpg){: .mx-auto.d-block :}
-
-
-prescriptive approach. short duration iterations. 
 
 
 
