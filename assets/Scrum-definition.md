@@ -16,7 +16,7 @@ Learn about Scrum and its benefits. This article allows you to chose whether to 
 
 Picture: Isn't Scrum something to do with rugby?
 
-This post will be divided into 3 sections. The first passage will focus on the value of scrum without using any of the terminology. The second adds the framework guidlines to allow for a fundamental understanding of Scrum. The final paragraph sprints through my recommendation on how to assimilate Scrum concepts in the most intuitive and enjoyable manner. 
+This post will be divided into 3 sequences. The first passage will focus on the value of scrum without using any of the terminology. The second adds the framework guidlines to allow for a fundamental understanding of Scrum. The final paragraph sprints through my recommendation on how to assimilate Scrum concepts in the most intuitive and enjoyable manner. 
 
 Understanding Scrum - Step 1: Focus on Value.
 
