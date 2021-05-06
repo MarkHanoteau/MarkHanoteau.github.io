@@ -18,8 +18,6 @@ This post will be divided into 3 sequences. The first passage will focus on the 
 
 **Understanding Scrum - Step 1: Focus on Value.**
 
-(Allow yourself not to think about Scrum for the length of the paragraph. Move away from its rules, roles, meetings and commitments. Think differently. Instead, focus on the value it generates.) 
-
 Imagine being fully accountable for your and your team's work.
 Imagine everyone collaborating as a cohesive unit towards a common and valuable business outcome.
 Imagine having this shared goal broken down into an intermediate objective which is within your realistic capabilities to accomplish in a short duration.
@@ -27,7 +25,7 @@ Imagine being confident that the output of your current work is the most valuabl
 Imagine feeling empowered by guidance and validation from peers, customers and stakeholders as you progress through your work. 
 Imagine being able to pivot your work and respond to this feedback in iterative and innovative measures, mitigating risk along the way. 
 
-This is the essence of Scrum.
+The essence of Scrum is to generate value.
 
 **Understanding Scrum - Step 2: Now let´s add Scrum concepts.**
 
@@ -60,5 +58,3 @@ Every Sprint Goal is a distinct step towards the Product Goal.
 And the current Product Goal is intended to be a concrete milestone towards the Product Owner's vision for the product.
 
 Imagine... your team understanding their purpose and working together as a single unit towards a clearly defined, valuable and achievable goal. Every day. Even when there are bumps in the road.
-
-That's Scrum. Not all the dogma.
