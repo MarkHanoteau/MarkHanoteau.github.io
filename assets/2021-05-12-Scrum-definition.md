@@ -57,16 +57,10 @@ The essence of Scrum, driven by the Agile principles, is to iteratively self imp
 
 **Understanding Scrum - Step 3: Steps towards applying Scrum**
 
-Now that you know the value, here's a snapshot of how scrum is applied: 
-
 The next paragraph is aimed at those who are interested in implementing the above value benefits within their teams. 
 
-First step is to **be** Agile in terms of mindset and culture. In order to do this, refer to the Agile manifesto to read the 4 values and then refer to the 12 principles.  It is important you really internalize these concepts and start correcting any behaviors within your organizations that don't align with these. 
+First step is to **be** Agile in terms of mindset and culture. In order to do this, refer to the Agile manifesto to read its [4 values](https://agilemanifesto.org/) and then refer to its [12 principles](https://agilemanifesto.org/principles.html).  It is important you really internalize these concepts and start correcting any behaviors within your organizations that don't align with these. 
 
-Second step is to **do** work following Agile rituals. Multiple practices can be applied, but if passage 2 was alluring to you, I suggest you learn Scrum. This infographic is a quick and gentle initiation to Scrum's rules, roles, meetings and commitments.
+Second step is to **do** work following Agile rituals. Multiple practices can be applied, but if passage 2 was alluring to you, I suggest you learn Scrum. This [infographic](https://www.knowledgehut.com/blog/agile/infographic-scrum-process-in-a-nutshell) is a quick and gentle snapshot initiation to Scrum's rules, roles, meetings and commitments.
 
-There is no alternative to learning Scrum
-
-https://www.knowledgehut.com/blog/agile/infographic-scrum-process-in-a-nutshell
-
-If you're looking for an intuitive yet comprehensive introduction to Scrum, [Valentin Despa](https://www.linkedin.com/in/vdespa/) provides two Udemy courses that, should you trust and follow Valentin's guidance, are the perfect preparation to become either a certified [Scrum Master](https://www.udemy.com/course/scrum-master-certification-preparation-mock-exam-questions-psm-i/) or a certified [Product Owner](https://www.udemy.com/course/scrum-product-owner-certification-prep-mock-exam-questions/) should you want to pay for Scrum.org's respective Level 1 assessments. 
+If you're looking for an intuitive yet comprehensive introduction on how to apply Scrum, [Valentin Despa](https://www.linkedin.com/in/vdespa/) provides two Udemy courses that, should you trust and follow Valentin's guidance, are the perfect preparation to become either a certified [Scrum Master](https://www.udemy.com/course/scrum-master-certification-preparation-mock-exam-questions-psm-i/) or a certified [Product Owner](https://www.udemy.com/course/scrum-product-owner-certification-prep-mock-exam-questions/) should you want to pay for Scrum.org's respective Level 1 assessments. 
