@@ -16,7 +16,9 @@ Learn about Scrum and its benefits. This article allows you to chose whether to 
 
 This post will be divided into 3 sequences. The first passage will focus on the value of scrum without using any of the terminology. The second adds framework guidelines (check if it's finally framework guidelines) that allow for a more fundamental understanding of Scrum. The final paragraph sprints through my recommendation on how to assimilate Scrum concepts in the most intuitive, comprehensive and enjoyable manner. 
 
-**Understanding Scrum - Step 1: Focus on Value.**
+**Understanding Scrum - Step 1: What's the difference between Scrum and Agile?.**
+
+**Understanding Scrum - Step 2: Focus on Value.**
 
 Imagine..
 
@@ -29,7 +31,7 @@ Imagine..
 > .. obtaining cyclical guidance and validation from peers, customers and stakeholders    
 > .. pivoting your work accordingly in iterative and innovative measures, mitigating risk along the way
 
-The essence of Scrum, driven by the Agile principles, is to generate value. 
+The essence of Scrum, driven by the Agile principles, is to iteratively self improve in order to generate market value. 
 
 **Understanding Scrum - Step 2: Now let´s add Scrum concepts.**
 
