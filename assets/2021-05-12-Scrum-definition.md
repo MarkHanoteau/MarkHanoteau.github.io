@@ -29,6 +29,8 @@ Distance from Project Management: DisclaimerÑ Scrum and Agile may requires a ch
 Stop from doing agile and start being agile.
  
  Learning loops 
+ 
+ Design principles that underpin work.
 
 **Understanding Scrum - Step 2: Focus on Value.**
 
