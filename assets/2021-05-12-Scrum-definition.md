@@ -18,6 +18,12 @@ This post will be divided into 3 sequences. The first passage will focus on the 
 
 **Understanding Scrum - Step 1: What's the difference between Scrum and Agile?.**
 
+Would you rather having to project manage your team and being the only thinker in the room 
+
+OR
+
+ walking in to a meeting with your team, sitting down and 
+
 **Understanding Scrum - Step 2: Focus on Value.**
 
 Imagine..
@@ -30,6 +36,7 @@ Imagine..
 > .. moving ever closer towards achieving your business outcome as it builds on previous outputs  
 > .. obtaining cyclical guidance and validation from peers, customers and stakeholders    
 > .. pivoting your work accordingly in iterative and innovative measures, mitigating risk along the way
+> .. and doing all of this under the minimal amount of meetings required
 
 The essence of Scrum, driven by the Agile principles, is to iteratively self improve in order to generate market value. 
 
