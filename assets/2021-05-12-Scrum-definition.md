@@ -24,7 +24,9 @@ OR
 
  walking in to a meeting with your team, sitting down and people self organizing and collaborating towards solutioning work problems. 
  
-Distance from Project Management: It is important to make clear and obvious the Agile because if you focus on doing Scrum by the book without adhering to these principles, you will create problems. People won{t find their groove, things won't click, outputs will have quality issues.  
+Distance from Project Management: DisclaimerÑ Scrum and Agile may requires a change in behavior and approach. It is important to make clear and obvious the Agile because if you focus on doing Scrum by the book without adhering to these principles, you will create problems. People won{t find their groove, things won't click, outputs will have quality issues.  If you don{t do this, you might 'fake' scrum and adding your own project management twist to it.
+
+Stop from doing agile and start being agile.
  
  Learning loops 
 
