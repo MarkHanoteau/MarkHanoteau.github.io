@@ -14,6 +14,8 @@ What is Scrum about anyway?
 
 Learn about Scrum and its benefits. 
 
+Scrum qualifies as the prime oxymoron. It is a surprisingly easy framework to comprehend yet can be difficult to put in practice. Leaders may also be apprehensive about implementing it due its propensity to disrupt the status quo.
+
 This post will be divided into 3 sequences. The first passage will focus on the value of scrum without using any of the terminology. The second adds framework guidelines (check if it's finally framework guidelines) that allow for a more fundamental understanding of Scrum. The final paragraph sprints through my recommendation on how to assimilate Scrum concepts in the most intuitive, comprehensive and enjoyable manner. 
 
 **Understanding Scrum - Step 1: What's the difference between Scrum and Agile?.**
@@ -29,7 +31,7 @@ OR
  Whatever the industry, the variety and complexity of your work, empowering your employees to autonomosly think through solutions is the single best method of innovating your
  company through to the best possible value offering it can provide. 
  
-Distance from Project Management: DisclaimerÑ Scrum and Agile may requires a change in behavior and approach. It is important to make clear and obvious the Agile because if you focus on doing Scrum by the book without adhering to these principles, you will create problems. People won{t find their groove, things won't click, outputs will have quality issues.  If you don{t do this, you might 'fake' scrum and adding your own project management twist to it.
+Distance from Project Management: Disclaimer Scrum and Agile may requires a change in behavior and approach. It is important to make clear and obvious the Agile because if you focus on doing Scrum by the book without adhering to these principles, you will create problems. People won{t find their groove, things won't click, outputs will have quality issues.  If you don{t do this, you might 'fake' scrum and adding your own project management twist to it.
 
 Stop from doing agile and start being agile.
  
