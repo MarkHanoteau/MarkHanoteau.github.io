@@ -20,6 +20,10 @@ This post will be divided into 3 sequences. The first passage will focus on the 
 
 **Understanding Scrum - Step 1: What's the difference between Scrum and Agile?.**
 
+Isn't Agile the thing where people stand around for 15 minutes talking each day.
+
+Agile is an attitude.
+
 Agile is about increasing the value of the work coming out of your organization. Employee engagement also rises. 
 
 Would you rather having to project manage your team and being the only thinker in the room 
