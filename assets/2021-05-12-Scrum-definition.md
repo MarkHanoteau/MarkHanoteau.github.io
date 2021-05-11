@@ -22,7 +22,11 @@ Would you rather having to project manage your team and being the only thinker i
 
 OR
 
- walking in to a meeting with your team, sitting down and 
+ walking in to a meeting with your team, sitting down and people self organizing and collaborating towards solutioning work problems. 
+ 
+Distance from Project Management: It is important to make clear and obvious the Agile because if you focus on doing Scrum by the book without adhering to these principles, you will create problems. People won{t find their groove, things won't click, outputs will have quality issues.  
+ 
+ Learning loops 
 
 **Understanding Scrum - Step 2: Focus on Value.**
 
