@@ -22,9 +22,11 @@ This post will be divided into 3 sequences. The first passage will focus on the 
 
 Isn't Agile the thing where people stand around for 15 minutes talking each day.
 
-Agile is an attitude.
+Agile is an attitude. Agile is a set of values and principles.
 
 Agile is about increasing the value of the work coming out of your organization. Employee engagement also rises. 
+
+Turn the ship around video. 
 
 Would you rather having to project manage your team and being the only thinker in the room 
 
@@ -44,6 +46,8 @@ Stop from doing agile and start being agile.
  Design principles that underpin work.
 
 **Understanding Scrum - Step 2: Focus on Value.**
+
+Scrum is a framework within which we can apply those values and principles to our ways of working. 
 
 Scrum is an Agile framework that helps you think differently and craft your work with a focus on the value it generates. 
 
