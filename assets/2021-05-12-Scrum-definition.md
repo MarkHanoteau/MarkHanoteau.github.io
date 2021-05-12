@@ -20,13 +20,13 @@ Scrum qualifies as the prime oxymoron. It is a surprisingly easy framework to un
 
 [David Marquet](https://www.youtube.com/watch?v=OqmdLcyES_Q)'s definition of leadership is one I like to promote within my teams: "*embedding the capacity for greatness in the people and practices in the people and practices of an organization, and decoupling it from the personality of the leader*".
 
-A prime enabler of this mindset is Agile. Agile is a set of [4 values](https://agilemanifesto.org/) and [12 principles](https://agilemanifesto.org/principles.html) that invariably nurtures collaboration, empowers people to be self directed and focuses on increasing the value of the work that comes out of an organization. 
+An enabler paramount to this mindset is Agile. Agile is a set of [4 values](https://agilemanifesto.org/) and [12 principles](https://agilemanifesto.org/principles.html) that invariably nurtures collaboration, empowers people to be self directed and focuses on increasing the value of the work that comes out of an organization. 
 
 It may take deliberation to detach oneself from habits and think differently about how to craft work with a focus on the value it generates. I recommend you take the time to read through and internalize these Agile concepts as they will help you correct any behaviors within your organizations that don't aligh with your desired ways of working.
 
 **Understand how to BE Agile through Scrum**
 
-Now you understand the required Agile behaviors, let's move on to how you can help people find their groove. This is where Scrum not only connects with, but is supposed to synergize, Agile. is a framework within which we can apply those values and principles. 
+Now you understand Agile as an ethos, let's move on to how you can help people find their groove. This is where Scrum not only connects with, but is supposed to synergize, Agile. You may recognize Scrum as is a framework within which we can apply those values and principles. 
 
 
 
