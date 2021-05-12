@@ -8,12 +8,6 @@ share-img: /assets/img/path.jpg
 tags: [Demystifying Scrum, Agile]
 ---
 
-LinkedIn Post:
-
-What is Scrum about anyway?
-
-Learn about Scrum and its benefits. 
-
 Scrum qualifies as the prime oxymoron. It is a surprisingly easy framework to understand yet its concepts can be difficult to put in practice. This post lists three steps that ensure organizations that wish to embrace Scrum do so correctly. 
 
 **Understand how to BE Agile**
@@ -50,4 +44,4 @@ If aforementioned paragraph enticed you to implement Scrum within your organizat
 
 If you're looking for an intuitive yet comprehensive appreciation on how to apply Scrum, [Valentin Despa](https://www.linkedin.com/in/vdespa/) provides two Udemy courses that, should you trust and follow Valentin's guidance, are the perfect preparation to become either a certified [Scrum Master](https://www.udemy.com/course/scrum-master-certification-preparation-mock-exam-questions-psm-i/) or a certified [Product Owner](https://www.udemy.com/course/scrum-product-owner-certification-prep-mock-exam-questions/) should you want to pay for Scrum.org's respective Level 1 assessments. 
 
-Please also feel free to reach out to [me](https://www.linkedin.com/in/mark-hanoteau-41649746/) as you progress through your learning so we can share experiences.
+Feel free to also reach out to [me](https://www.linkedin.com/in/mark-hanoteau-41649746/) as you progress through your learning so we can share experiences.
