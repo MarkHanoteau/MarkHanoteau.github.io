@@ -39,22 +39,15 @@ The benefits of BEING Agile through Scrum include:
 > .. being confident that your current work output adds the most possible value to the desired outcome  
 > .. moving ever closer towards achieving your business outcome as it builds on previous outputs  
 > .. obtaining cyclical guidance and validation from peers, customers and stakeholders    
-> .. pivoting your work accordingly in iterative and innovative measures, mitigating risk along the way
-> .. and doing all of this under the minimal amount of meetings required
+> .. pivoting your work accordingly in iterative and innovative measures, mitigating risk along the way  
+> .. and doing all of this under the minimal amount of meetings required  
 
 The essence of Scrum, driven by the Agile principles, is to iteratively self improve in order to generate market value. 
 
 **Understand how to DO Agile work by applying Scrum**
 
-If aforementioned paragraph enticed you to implement Scrum within your organization, I suggest you take further steps to learn it. The good news here is that the  
+If aforementioned paragraph enticed you to implement Scrum within your organization, I suggest you take further steps to learn it. The good news here is that the three sections within this post have just initiated you to the concept of 'Sprints': concise passages that should be read in sequential order and not skipped until fully comprehended / completed. This [infographic](https://www.knowledgehut.com/blog/agile/infographic-scrum-process-in-a-nutshell) serves as a gentle follow up to Scrum's rules, roles, meetings and commitments.
 
-Second step is to **do** work following Agile rituals. Multiple practices can be applied, but if passage 2 was alluring to you, I suggest you learn Scrum. This [infographic](https://www.knowledgehut.com/blog/agile/infographic-scrum-process-in-a-nutshell) is a quick and gentle snapshot initiation to Scrum's rules, roles, meetings and commitments.
+If you're looking for an intuitive yet comprehensive appreciation on how to apply Scrum, [Valentin Despa](https://www.linkedin.com/in/vdespa/) provides two Udemy courses that, should you trust and follow Valentin's guidance, are the perfect preparation to become either a certified [Scrum Master](https://www.udemy.com/course/scrum-master-certification-preparation-mock-exam-questions-psm-i/) or a certified [Product Owner](https://www.udemy.com/course/scrum-product-owner-certification-prep-mock-exam-questions/) should you want to pay for Scrum.org's respective Level 1 assessments. 
 
-If you're looking for an intuitive yet comprehensive introduction on how to apply Scrum, [Valentin Despa](https://www.linkedin.com/in/vdespa/) provides two Udemy courses that, should you trust and follow Valentin's guidance, are the perfect preparation to become either a certified [Scrum Master](https://www.udemy.com/course/scrum-master-certification-preparation-mock-exam-questions-psm-i/) or a certified [Product Owner](https://www.udemy.com/course/scrum-product-owner-certification-prep-mock-exam-questions/) should you want to pay for Scrum.org's respective Level 1 assessments. 
-
-
-Footnote: Congratulations! You have just done scrum.
-
-These three paragraphs should be read as 'Sprints': concise passages that should be read in sequential order and not skipped until fully comprehended. 
-
-This post will be divided into 3 sequences. The first passage will focus on the value of scrum without using any of the terminology. The second adds framework guidelines (check if it's finally framework guidelines) that allow for a more fundamental understanding of Scrum. The final paragraph sprints through my recommendation on how to assimilate Scrum concepts in the most intuitive, comprehensive and enjoyable manner. 
+Please also feel free to reach out to me as you progress through your learning.
