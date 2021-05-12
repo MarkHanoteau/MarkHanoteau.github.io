@@ -16,17 +16,17 @@ Learn about Scrum and its benefits.
 
 Scrum qualifies as the prime oxymoron. It is a surprisingly easy framework to understand yet its concepts can be difficult to put in practice. This post lists three steps that ensure organizations that wish to embrace Scrum do so correctly. 
 
-**Sprint 1 - Understand how to BE Agile**
+**Understand how to BE Agile**
 
 David Marquet's video about [greatness](https://www.youtube.com/watch?v=OqmdLcyES_Q) includes a definition of leadership which I like to promote within my teams: "*embedding the capacity for greatness in the people and practices in the people and practices of an organization, and decoupling it from the personality of the leader*".
 
 A prime enabler of this mindset is Agile. Agile is a set of [4 values](https://agilemanifesto.org/) and [12 principles](https://agilemanifesto.org/principles.html) that invariably nurtures collaboration, empowers people to be self directed and focuses on increasing the value of the work that comes out of an organization. 
 
-Take the time to read through and internalize these concepts as they will help you correct any behaviors within your organizations that don't align with these. It takes time to detach oneself from habits and think differently about how to craft your work with a focus on the value it generates.
+Take the time to read through and internalize these concepts as they will help you correct any behaviors within your organizations that don't align with these. It may take time to detach oneself from habits and think differently about how to craft work with a focus on the value it generates.
 
-**Sprint 2: Understand how to BE Agile through Scrum**
+**Understand how to BE Agile through Scrum**
 
-Scrum is a framework within which we can apply those values and principles. There is a connection and synergy with Agile.
+Now you understand the required Agile behaviors, let's move on to how you can help people find their groove. This is where Scrum not only connects with, but is supposed to synergize, Agile. is a framework within which we can apply those values and principles. 
 
 Scrum is a framework within which we can apply those values and principles to our ways of working. 
 
@@ -49,7 +49,7 @@ Imagine..
 
 The essence of Scrum, driven by the Agile principles, is to iteratively self improve in order to generate market value. 
 
-**Step 3: Understand how to DO Agile work by applying Scrum**
+**Understand how to DO Agile work by applying Scrum**
 
 The next paragraph is aimed at those who are interested in implementing the above value benefits within their teams. 
 
