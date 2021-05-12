@@ -26,15 +26,11 @@ It may take deliberation to detach oneself from habits and think differently abo
 
 **Understand how to BE Agile through Scrum**
 
-Now you understand Agile as an ethos, let's move on to how you can help people find their groove. This is where Scrum not only connects with, but is supposed to synergize, Agile. You may recognize Scrum as is a framework within which we can apply those values and principles. 
+Now you understand Agile as an ethos, let's move on to how you can help people find their groove. This is where Scrum not only connects with, but is supposed to synergize, Agile. 
 
+We are obviously not referring to the method to restart play in Rugby. It is equally important to bust myths such as 'Scrum is when you stand up for 15 minutes'. Scrum is not about blindly following rituals, it is a framework within which you apply the Agile Values and Principles. If you focus on doing Scrum by the book without being Agile, you are 'faking' Scrum and will likely create problems for yourself and your teams. Rather than adherence to rules, Scrum's bedrock is on getting the outcome that the organization wants. 
 
-
-Distance from Project Management: Disclaimer Scrum and Agile may requires a change in behavior and approach. It is important to make clear and obvious the Agile because if you focus on doing Scrum by the book without adhering to these principles, you will create problems. People won{t find their groove, things won't click, outputs will have quality issues.  If you don{t do this, you might 'fake' scrum and adding your own project management twist to it. 
-
-Measure the success of how Agile we are by adherence to Scrum events and rules as opposed to: are we getting the outcome that we want from having undertaken Scrum? 
-
-Imagine..
+The benefits of BEING Agile through Scrum include:
 
 > .. having utmost clarity about your and your team's purpose  
 > .. collaborating as a cohesive unit with your team towards a clearly defined, common and valuable business outcome  
@@ -50,7 +46,7 @@ The essence of Scrum, driven by the Agile principles, is to iteratively self imp
 
 **Understand how to DO Agile work by applying Scrum**
 
-The next paragraph is aimed at those who are interested in implementing the above value benefits within their teams. 
+If aforementioned paragraph enticed you to implement Scrum within your organization, I suggest you take further steps to learn it. The good news here is that the  
 
 Second step is to **do** work following Agile rituals. Multiple practices can be applied, but if passage 2 was alluring to you, I suggest you learn Scrum. This [infographic](https://www.knowledgehut.com/blog/agile/infographic-scrum-process-in-a-nutshell) is a quick and gentle snapshot initiation to Scrum's rules, roles, meetings and commitments.
 
