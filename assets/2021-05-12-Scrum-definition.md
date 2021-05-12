@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Demystifying Scrum
-subtitle: Understanding Scrum.. by using Scrum! 
+subtitle: Understanding Scrum.. by doing Scrum! 
 cover-img: /assets/img/ScrumDefinition.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
