@@ -34,7 +34,7 @@ The benefits of BEING Agile through Scrum include:
 > .. moving ever closer towards achieving your business outcome as it builds on previous outputs  
 > .. obtaining cyclical guidance and validation from peers, customers and stakeholders    
 > .. pivoting your work accordingly in iterative and innovative measures, mitigating risk along the way  
-> .. and doing all of this under the minimal amount of meetings required  
+> .. and doing all of this under the minimal amount of meetings required.  
 
 The essence of Scrum, driven by the Agile principles, is to iteratively self improve in order to generate market value. 
 
