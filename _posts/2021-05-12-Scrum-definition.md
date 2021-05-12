@@ -16,13 +16,13 @@ Scrum qualifies as the prime oxymoron. It is a surprisingly easy framework to un
 
 An enabler paramount to this mindset is Agile. Agile is a set of [4 values](https://agilemanifesto.org/) and [12 principles](https://agilemanifesto.org/principles.html) that invariably nurtures collaboration, empowers people to be self directed and focuses on increasing the value of the work that comes out of an organization. 
 
-It may take deliberation to detach oneself from habits and think differently about how to craft work with a focus on the value it generates. I recommend you take the time to read through and internalize these Agile concepts as they will help you correct any behaviors within your organizations that don't aligh with your desired ways of working.
+It may take deliberation to detach oneself from habits and think differently about how to craft work with a focus on the value it generates. My next post will break these values and principles down. In the meantime, I recommend you take the time to read through and internalize these Agile concepts as they will help you correct any behaviors within your organizations that don't aligh with your desired ways of working.
 
 **Understand how to BE Agile through Scrum**
 
 Now you understand Agile as an ethos, let's move on to how you can help people find their groove. This is where Scrum not only connects with, but is supposed to synergize, Agile. 
 
-We are obviously not referring to the method to restart play in Rugby. It is equally important to bust myths such as 'Scrum is when you stand up for 15 minutes'. Scrum is not about blindly following rituals, it is a framework within which you apply the Agile Values and Principles. If you focus on doing Scrum by the book without being Agile, you are 'faking' Scrum and will likely create problems for yourself and your teams. Rather than adherence to rules, Scrum's bedrock is on getting the outcome that the organization wants. 
+We are obviously not referring to the method to restart play in Rugby. It is equally important to bust myths such as 'Scrum is when you stand up for 15 minutes every day'. Scrum is not about blindly following rituals, it is a framework within which you apply the Agile Values and Principles. If you focus on doing Scrum by the book without being Agile, you are 'faking' Scrum and will likely create problems for yourself and your teams. Rather than adherence to rules, Scrum's bedrock is on getting the outcome that the organization wants. 
 
 The benefits of BEING Agile through Scrum include:
 
