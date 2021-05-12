@@ -18,17 +18,16 @@ Scrum qualifies as the prime oxymoron. It is a surprisingly easy framework to un
 
 **Understand how to BE Agile**
 
-David Marquet's video about [greatness](https://www.youtube.com/watch?v=OqmdLcyES_Q) includes a definition of leadership which I like to promote within my teams: "*embedding the capacity for greatness in the people and practices in the people and practices of an organization, and decoupling it from the personality of the leader*".
+[David Marquet](https://www.youtube.com/watch?v=OqmdLcyES_Q)'s definition of leadership is one I like to promote within my teams: "*embedding the capacity for greatness in the people and practices in the people and practices of an organization, and decoupling it from the personality of the leader*".
 
 A prime enabler of this mindset is Agile. Agile is a set of [4 values](https://agilemanifesto.org/) and [12 principles](https://agilemanifesto.org/principles.html) that invariably nurtures collaboration, empowers people to be self directed and focuses on increasing the value of the work that comes out of an organization. 
 
-Take the time to read through and internalize these concepts as they will help you correct any behaviors within your organizations that don't align with these. It may take time to detach oneself from habits and think differently about how to craft work with a focus on the value it generates.
+It may take deliberation to detach oneself from habits and think differently about how to craft work with a focus on the value it generates. I recommend you take the time to read through and internalize these Agile concepts as they will help you correct any behaviors within your organizations that don't aligh with your desired ways of working.
 
 **Understand how to BE Agile through Scrum**
 
 Now you understand the required Agile behaviors, let's move on to how you can help people find their groove. This is where Scrum not only connects with, but is supposed to synergize, Agile. is a framework within which we can apply those values and principles. 
 
-Scrum is a framework within which we can apply those values and principles to our ways of working. 
 
 
 Distance from Project Management: Disclaimer Scrum and Agile may requires a change in behavior and approach. It is important to make clear and obvious the Agile because if you focus on doing Scrum by the book without adhering to these principles, you will create problems. People won{t find their groove, things won't click, outputs will have quality issues.  If you don{t do this, you might 'fake' scrum and adding your own project management twist to it. 
