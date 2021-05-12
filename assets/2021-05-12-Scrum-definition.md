@@ -14,7 +14,7 @@ What is Scrum about anyway?
 
 Learn about Scrum and its benefits. 
 
-Scrum qualifies as the prime oxymoron. It is a surprisingly easy framework to understood yet its concepts can be difficult to put in practice. This post lists three steps that ensure organizations that wish to embrace Scrum do so correctly. 
+Scrum qualifies as the prime oxymoron. It is a surprisingly easy framework to understand yet its concepts can be difficult to put in practice. This post lists three steps that ensure organizations that wish to embrace Scrum do so correctly. 
 
 **Sprint 1 - Understand how to BE Agile**
 
