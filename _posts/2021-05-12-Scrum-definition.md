@@ -5,7 +5,7 @@ subtitle: Understanding Scrum.. by doing Scrum!
 cover-img: /assets/img/ScrumDefinition.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [Demystifying Scrum, Agile]
+tags: [Demystifying Scrum, Agile Values, Agile Principles]
 ---
 
 Scrum qualifies as the prime oxymoron. It is a surprisingly easy framework to understand yet its concepts can be difficult to put in practice. This post lists three steps that ensure organizations that wish to embrace Scrum do so correctly. 
