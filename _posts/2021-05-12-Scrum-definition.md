@@ -16,7 +16,7 @@ Scrum is a surprisingly easy framework to understand, yet its concepts can be di
 
 An enabler paramount to this mindset is Agile. Agile is a set of [4 values](https://agilemanifesto.org/) and [12 principles](https://agilemanifesto.org/principles.html) that invariably nurtures collaboration, empowers people to be self directed and focuses on increasing the value of the work that comes out of an organization. 
 
-It may take deliberation to detach oneself from habits and think differently about how to craft work with a focus on the value it generates. My next post will break these values and principles down. In the meantime, it is worth taking the time to read through and internalize these Agile concepts as they will help you correct any behaviors within your organizations that do not align with your desired ways of working.
+It may take deliberation to detach oneself from habits and think differently about how to craft work with a focus on outcomes and business impact. My next post will break these values and principles down. In the meantime, it is worth taking the time to read through and internalize these Agile concepts as they will help you correct any behaviors within your organizations that do not align with your desired ways of working.
 
 **Understand how to BE Agile through Scrum**
 
