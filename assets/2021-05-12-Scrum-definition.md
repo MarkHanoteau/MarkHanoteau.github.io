@@ -14,7 +14,7 @@ What is Scrum about anyway?
 
 Learn about Scrum and its benefits. 
 
-Scrum qualifies as the prime oxymoron. It is a surprisingly easy framework to comprehend yet its concepts can be difficult to put in practice. This post lists three steps that ensure organizations that wish to embrace Scrum do so correctly. These three paragraphs should be read as 'Sprints': concise passages that should be read in sequential order and not  
+Scrum qualifies as the prime oxymoron. It is a surprisingly easy framework to understood yet its concepts can be difficult to put in practice. This post lists three steps that ensure organizations that wish to embrace Scrum do so correctly. These three paragraphs should be read as 'Sprints': concise passages that should be read in sequential order and not skipped until fully comprehended. 
 
 
 
@@ -24,35 +24,20 @@ This post will be divided into 3 sequences. The first passage will focus on the 
 
 David Marquet's video about [greatness](https://www.youtube.com/watch?v=OqmdLcyES_Q) includes a definition of leadership which I like to promote within my teams: "*embedding the capacity for greatness in the people and practices in the people and practices of an organization, and decoupling it from the personality of the leader*".
 
-A prime enabler of this mindset is Agile. Agile is a set of [4 values](https://agilemanifesto.org/) and [12 principles](https://agilemanifesto.org/principles.html) that invariably nurtures collaboration, empowers people to be self directed and a focus on innovation and increasing the value of the work that comes out of an organization. 
+A prime enabler of this mindset is Agile. Agile is a set of [4 values](https://agilemanifesto.org/) and [12 principles](https://agilemanifesto.org/principles.html) that invariably nurtures collaboration, empowers people to be self directed and focuses on increasing the value of the work that comes out of an organization. 
 
-Take the time to read through and internalize these concepts as they will help you focus on important work
-
-It is important you really internalize these concepts and start correcting any behaviors within your organizations that don't align with these. 
-
-
- Outlines how we work together and what we decide to work on. 
-
-
-
-Scrum is a framework within which we can apply those values and principles. There is a connection and synergy with Agile.
-
-Measure the success of how Agile we are by adherence to Scrum events and rules as opposed to: are we getting the outcome that we want from having undertaken Scrum? 
-
- 
-Stop from doing agile and start being agile.
- 
- Learning loops 
- 
- Design principles that underpin work.
+Take the time to read through and internalize these concepts as they will help you correct any behaviors within your organizations that don't align with these. It takes time to detach oneself from habits and think differently about how to craft your work with a focus on the value it generates.
 
 **Sprint 2: Understand how to BE Agile through Scrum**
 
-Distance from Project Management: Disclaimer Scrum and Agile may requires a change in behavior and approach. It is important to make clear and obvious the Agile because if you focus on doing Scrum by the book without adhering to these principles, you will create problems. People won{t find their groove, things won't click, outputs will have quality issues.  If you don{t do this, you might 'fake' scrum and adding your own project management twist to it.
+Scrum is a framework within which we can apply those values and principles. There is a connection and synergy with Agile.
 
 Scrum is a framework within which we can apply those values and principles to our ways of working. 
 
-Scrum is an Agile framework that helps you think differently and craft your work with a focus on the value it generates. 
+
+Distance from Project Management: Disclaimer Scrum and Agile may requires a change in behavior and approach. It is important to make clear and obvious the Agile because if you focus on doing Scrum by the book without adhering to these principles, you will create problems. People won{t find their groove, things won't click, outputs will have quality issues.  If you don{t do this, you might 'fake' scrum and adding your own project management twist to it. 
+
+Measure the success of how Agile we are by adherence to Scrum events and rules as opposed to: are we getting the outcome that we want from having undertaken Scrum? 
 
 Imagine..
 
@@ -71,8 +56,6 @@ The essence of Scrum, driven by the Agile principles, is to iteratively self imp
 **Step 3: Understand how to DO Agile work by applying Scrum**
 
 The next paragraph is aimed at those who are interested in implementing the above value benefits within their teams. 
-
-First step is to **be** Agile in terms of mindset and culture. In order to do this, refer to the Agile manifesto to read its [4 values](https://agilemanifesto.org/) and then refer to its [12 principles](https://agilemanifesto.org/principles.html).  It is important you really internalize these concepts and start correcting any behaviors within your organizations that don't align with these. 
 
 Second step is to **do** work following Agile rituals. Multiple practices can be applied, but if passage 2 was alluring to you, I suggest you learn Scrum. This [infographic](https://www.knowledgehut.com/blog/agile/infographic-scrum-process-in-a-nutshell) is a quick and gentle snapshot initiation to Scrum's rules, roles, meetings and commitments.
 
