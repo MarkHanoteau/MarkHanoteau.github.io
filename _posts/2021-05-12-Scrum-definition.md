@@ -3,7 +3,7 @@ layout: post
 title: Demystifying Scrum
 subtitle: Understanding Scrum.. by doing Scrum! 
 cover-img: /assets/img/ScrumDefinition.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/Sprints.jpg
 share-img: /assets/img/path.jpg
 tags: [Demystifying Scrum, Agile Values, Agile Principles]
 ---
