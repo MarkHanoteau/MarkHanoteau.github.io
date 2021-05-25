@@ -9,4 +9,8 @@ tags: [Demystifying Scrum, Agile Values, Agile Principles]
 ---
 
 
-Agile is a set of four values and twelve principles that outline how we work, how we work together and what we decide to work on. 
+Agile is a set of four values and twelve principles that outline how we work, how we work together and what we decide to work on.
+
+What values and principles make the team really tick and be succesful?
+
+We need to do some planning. 
