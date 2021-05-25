@@ -15,8 +15,7 @@ What values and principles make the team really tick and be succesful?
 
 We need to do some planning. 
 
-> .. We are uncovering better ways of developing
-> .. software by doing it and helping others do it.
+> .. We are uncovering better ways of developing software by doing it and helping others do it.
 > .. Through this work we have come to value:
 
 > .. Individuals and interactions over processes and tools
