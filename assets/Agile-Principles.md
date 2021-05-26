@@ -9,11 +9,29 @@ tags: [Demystifying Scrum, Agile Values, Agile Principles]
 ---
 
 
-Agile is a set of four values and twelve principles that outline how we work, how we work together and what we decide to work on.
+Agile is a set of four values backed up by twelve principles that outline as its essence how we work, how we work together and what we decide to work on.
+
+Agile is the way of thinking. It's the mindset. 
 
 What values and principles make the team really tick and be succesful?
 
 We need to do some planning. 
+
+How can we use these values and principles to improve?
+
+being agile means that we can move quickly and break things. It means that we reduce risk to our businesses by being able to change course at the drop of a hat. It means that product development is ongoing and we’re continually improving and redefining what the product is. It means we’re delivering business value as fast as possible.
+
+Individuals and interactions over processes and tools
+If we take the first point, in my mind, that means that we should just talk to each other. It means that we shouldn’t have all the bureaucracy that comes with larger firms. We shouldn’t need to go to managers to get an approval to talk to another team. We should be able to just do it without anyone looking at you sideways. We shouldn’t rely on what’s written in JIRA when the guy who wrote the stuff in JIRA is sitting next to you.
+
+Working software over comprehensive documentation
+I know some people who love to document. They write comments in their code and the requirements lists are ten pages long. But requirements change. You don’t need to write that huge document or workflow diagram at the very start. What you thought or plan might not even be needed. That’s not to say you shouldn’t write anything — but the documentation you write should provide value to the team — something that’ll speed up development.
+
+Customer collaboration over contract negotiation
+I think again this comes down to talking with your customer rather than renegotiating terms when something in the scope changes. Your customer doesn’t necessarily have to be external. It could be your Product Owner or your stakeholders. You just need to be open and honest when communicating with them. Let them know when the scope changes or when you realise you don’t need that component you’ve been working on for a few weeks. People are understanding.
+
+Responding to change over following a plan
+We all make plans. Agile doesn’t necessarily just apply to IT. Let’s say you’re planning a wedding — the agile way. Let’s say you’ve got your wedding day. You’re planning to get married on a beach. It rains and the tide’s in. You can follow your plan — and get wet and see your set being washed away. Or-or you can respond to the change in weather and get married at your bach with the stormy beach as a scene behind your vows. It’s not what you expected — or what you originally wanted. But you got married. That’s the main thing. You don’t have to follow your original plan if things change.
 
 > .. We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:  
 
