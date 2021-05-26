@@ -50,6 +50,8 @@ Two sides of each value statements. The things on the left are valued over the t
 
 This is important, because we absolutely still want to do plenty of plannning and documenting our work or have processes. Responding to change, customer centricity, working software and individuals and interactions are just valued more. We don{t forget about the items on the right hand side. 
 
+If you have other principles assigned to each value, you are most probably also right. 
+
 Principles behind the Agile Manifesto
 
 
