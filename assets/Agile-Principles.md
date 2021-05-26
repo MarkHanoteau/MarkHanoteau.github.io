@@ -11,7 +11,11 @@ tags: [Demystifying Scrum, Agile Values, Agile Principles]
 
 Agile is a set of four values backed up by twelve principles that outline as its essence how we work, how we work together and what we decide to work on.
 
-Agile is the way of thinking. It's the mindset. 
+This is not just applicable to software. The language of the values and principles was crafted by individuals who came from the software industry back in 2001. Since then, many sectors have applies these principles from Human Resources, Marketing, Law, Accounting Data Science and Manufacturing. Feel free to remove the word software with 'achieving outcomes or delivering products or service' to take it away from the software environment to a situation that is more applicable to you. 
+
+The world is unpredictable, can{t stick to a plan for something that is no longer of value. You need to be adaptable when things change. 
+
+Agile is the way of thinking. It's an associated mindset of improving our ways of working that is critical in an ever changing world. 
 
 What values and principles make the team really tick and be succesful?
 
@@ -42,6 +46,9 @@ We all make plans. Agile doesn’t necessarily just apply to IT. Let’s say you
 
 > .. That is, while there is value in the items on the right, we value the items on the left more.
 
+Two sides of each value statements. The things on the left are valued over the things on the right. 
+
+This is important, because we absolutely still want to do plenty of plannning and documenting our work or have processes. Responding to change, customer centricity, working software and individuals and interactions are just valued more. We don{t forget about the items on the right hand side. 
 
 Principles behind the Agile Manifesto
 
