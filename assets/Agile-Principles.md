@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/Sprints.jpg
 share-img: /assets/img/path.jpg
 tags: [Demystifying Scrum, Agile Values, Agile Principles]
 ---
-
+People first mindset. Employees first, customers first.
 
 Agile is a set of four values backed up by twelve principles that outline as its essence how we work, how we work together and what we decide to work on.
 
