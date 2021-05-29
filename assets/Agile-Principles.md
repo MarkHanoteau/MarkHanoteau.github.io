@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Agile Principles
-subtitle: Agile Principles 
-cover-img: /assets/img/ScrumDefinition.jpg
-thumbnail-img: /assets/img/Sprints.jpg
+title: The Agile Manifesto
+subtitle: Agile Values and Principles 
+cover-img: /assets/img/can.jpg
+thumbnail-img: /assets/img/can.jpg
 share-img: /assets/img/path.jpg
-tags: [Demystifying Scrum, Agile Values, Agile Principles]
+tags: [Agile Manifesto, Agile Values, Agile Principles]
 ---
 Agile is a mindset that puts people first. It unleashes your employees' potential in order to benefit your customers. This is unlikely to be done by squeezing more work out of your team members but instead by creating an environment of participative leadership that autonmously removes sources of waste, dysfunctions and impediments to business value. 
 
