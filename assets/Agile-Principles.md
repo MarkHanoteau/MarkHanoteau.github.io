@@ -35,4 +35,4 @@ I think again this comes down to talking with your customer rather than renegoti
 **Responding to change over following a plan.**
 Whilst we all make plans, being agile means we are in an environment in which focused creativity flourishes and things can move quickly to improve or redefine customer solutions. The prime benefit is that risk is reduced as the transmission of new information flows quickly through the business, enabling it to change course at the drop of a hat to deliver business value as fast as possible.
 
-The values are backed up by 12 principles. I have taken the liberty to break each value down and list which principles I believe most underpin each value. As you go through my tabs, you may find other principles that support each value. Reach out to me if you do and share your thoughts. 
+The values are backed up by 12 principles. I have taken the liberty to break each value down and list which principles I believe most underpin each value. As you go through my tabs, you may find other principles that support specific values. Reach out to me if you do! I'd be interested to hear your thoughts. 
