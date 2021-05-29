@@ -26,10 +26,10 @@ The last sentence is key: you should not overlook the right side of the statemen
 
 **Individuals and interactions over processes and tools** looks to foster an environment of genuine commitment over compliance. It favors openness and transparency through conversations with each other where people can raise their concerns in a coureageous and compassionate way so that issues can be worked on together. It sets a framework whereby individuals are empowered to decide how to best move the business forward without necessarily needing managerial approval. Leaders should act as role models here. If they don't have time to talk, that behavior will likely also cascade down to their managers and team members.
 
-Working software over comprehensive documentation
+**Working software over comprehensive documentation**
 I know some people who love to document. They write comments in their code and the requirements lists are ten pages long. But requirements change. You don’t need to write that huge document or workflow diagram at the very start. What you thought or plan might not even be needed. That’s not to say you shouldn’t write anything — but the documentation you write should provide value to the team — something that’ll speed up development.
 
-Customer collaboration over contract negotiation
+**Customer collaboration over contract negotiation**
 I think again this comes down to talking with your customer rather than renegotiating terms when something in the scope changes. Your customer doesn’t necessarily have to be external. It could be your Product Owner or your stakeholders. You just need to be open and honest when communicating with them. Let them know when the scope changes or when you realise you don’t need that component you’ve been working on for a few weeks. People are understanding.
 
 **Responding to change over following a plan.**
