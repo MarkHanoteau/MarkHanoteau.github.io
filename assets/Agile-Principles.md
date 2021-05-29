@@ -24,19 +24,15 @@ So how can you help your team really tick and be succesful? The Agile Manifesto 
 
 The last sentence is important here. The right side of the statement is not forgotten. We absolutely still want to do plenty of plannning and documenting our work or have processes. Responding to change, customer centricity, working software and individuals and interactions are just valued more. 
 
+**Individuals and interactions over processes and tools** looks to foster an environment of genuine commitment over compliance. It favors openness and transparency through conversations with each other where people can raise their concerns in a coureageous and compassionate way so that issues can be worked on together. It sets a framework whereby individuals are empowered to decide how to best move the business forward without necessarily needing managerial approval. Leaders act as role models. If they don't have time to talk, that behavior will likely also cascade down to their managers and team members.
+
 We need to do some planning. 
 
 How can we use these values and principles to improve?
 
 being agile means that we can move quickly and break things. It means that we reduce risk to our businesses by being able to change course at the drop of a hat. It means that product development is ongoing and we’re continually improving and redefining what the product is. It means we’re delivering business value as fast as possible.
 
-Individuals and interactions over processes and tools
 
-Can you have 1-1 conversations with each other and raise your concerns in a courageous and compassionate way, come to some kind of agreement and be role models for your team on how to work through these issues together. Focus on what is more important to the company, be open and transparent with each other as you commit to the company goals. 
-
-If you don't have time to talk, that behavior cascades down to your managers and their team members. 
-
-If we take the first point, in my mind, that means that we should just talk to each other. It means that we shouldn’t have all the bureaucracy that comes with larger firms. We shouldn’t need to go to managers to get an approval to talk to another team. We should be able to just do it without anyone looking at you sideways. We shouldn’t rely on what’s written in JIRA when the guy who wrote the stuff in JIRA is sitting next to you.
 
 Working software over comprehensive documentation
 I know some people who love to document. They write comments in their code and the requirements lists are ten pages long. But requirements change. You don’t need to write that huge document or workflow diagram at the very start. What you thought or plan might not even be needed. That’s not to say you shouldn’t write anything — but the documentation you write should provide value to the team — something that’ll speed up development.
