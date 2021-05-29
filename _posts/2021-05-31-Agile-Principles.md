@@ -2,8 +2,8 @@
 layout: post
 title: The Agile Manifesto
 subtitle: Agile Values and Principles 
-cover-img: /assets/img/can.jpg
-thumbnail-img: /assets/img/can.jpg
+cover-img: /assets/img/Can.jpg
+thumbnail-img: /assets/img/Can.jpg
 share-img: /assets/img/path.jpg
 tags: [Agile Manifesto, Agile Values, Agile Principles]
 ---
