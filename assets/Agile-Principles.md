@@ -7,19 +7,22 @@ thumbnail-img: /assets/img/Sprints.jpg
 share-img: /assets/img/path.jpg
 tags: [Demystifying Scrum, Agile Values, Agile Principles]
 ---
-Agile is not going to work if you don't follow the Agile values. 
+Agile is a mindset that puts people first. It unleashes your employees' potential in order to benefit your customers. This is unlikely to be done by squeezing more work out of your team members but instead by creating an environment of participative leadership that autonmously removes sources of waste, dysfunctions and impediments to business value. 
 
-People first mindset. Employees first, customers first.
+Paramount to achieving these outcomes is the endorsement of the four values and twelve principles captured in the Agile Manifesto. These propositions are not just applicable to sofware and hold true if you interchange the word software with whichever term (e.g. product, service) that is relevant within your sector. The essence of the Manifesto outlines how to improve our collaborative ways of working in an ever changing world.  
+ 
+So how can you help your team really tick and be succesful? The Agile Manifesto states:
 
-Agile is a set of four values backed up by twelve principles that outline as its essence how we work, how we work together and what we decide to work on.
+> .. We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:  
 
-This is not just applicable to software. The language of the values and principles was crafted by individuals who came from the software industry back in 2001. Since then, many sectors have applies these principles from Human Resources, Marketing, Law, Accounting Data Science and Manufacturing. Feel free to remove the word software with 'achieving outcomes or delivering products or service' to take it away from the software environment to a situation that is more applicable to you. 
+> .. Individuals and interactions over processes and tools  
+> .. Working software over comprehensive documentation  
+> .. Customer collaboration over contract negotiation  
+> .. Responding to change over following a plan  
 
-The world is unpredictable, can{t stick to a plan for something that is no longer of value. You need to be adaptable when things change. 
+> .. That is, while there is value in the items on the right, we value the items on the left more.
 
-Agile is the way of thinking. It's an associated mindset of improving our ways of working that is critical in an ever changing world. 
-
-What values and principles make the team really tick and be succesful?
+The last sentence is important here. The right side of the statement is not forgotten. We absolutely still want to do plenty of plannning and documenting our work or have processes. Responding to change, customer centricity, working software and individuals and interactions are just valued more. 
 
 We need to do some planning. 
 
@@ -44,20 +47,7 @@ I think again this comes down to talking with your customer rather than renegoti
 Responding to change over following a plan
 We all make plans. Agile doesn’t necessarily just apply to IT. Let’s say you’re planning a wedding — the agile way. Let’s say you’ve got your wedding day. You’re planning to get married on a beach. It rains and the tide’s in. You can follow your plan — and get wet and see your set being washed away. Or-or you can respond to the change in weather and get married at your bach with the stormy beach as a scene behind your vows. It’s not what you expected — or what you originally wanted. But you got married. That’s the main thing. You don’t have to follow your original plan if things change.
 
-> .. We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:  
-
-> .. Individuals and interactions over processes and tools  
-> .. Working software over comprehensive documentation  
-> .. Customer collaboration over contract negotiation  
-> .. Responding to change over following a plan  
-
-> .. That is, while there is value in the items on the right, we value the items on the left more.
-
-Two sides of each value statements. The things on the left are valued over the things on the right. 
-
-This is important, because we absolutely still want to do plenty of plannning and documenting our work or have processes. Responding to change, customer centricity, working software and individuals and interactions are just valued more. We don{t forget about the items on the right hand side. 
-
-If you have other principles assigned to each value, you are most probably also right. 
+The values are backed up by 12 principles. I have taken the liberty to break each value down and list which principles I believe most underpin each value.
 
 Principles behind the Agile Manifesto
 
