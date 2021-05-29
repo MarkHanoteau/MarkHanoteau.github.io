@@ -22,9 +22,9 @@ So how can you help your team really tick and be succesful? The Agile Manifesto 
 
 > .. That is, while there is value in the items on the right, we value the items on the left more.
 
-The last sentence is important here. The right side of the statement is not forgotten. We absolutely still want to do plenty of plannning and documenting our work or have processes. Responding to change, customer centricity, working software and individuals and interactions are just valued more. 
+The last sentence is key: you should not overlook the right side of the statement. You'll still enable your work through proccesses and accelerate it using tools. You'll still need acute documentation. You absolutely still want to do plenty of plannning. Individuals and interactions, working software, customer centricity and responding to change are just valued more. 
 
-**Individuals and interactions over processes and tools** looks to foster an environment of genuine commitment over compliance. It favors openness and transparency through conversations with each other where people can raise their concerns in a coureageous and compassionate way so that issues can be worked on together. It sets a framework whereby individuals are empowered to decide how to best move the business forward without necessarily needing managerial approval. Leaders act as role models. If they don't have time to talk, that behavior will likely also cascade down to their managers and team members.
+**Individuals and interactions over processes and tools** looks to foster an environment of genuine commitment over compliance. It favors openness and transparency through conversations with each other where people can raise their concerns in a coureageous and compassionate way so that issues can be worked on together. It sets a framework whereby individuals are empowered to decide how to best move the business forward without necessarily needing managerial approval. Leaders should act as role models here. If they don't have time to talk, that behavior will likely also cascade down to their managers and team members.
 
 We need to do some planning. 
 
