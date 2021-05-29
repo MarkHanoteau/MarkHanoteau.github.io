@@ -33,10 +33,6 @@ Customer collaboration over contract negotiation
 I think again this comes down to talking with your customer rather than renegotiating terms when something in the scope changes. Your customer doesn’t necessarily have to be external. It could be your Product Owner or your stakeholders. You just need to be open and honest when communicating with them. Let them know when the scope changes or when you realise you don’t need that component you’ve been working on for a few weeks. People are understanding.
 
 **Responding to change over following a plan.**
-Whilst we all make plans, being agile means we are in an environment in which focused creativity flourishes and things can move quickly. If things need to break, Agile doesn’t necessarily just apply to IT. 
-
- It means that we reduce risk to our businesses by being able to change course at the drop of a hat. It means that product development is ongoing and we’re continually improving and redefining what the product is. It means we’re delivering business value as fast as possible.
-
-
+Whilst we all make plans, being agile means we are in an environment in which focused creativity flourishes and things can move quickly to improve or redefine customer solutions. The prime benefit is that risk is reduced as the transmission of new information flows quickly through the business, enabling it to change course at the drop of a hat to deliver business value as fast as possible.
 
 The values are backed up by 12 principles. I have taken the liberty to break each value down and list which principles I believe most underpin each value. As you go through my tabs, you may find other principles that support each value. Reach out to me if you do and share your thoughts. 
