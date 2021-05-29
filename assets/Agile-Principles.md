@@ -7,6 +7,8 @@ thumbnail-img: /assets/img/Sprints.jpg
 share-img: /assets/img/path.jpg
 tags: [Demystifying Scrum, Agile Values, Agile Principles]
 ---
+Agile is not going to work if you don't follow the Agile values. 
+
 People first mindset. Employees first, customers first.
 
 Agile is a set of four values backed up by twelve principles that outline as its essence how we work, how we work together and what we decide to work on.
@@ -26,6 +28,11 @@ How can we use these values and principles to improve?
 being agile means that we can move quickly and break things. It means that we reduce risk to our businesses by being able to change course at the drop of a hat. It means that product development is ongoing and we’re continually improving and redefining what the product is. It means we’re delivering business value as fast as possible.
 
 Individuals and interactions over processes and tools
+
+Can you have 1-1 conversations with each other and raise your concerns in a courageous and compassionate way, come to some kind of agreement and be role models for your team on how to work through these issues together. Focus on what is more important to the company, be open and transparent with each other as you commit to the company goals. 
+
+If you don't have time to talk, that behavior cascades down to your managers and their team members. 
+
 If we take the first point, in my mind, that means that we should just talk to each other. It means that we shouldn’t have all the bureaucracy that comes with larger firms. We shouldn’t need to go to managers to get an approval to talk to another team. We should be able to just do it without anyone looking at you sideways. We shouldn’t rely on what’s written in JIRA when the guy who wrote the stuff in JIRA is sitting next to you.
 
 Working software over comprehensive documentation
