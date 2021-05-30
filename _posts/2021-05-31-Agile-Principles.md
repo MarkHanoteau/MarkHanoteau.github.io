@@ -32,10 +32,9 @@ In case the values don't serve as sufficient food for thought, they are backed u
 
 <details>
   <summary>Click to discover Individuals and Interactions' supporting Principles</summary>
-  
+<p>
 | Key Principles | Rationale for leaders |
 |:------|:------|
-<p>
 | Business people and developers must work together daily throughout the project.<img width=900/>| Favor collective intelligence over silo comfort through constant collaboration. Simple communication can prevent small issues from becoming big issues. When developers liaise with the business, they open the door to deciding what work to take on rather than having work thrown over the wall to them.|
 | The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.| Nurture cohesive partnerships by bringing together contrasting experiences and letting ideas flow. Opportunities can be uncovered even in 5-10 minute conversations. Note how you can use tools to still have effective remote face to face interactions.|
 | Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.| This goes beyond mentoring. Trust that each individual will do their best, align your team to the greater goal and inspire them through purpose. View your team members as people, not resources, and create a culture that synergizes diversity of thought.|
