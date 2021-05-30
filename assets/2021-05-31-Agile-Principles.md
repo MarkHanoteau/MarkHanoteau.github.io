@@ -33,3 +33,8 @@ The last sentence is key: you should not overlook the right side of the statemen
 **Responding to change over following a plan** creates an environment in which focused creativity flourishes over status quo processes. Things should move quickly to improve. Customer solutions should be punctually redefined to respond to market trends. While we all make plans, the prime benefit of being able to pivot is that risk is reduced. As the transmission of new information flows through the business, it is important that projects have leeway to change course at the drop of a hat to deliver business value as fast as possible.
 
 In case the values don't serve as sufficient food for thought, they are backed up by 12 principles. The tabs below break each value down and list which principles I believe most underpin each value. You may find other principles that support specific values. I'd love to hear your thoughts so reach out to me if you do. 
+
+# [Tab Name](#tab/tab-id-1)
+Content1 ...
+# [Tab Name](#tab/tab-id-2)
+Content2 ...
