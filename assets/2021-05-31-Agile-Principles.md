@@ -49,17 +49,13 @@ In case the values don't serve as sufficient food for thought, they are backed u
 | Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.| Break down complex problems into smaller and more achievable yet effective objectives which can be rapidly provided to the market.|
 | The best architectures, requirements, and designs emerge from self-organizing teams.| Let the team that is closest to the work self-manage. Avoid making all the decisions and refrain from dividing teams as the most impactful solution will be a product multiple thinkers, not one. Help promote good design by keeping things simple as an enhancer to agility.|
 
-### Customer Collaboration
-
 | Key Principles | Rationale for leaders |
 |:------|:------|
-| Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.<img width=100/>| Embrace adaptation as you serve your customers with a focus on their convenience.|
+| Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.<img width=90/>| Embrace adaptation as you serve your customers with a focus on their convenience.|
 | Business people and developers must work together daily throughout the project.| Achieve a holistic outlook of complex problems and harness creative solutions through the personal impact of multiple perspectives.|
 | Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.| Create a participative culture where individuals are self driven, remove bottlenecks and support each other to boost the team performance towards a common shared vision.|
 | Working software is the primary measure of progress.| Ensure your measurement of success is right. Focus on outcomes rather than outputs or activities.|
 | Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.  | Revolve everything you do around delighting your customers. Gather voice of customer and other customer centric product / service usage indicators to help you understand and finetune the value of your offerings.|
-
-### Responding to Change
 
 | Key Principles | Rationale for leaders |
 |:------|:------|
