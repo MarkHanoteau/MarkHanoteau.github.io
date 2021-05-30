@@ -36,9 +36,17 @@ In case the values don't serve as sufficient food for thought, they are backed u
 
 ### Individuals and Interactions
 
+<style>
+table th:first-of-type {
+    width: 50%;
+}
+table th:nth-of-type(2) {
+    width: 50%;
+}
+</style>
+
 | Key Principles | Rationale for leaders |
 |:------|:------|
-|<img width=200/>|<img width=200/>|
 | Business people and developers must work together daily throughout the project.| Favor collective intelligence over silo comfort through constant collaboration. Simple communication can prevent small issues from becoming big issues. When developers liaise with the business, they open the door to deciding what work to take on rather than having work thrown over the wall to them.|
 | The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.| Nurture cohesive partnerships by bringing together contrasting experiences and letting ideas flow. Opportunities can be uncovered even in 5-10 minute conversations. Note how you can use tools to still have effective remote face to face interactions.|
 | Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.| This goes beyond mentoring. Trust that each individual will do their best, align your team to the greater goal and inspire them through purpose. View your team members as people, not resources, and create a culture that synergizes diversity of thought.|
@@ -46,9 +54,17 @@ In case the values don't serve as sufficient food for thought, they are backed u
 
 ### Working Software
 
+<style>
+table th:first-of-type {
+    width: 50%;
+}
+table th:nth-of-type(2) {
+    width: 50%;
+}
+</style>
+
 | Key Principles | Rationale for leaders |
 |:------|:------|
-|<img width=200/>|<img width=200/>|
 | Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.| Establish customer centricity as your top priority and connect social impact with business impact as you deliver to market.|
 | Simplicity--the art of maximizing the amount of work not done--is essential.| Streamline (documentation) practices in order to further work and conversations towards the desired goal - Operate in a way that things will change and don't over-document items that will change.|
 | Working software is the primary measure of progress.| Prioritize functioning solutions that are either utilized or needed by the market. Being empirical (seeing your reality objectively) will help you enable competitive advantage.|
@@ -57,9 +73,17 @@ In case the values don't serve as sufficient food for thought, they are backed u
 
 ### Customer Collaboration
 
+<style>
+table th:first-of-type {
+    width: 50%;
+}
+table th:nth-of-type(2) {
+    width: 50%;
+}
+</style>
+
 | Key Principles | Rationale for leaders |
 |:------|:------|
-|<img width=200/>|<img width=200/>|
 | Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.| Embrace adaptation as you serve your customers with a focus on their convenience.|
 | Business people and developers must work together daily throughout the project.| Achieve a holistic outlook of complex problems and harness creative solutions through the personal impact of multiple perspectives.|
 | Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.| Create a participative culture where individuals are self driven, remove bottlenecks and support each other to boost the team performance towards a common shared vision.|
@@ -68,9 +92,17 @@ In case the values don't serve as sufficient food for thought, they are backed u
 
 ### Responding to Change
 
+<style>
+table th:first-of-type {
+    width: 50%;
+}
+table th:nth-of-type(2) {
+    width: 50%;
+}
+</style>
+
 | Key Principles | Rationale for leaders |
 |:------|:------|
-|<img width=200/>|<img width=200/>|
 | Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.| Encourage change, pivot to increase cycle times where possible and support creativity and innovation. |
 | Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.| Solve customer pain-points quickly and incrementally before your competitors provide better choices.|
 | Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.| Delivering often builds trust and ensures experiments and innovations are either quickly validated or discarded.|
