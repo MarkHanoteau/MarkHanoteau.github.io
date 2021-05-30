@@ -32,4 +32,4 @@ The last sentence is key: you should not overlook the right side of the statemen
 
 **Responding to change over following a plan.** creates an environment in which focused creativity flourishes over status quo processes and where things can move quickly to improve or redefine customer solutions to respond to market changes. While we all make plans, the prime benefit of being able to pivot is that risk is reduced as the transmission of new information flows quickly through the business, enabling it to change course at the drop of a hat to deliver business value as fast as possible.
 
-The values are backed up by 12 principles. The tabs below break each value down and list which principles I believe most underpin each value. You may find other principles that support specific values. Reach out to me if you do! I'd be interested to hear your thoughts. 
+The values are backed up by 12 principles. The tabs below break each value down and list which principles I believe most underpin each value. You may find other principles that support specific values. I'd love to hear your thoughts so reach out to me if you do. 
