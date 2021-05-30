@@ -43,7 +43,7 @@ In case the values don't serve as sufficient food for thought, they are backed u
 
 | Key Principles | Rationale for leaders |
 |:------|:------|
-| Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.<img width=565/>| Establish customer centricity as your top priority and connect social impact with business impact as you deliver to market.|
+| Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.<img width=570/>| Establish customer centricity as your top priority and connect social impact with business impact as you deliver to market.|
 | Simplicity--the art of maximizing the amount of work not done--is essential.| Streamline (documentation) practices in order to further work and conversations towards the desired goal. Operate in a way that things will change and don't over-document items that will change.|
 | Working software is the primary measure of progress.| Prioritize functioning solutions that are either utilized or needed by the market. Being empirical (seeing your reality objectively) will help you enable competitive advantage.|
 | Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.| Break down complex problems into smaller and more achievable yet effective objectives which can be rapidly provided to the market.|
