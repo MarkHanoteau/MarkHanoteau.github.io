@@ -53,7 +53,7 @@ In case the values don't serve as sufficient food for thought, they are backed u
 
 | Key Principles | Rationale for leaders |
 |:------|:------|
-| Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.| Embrace adaptation as you serve your customers with a focus on their convenience.|
+| Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.<img width=800/>| Embrace adaptation as you serve your customers with a focus on their convenience.|
 | Business people and developers must work together daily throughout the project.| Achieve a holistic outlook of complex problems and harness creative solutions through the personal impact of multiple perspectives.|
 | Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.| Create a participative culture where individuals are self driven, remove bottlenecks and support each other to boost the team performance towards a common shared vision.|
 | Working software is the primary measure of progress.| Ensure your measurement of success is right. Focus on outcomes rather than outputs or activities.|
