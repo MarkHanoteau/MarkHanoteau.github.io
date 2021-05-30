@@ -51,7 +51,7 @@ In case the values don't serve as sufficient food for thought, they are backed u
 
 | Key Principles | Rationale for leaders |
 |:------|:------|
-| Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.<img width=98/>| Embrace adaptation as you serve your customers with a focus on their convenience.|
+| Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.<img width=96/>| Embrace adaptation as you serve your customers with a focus on their convenience.|
 | Business people and developers must work together daily throughout the project.| Achieve a holistic outlook of complex problems and harness creative solutions through the personal impact of multiple perspectives.|
 | Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.| Create a participative culture where individuals are self driven, remove bottlenecks and support each other to boost the team performance towards a common shared vision.|
 | Working software is the primary measure of progress.| Ensure your measurement of success is right. Focus on outcomes rather than outputs or activities.|
@@ -59,7 +59,7 @@ In case the values don't serve as sufficient food for thought, they are backed u
 
 | Key Principles | Rationale for leaders |
 |:------|:------|
-| Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.| Encourage change, pivot to increase cycle times where possible and support creativity and innovation.<img width=1000/> |
+| Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.| Encourage change, pivot to increase cycle times where possible and support creativity and innovation.<img width=950/> |
 | Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.| Solve customer pain-points quickly and incrementally before your competitors provide better choices.|
 | Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.| Delivering often builds trust and ensures experiments and innovations are either quickly validated or discarded.|
 | Business people and developers must work together daily throughout the project.| Changes come from demos and interactions and these short feedback loops can reduce risk as well as the impact of change.|
