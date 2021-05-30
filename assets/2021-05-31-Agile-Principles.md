@@ -31,7 +31,7 @@ In case the values don't serve as sufficient food for thought, they are backed u
 **Individuals and interactions over processes and tools** looks to foster an environment of genuine commitment over compliance. It doesn't let teams wrap themselves around a tool. It favors openness and transparency through conversations with each other where people can raise their concerns in a coureageous and compassionate way so that issues can be worked on together. It sets a framework whereby individuals are empowered to decide how to best move the business forward without necessarily needing managerial approval. Leaders should act as role models here. If they don't have time to talk, if they follow prescriptive processes without taking a step back and looking at the bigger picture, that behavior will likely also cascade down to their managers and team members.
 
 <details>
-  <summary>Click here for Individuals and Interactions' supporting Principles</summary>
+  <summary>Click to discover Individuals and Interactions' supporting Principles</summary>
   
 | Key Principles | Rationale for leaders |
 |:------|:------|
@@ -44,7 +44,7 @@ In case the values don't serve as sufficient food for thought, they are backed u
 **Working software over comprehensive documentation** where 'software' can be substituted for customer solutions. Being relevant in your target market is single biggest measure of success and what you should value the most. Documentation should still happen in a manner that provides value to your team. The Agile practices tend to leverage documentation to ensure everyone is on the same page. One of Scrum's pillar is transparency, where the project goal and upcoming priorities must be available to all stakeholders at all times to enable close inspection and adaptation. Likewise, Kanban at its core visualizes how value flows through an organization's system or process to help identify improvement opportunities. Both practices centre their documentation around progress towards strategic goals rather than going overboard with tactical tracking of activity (such as the number of completed tasks per person/team/department).
 
 <details>
-  <summary>Click here for working software's supporting Principles</summary>
+  <summary>Click to discover working software's supporting Principles</summary>
   
 | Key Principles | Rationale for leaders |
 |:------|:------|
@@ -58,7 +58,7 @@ In case the values don't serve as sufficient food for thought, they are backed u
 **Customer collaboration over contract negotiation** encourages open and honest lines of communication with your customer. Whether that customer is external or an internal stakeholder, the feedback should flow in terms of product usage and value. Agreement on time and budget is still of absolute importance. However, there should be room to act on market indicators. If the scope of requirements is changing, the business shouldn't by trapped by mandates or have no other choice but to renegotiate terms. Rather than signing off scoped plans and working harder to get things moving, organizations can use product owners to analyze what actions are most appropriate based on what is currently known from the market. Product Owners collaborate with both the customer and development team to quickly deliver on the slices most valuable to customers. 
 
 <details>
-  <summary>Click here for customer collaboration's supporting Principles</summary>
+  <summary>Click to discover customer collaboration's supporting Principles</summary>
   
 | Key Principles | Rationale for leaders |
 |:------|:------|
@@ -72,7 +72,7 @@ In case the values don't serve as sufficient food for thought, they are backed u
 **Responding to change over following a plan** creates an environment in which focused creativity flourishes over status quo processes. Things should move quickly to improve. Customer solutions should be punctually redefined to respond to market trends. While we all make plans, the prime benefit of being able to pivot is that risk is reduced. As the transmission of new information flows through the business, it is important that projects have leeway to change course at the drop of a hat to deliver business value as fast as possible.
 
 <details>
-  <summary>Click here for responding to change's supporting Principles</summary>
+  <summary>Click to discover responding to change's supporting Principles</summary>
   
 | Key Principles | Rationale for leaders |
 |:------|:------|
