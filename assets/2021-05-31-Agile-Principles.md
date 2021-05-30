@@ -36,15 +36,6 @@ In case the values don't serve as sufficient food for thought, they are backed u
 
 ### Individuals and Interactions
 
-<style>
-table th:first-of-type {
-    width: 50%;
-}
-table th:nth-of-type(2) {
-    width: 50%;
-}
-</style>
-
 | Key Principles | Rationale for leaders |
 |:------|:------|
 | Business people and developers must work together daily throughout the project.| Favor collective intelligence over silo comfort through constant collaboration. Simple communication can prevent small issues from becoming big issues. When developers liaise with the business, they open the door to deciding what work to take on rather than having work thrown over the wall to them.|
@@ -53,15 +44,6 @@ table th:nth-of-type(2) {
 | At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.| Advocate courage and respect to empower inspection and adaptation opportunities. Implement a sustainable work pace as well as feedback loops that allows your team to focus on and improve processes and behaviors that matter most.|                                                                        |
 
 ### Working Software
-
-<style>
-table th:first-of-type {
-    width: 50%;
-}
-table th:nth-of-type(2) {
-    width: 50%;
-}
-</style>
 
 | Key Principles | Rationale for leaders |
 |:------|:------|
@@ -73,15 +55,6 @@ table th:nth-of-type(2) {
 
 ### Customer Collaboration
 
-<style>
-table th:first-of-type {
-    width: 50%;
-}
-table th:nth-of-type(2) {
-    width: 50%;
-}
-</style>
-
 | Key Principles | Rationale for leaders |
 |:------|:------|
 | Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.| Embrace adaptation as you serve your customers with a focus on their convenience.|
@@ -91,15 +64,6 @@ table th:nth-of-type(2) {
 | Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.  | Revolve everything you do around delighting your customers. Gather voice of customer and other customer centric product / service usage indicators to help you understand and finetune the value of your offerings.|
 
 ### Responding to Change
-
-<style>
-table th:first-of-type {
-    width: 50%;
-}
-table th:nth-of-type(2) {
-    width: 50%;
-}
-</style>
 
 | Key Principles | Rationale for leaders |
 |:------|:------|
