@@ -34,4 +34,4 @@ The last sentence is key: you should not overlook the right side of the statemen
 
 In case the values don't serve as sufficient food for thought, they are backed up by 12 principles. The tabs below break each value down and list which principles I believe most underpin each value. You may find other principles that support specific values. I'd love to hear your thoughts so reach out to me if you do. 
 
-
+<a href="./assets/Principles_breakdown.html" target="_top">Download Page</a>
