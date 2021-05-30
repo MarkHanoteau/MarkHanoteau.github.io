@@ -76,8 +76,8 @@ In case the values don't serve as sufficient food for thought, they are backed u
   
 | Key Principles | Rationale for leaders |
 |:------|:------|
-| Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.<img width=110/>| Encourage change, pivot to increase cycle times where possible and support creativity and innovation.|
+| Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.| Encourage change, pivot to increase cycle times where possible and support creativity and innovation.|
 | Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.| Solve customer pain-points quickly and incrementally before your competitors provide better choices.|
 | Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.| Delivering often builds trust and ensures experiments and innovations are either quickly validated or discarded.|
-| Business people and developers must work together daily throughout the project.| Changes come from demos and interactions and these short feedback loops can reduce risk as well as the impact of change.|
+| Business people and developers must work together daily throughout the project.| Changes come from demos and interactions and these short feedback loops can reduce risk as well as the impact of change.<img width=590/>|
 </details>
