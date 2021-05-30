@@ -43,7 +43,7 @@ In case the values don't serve as sufficient food for thought, they are backed u
 
 | Key Principles | Rationale for leaders |
 |:------|:------|
-| Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.<img width=570/>| Establish customer centricity as your top priority and connect social impact with business impact as you deliver to market.|
+| Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.<img width=573/>| Establish customer centricity as your top priority and connect social impact with business impact as you deliver to market.|
 | Simplicity--the art of maximizing the amount of work not done--is essential.| Streamline (documentation) practices in order to further work and conversations towards the desired goal. Operate in a way that things will change and don't over-document items that will change.|
 | Working software is the primary measure of progress.| Prioritize functioning solutions that are either utilized or needed by the market. Being empirical (seeing your reality objectively) will help you enable competitive advantage.|
 | Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.| Break down complex problems into smaller and more achievable yet effective objectives which can be rapidly provided to the market.|
@@ -51,7 +51,7 @@ In case the values don't serve as sufficient food for thought, they are backed u
 
 | Key Principles | Rationale for leaders |
 |:------|:------|
-| Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.<img width=90/>| Embrace adaptation as you serve your customers with a focus on their convenience.|
+| Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.<img width=98/>| Embrace adaptation as you serve your customers with a focus on their convenience.|
 | Business people and developers must work together daily throughout the project.| Achieve a holistic outlook of complex problems and harness creative solutions through the personal impact of multiple perspectives.|
 | Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.| Create a participative culture where individuals are self driven, remove bottlenecks and support each other to boost the team performance towards a common shared vision.|
 | Working software is the primary measure of progress.| Ensure your measurement of success is right. Focus on outcomes rather than outputs or activities.|
@@ -59,7 +59,7 @@ In case the values don't serve as sufficient food for thought, they are backed u
 
 | Key Principles | Rationale for leaders |
 |:------|:------|
-| Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.| Encourage change, pivot to increase cycle times where possible and support creativity and innovation.<img width=900/> |
+| Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.| Encourage change, pivot to increase cycle times where possible and support creativity and innovation.<img width=1000/> |
 | Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.| Solve customer pain-points quickly and incrementally before your competitors provide better choices.|
 | Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.| Delivering often builds trust and ensures experiments and innovations are either quickly validated or discarded.|
 | Business people and developers must work together daily throughout the project.| Changes come from demos and interactions and these short feedback loops can reduce risk as well as the impact of change.|
