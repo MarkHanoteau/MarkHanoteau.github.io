@@ -48,4 +48,4 @@ The Agile Manifesto values covered in [Part 1](https://markhanoteau.github.io/20
 | Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.| Delivering often builds trust and ensures experiments and innovations are either quickly validated or discarded.|
 | Business people and developers must work together daily throughout the project.| Changes come from demos and interactions and these short feedback loops can reduce risk as well as the impact of change.<img width=574/>|
 
-You may find other principles that support specific values. I'd love to hear your thoughts so reach out to me if you do.
+You may find other principles that support specific values. I would love to hear your thoughts so reach out to me if you do.
