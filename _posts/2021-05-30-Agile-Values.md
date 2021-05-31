@@ -4,7 +4,7 @@ title: The Agile Manifesto
 subtitle: Agile Values and Principles Part 1 
 cover-img: /assets/img/Manifesto.png
 thumbnail-img: /assets/img/Manifesto.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/Manifesto.png
 tags: [Agile Manifesto, Agile Values, Agile Principles]
 ---
 Agile is a mindset that puts people first. It unleashes your employees' potential in order to benefit your customers. This is unlikely to be done by squeezing more work out of your team members but instead by creating an environment of participative leadership that autonomously removes sources of waste, dysfunctions and impediments to business value. 
