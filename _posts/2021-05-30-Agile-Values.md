@@ -9,7 +9,7 @@ tags: [Agile Manifesto, Agile Values, Agile Principles]
 ---
 Agile is a mindset that puts people first. It unleashes your employees' potential in order to benefit your customers. This is unlikely to be done by squeezing more work out of your team members but instead by creating an environment of participative leadership that autonomously removes sources of waste, dysfunctions and impediments to business value. 
 
-Paramount to achieving these outcomes is the endorsement of the four values and twelve principles captured in the Agile Manifesto. These propositions are not just applicable to sofware and hold true if you interchange the word software with whichever term (e.g. product, service) you find most relevant for your sector. The essence of the Manifesto outlines how to improve our collaborative ways of working in an ever changing world.  
+Paramount to achieving these outcomes is the endorsement of the four values and twelve principles captured in the [Agile Manifesto](https://agilemanifesto.org/). These propositions are not just applicable to sofware and hold true if you interchange the word software with whichever term (e.g. product, service) you find most relevant for your sector. The essence of the Manifesto outlines how to improve our collaborative ways of working in an ever changing world.  
  
 So how can you help your team really tick and be succesful? The Agile Manifesto states:
 
