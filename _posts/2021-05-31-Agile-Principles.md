@@ -7,11 +7,8 @@ thumbnail-img: /assets/img/Can.jpg
 share-img: /assets/img/path.jpg
 tags: [Agile Manifesto, Agile Values, Agile Principles]
 ---
-Agile is a mindset that puts people first. It unleashes your employees' potential in order to benefit your customers. This is unlikely to be done by squeezing more work out of your team members but instead by creating an environment of participative leadership that autonomously removes sources of waste, dysfunctions and impediments to business value. 
 
-Paramount to achieving these outcomes is the endorsement of the four values and twelve principles captured in the Agile Manifesto. These propositions are not just applicable to sofware and hold true if you interchange the word software with whichever term (e.g. product, service) you find most relevant for your sector. The essence of the Manifesto outlines how to improve our collaborative ways of working in an ever changing world.  
-
-In case the values don't serve as sufficient food for thought, they are backed up by 12 principles. The tabs below break each value down and list which principles I believe most underpin each value. You may find other principles that support specific values. I'd love to hear your thoughts so reach out to me if you do.
+The Agile Manifesto values are backed up by [12 Agile principles](http://agilemanifesto.org/principles.html). The tables below break each value down and list which principles I believe most underpin each value.
 
 **Individuals and interactions over processes and tools** 
 
@@ -50,3 +47,5 @@ In case the values don't serve as sufficient food for thought, they are backed u
 | Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.| Solve customer pain-points quickly and incrementally before your competitors provide better choices.|
 | Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.| Delivering often builds trust and ensures experiments and innovations are either quickly validated or discarded.|
 | Business people and developers must work together daily throughout the project.| Changes come from demos and interactions and these short feedback loops can reduce risk as well as the impact of change.<img width=574/>|
+
+You may find other principles that support specific values. I'd love to hear your thoughts so reach out to me if you do.
