@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [Agile Manifesto, Agile Values, Agile Principles]
 ---
 
-The Agile Manifesto values are backed up by [12 Agile principles](http://agilemanifesto.org/principles.html). The tables below break each value down and list which principles I believe most underpin each value.
+The Agile Manifesto values covered in [Part 1](https://markhanoteau.github.io/2021-05-30-Agile-Values/) are backed up by [12 Agile principles](http://agilemanifesto.org/principles.html) that help instill agile thinking. The tables below break each value down by listing which principles I believe most underpin each value along with a review of how leaders may put these into practice to benefit their companies.
 
 **Individuals and interactions over processes and tools** 
 
