@@ -25,7 +25,7 @@ The Agile Manifesto values covered in [Part 1](https://markhanoteau.github.io/20
 |:------|:------|
 | Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.<img width=573/>| Establish customer centricity as your top priority and connect social impact with business impact as you deliver to market.|
 | Simplicity--the art of maximizing the amount of work not done--is essential.| Streamline (documentation) practices in order to further work and conversations towards the desired goal. Operate in a way that things will change and don't over-document items that will change.|
-| Working software is the primary measure of progress.| Prioritize functioning solutions that are either utilized or needed by the market. Being empirical (seeing your reality objectively) will help you enable competitive advantage.|
+| Working software is the primary measure of progress.| Prioritize functioning solutions that are either utilized or needed by the market. Being empirical - seeing your reality objectively - will help you enable competitive advantage.|
 | Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.| Break down complex problems into smaller and more achievable yet effective objectives which can be rapidly provided to the market.|
 | The best architectures, requirements, and designs emerge from self-organizing teams.| Let the team that is closest to the work self-manage. Avoid making all the decisions and refrain from dividing teams as the most impactful solution will be a product multiple thinkers, not one. Help promote good design by keeping things simple as an enhancer to agility.|
 
