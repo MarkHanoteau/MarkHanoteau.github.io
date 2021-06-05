@@ -28,3 +28,5 @@ Everyone has different ideas, preferences, and experiences when it comes to doin
 What to do? Get everyone, all the way up to the sponsors, into a meeting early on. In that meeting, help folks to articulate their beliefs about the work, to agree on a shared narrative, and to identify the few values most likely to achieve the objectives given the beliefs. And finally, despite personal concern or discomfort, to mutually commit to abide by those choices.
 
 This simple process drives intentional, shared alignment to an explicit mind-set. For the investment of only a few hours, you’ll maximize the team’s chance of succeeding together.
+
+https://www.3pvantage.com/resources/3PVantage-GilBroza-IntentionalMindset-Poster.pdf
