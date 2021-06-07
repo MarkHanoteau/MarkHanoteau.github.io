@@ -1,3 +1,5 @@
+How do you scale leadership without adding boxes on the org chart?
+
 Teams and organizations depend on people-first leadership for real Agility. Reflect for a moment: How would you characterize the approach to leadership in your organization?
 
 Over the years, a certain model of Agile leadership has evolved. It is based on the servant leadership approach, which realizes that it’s complex human beings (not controllable “resources”) who produce business results.
@@ -28,3 +30,5 @@ Over-optimizing for a team can sub-optimize for the organization.
 Put another way: don’t just think about a group of individuals performing work. Think of leadership as enabling an entire complex human system inside a bigger complex context.
 
 This expanded perspective will help you rethink roles and the needs fulfilled by leadership. It reframes team-level leadership as enabling real teamwork, among willing participants, connected to the larger dynamic and purpose. It focuses mid-level and senior leaders on enabling larger groups’ culture and systems. These leaders are definitely not servants, but leaders who focus on others before themselves and serve the greater whole.
+
+
