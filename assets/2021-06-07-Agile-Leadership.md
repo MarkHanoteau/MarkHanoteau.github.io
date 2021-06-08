@@ -8,6 +8,8 @@ share-img: /assets/img/Servant_Leadership.jpg
 tags: [Agile Manifesto, Agile Values, Agile Principles]
 ---
 
+How do you respond when your team members approach you with an issue? Do you solve the problem for them? Do you hint at the solution with guided questions?  guide them  your 
+
 http://roneringa.com/leading-scrum-teams-to-maturity/
 
 To get the best out of your business, you need to get the best out of your people. 
