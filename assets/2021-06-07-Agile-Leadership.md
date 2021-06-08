@@ -1,17 +1,26 @@
 ---
 layout: post
 title: The Agile Manifesto
-subtitle: Agile Values and Principles Part 2 
+subtitle: The present and future benefits of Servant Leadership
 cover-img: /assets/img/Servant_Leadership.jpg
 thumbnail-img: /assets/img/Servant_Leadership.jpg
 share-img: /assets/img/Servant_Leadership.jpg
 tags: [Agile Manifesto, Agile Values, Agile Principles]
 ---
-https://www.scrum.org/professional-scrum-competencies/developing-people-and-teams
+
+http://roneringa.com/leading-scrum-teams-to-maturity/
+
+To get the best out of your business, you need to get the best out of your people. 
+People being the presiding factor to business success is a cliche that made both David Brent's and Michael Scott's version of the office. 
+
+Businesses that identify humans as the presiding factor that unleashes business success will want a to burgeon it. [David Marquet](https://www.youtube.com/watch?v=OqmdLcyES_Q)'s definition of leadership, "*embedding the capacity for greatness in the people and practices of an organization and decoupling it from the personality of the leader*, indicates . By putting people first, Agile unleashes this mindset but also depends on it for its survival. 
+
+Agility requires empowering teams and helping them make decisions on their own, learning from their experiences as they go. 
+
+ Teams reach goals that help their organizations succeed in the marketplace.  sense of purpose (professional and personal) - 
+What does it mean for a great Team to have a sense of purpose?
 
 How do you scale leadership without adding boxes on the org chart?
-
-Teams and organizations depend on people-first leadership for real Agility. Reflect for a moment: How would you characterize the approach to leadership in your organization?
 
 Over the years, a certain model of Agile leadership has evolved. It is based on the servant leadership approach, which realizes that it’s complex human beings (not controllable “resources”) who produce business results.
 
