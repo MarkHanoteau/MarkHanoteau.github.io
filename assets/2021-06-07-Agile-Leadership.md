@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/Servant_Leadership.jpg
 share-img: /assets/img/Servant_Leadership.jpg
 tags: [Agile Manifesto, Agile Values, Agile Principles]
 ---
+https://www.scrum.org/professional-scrum-competencies/developing-people-and-teams
 
 How do you scale leadership without adding boxes on the org chart?
 
