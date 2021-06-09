@@ -22,6 +22,8 @@ As I prepared for the Professional Agile Leadership certification, I came across
 
 ![image](/assets/img/Servant_Leadership2.PNG)
 
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
 
 
 http://roneringa.com/leading-scrum-teams-to-maturity/
