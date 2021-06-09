@@ -20,9 +20,7 @@ Agile leadership burgeons this perspective. In turn, it depends on people-first 
 
 As I prepared for the Professional Agile Leadership certification, I came across this [blog](https://www.scrum.org/resources/blog/business-agility) which helps explain how servant leadership fits into organizational structures. 
 
-![image](/assets/img/Servant_Leadership2.PNG)
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![ServantLeadership](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/eng_acm_traditional_vs_agile.jpg)
 
 
 
