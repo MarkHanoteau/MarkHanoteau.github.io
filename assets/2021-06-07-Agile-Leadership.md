@@ -8,13 +8,17 @@ share-img: /assets/img/Servant_Leadership.jpg
 tags: [Agile Manifesto, Agile Values, Agile Principles]
 ---
 
-Turn self-managing teams to your advantage. 
+Turn self-managing teams to your advantage by enabling people to do their best.
 
 Are you happy with the extent your team depends on you to move things forward? How do your team members feel about being (un)empowered to make decisions? 
 
-Let's explore the invirgorating benefit of implementing a framework where each individual has controlled room to make decisions on their own and learn from their experiences as they go. To get the best out of your business, you need to get the best out of your people. An obvious way to accomplish this is by unleashing the thinking potential of your employees. This, in turn, allows you to spend most of your time delineating strategy rather than helping your team with tactical matters, ensuring your team has a real sense of purpose on top of their autonomy. 
+Let's explore the invirgorating benefit of implementing a framework where each individual has controlled room to make decisions on their own and learn from their experiences as they go. To get the best out of your business, you need to get the best out of your people. An obvious way to accomplish this rationale is by unleashing the thinking potential of your employees. The advantage here is that these individuals are more likely to be engaged on their own ideas rather than anything imposed on them, often leading them to go beyond the call of duty. In addition, this allows you to spend most of your time delineating strategy rather than helping your team with tactical matters, ensuring your team has a real sense of purpose on top of their autonomy. Autonomy comes with a catch: it needs to be balanced with accountability. Whilst it makes sense for those closest to the work to make most of the decisions, there is also no excuse for them to not make their progress transparent. 
 
-Agile not only burgeons this perspective for leaders. In turn, it depends on people-first leadership for its survival. 
+Agile leadership burgeons this perspective. In turn, it depends on people-first leadership for its survival. It calls this approach servant leadership, a style being practiced in some of the top-ranking companies [due to its success](https://journals.sagepub.com/doi/10.1177/107179190200900205). 
+
+As I prepared for the Professional Agile Leadership certification, I came across this [blog](https://www.scrum.org/resources/blog/business-agility) which helps explain how servant leadership fits into organizational structures. 
+
+
 
 
 
@@ -22,15 +26,6 @@ http://roneringa.com/leading-scrum-teams-to-maturity/
 
 
 How do you scale leadership without adding boxes on the org chart?
-
-Over the years, a certain model of Agile leadership has evolved. It is based on the servant leadership approach, which realizes that it’s complex human beings (not controllable “resources”) who produce business results.
-
-Several beliefs lie at the heart of servant leadership:
-People’s engagement is voluntary, and they need some autonomy.
-People need purpose, which should be meaningful to them.
-People take better action on ideas of their own.
-Those closest to the work should make most of the decisions.
-When leaders create environments and systems that respect these beliefs, people can do their best work in service of the organization. This thinking is meant to be pragmatic, not touchy-feely.
 
 I work with many people who find these ideas compelling but challenging to implement for two main reasons.
 
