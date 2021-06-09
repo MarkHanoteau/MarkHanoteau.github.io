@@ -14,7 +14,7 @@ Are you happy with the extent your team depends on you to move things forward?
 
 How do your team members feel about being (un)empowered to make decisions? 
 
-This post briefly expands upon [David Marquet](https://www.youtube.com/watch?v=OqmdLcyES_Q)'s view of leadership as well as my [previous declaratons](https://markhanoteau.github.io/2021-05-12-Scrum-definition/) that it is best enabled through Agile.
+This post briefly expands upon [David Marquet](https://www.youtube.com/watch?v=OqmdLcyES_Q)'s view of leadership as well as my [previous declarations](https://markhanoteau.github.io/2021-05-12-Scrum-definition/) that it is best enabled through Agile.
 
 To get the best out of your business, you need to get the best out of your people. An obvious way to accomplish this rationale is by unleashing the thinking potential of your employees. Encourage your individuals to engage on their own ideas rather than depending on yours and observe how often this invirgorates them to go beyond the call of duty. Establish a controlled framework where they can make decisions on their own and learn from their experiences as they go. Instead of helping your team with tactical matters, allow yourself to focus on delineating strategy so that your team members have a real sense of purpose to stimulate their newly-found autonomy. Autonomy does come with a catch. It doesn't relieve you of your duty to coach more junior team members until they reach the desired levels of mastery. Autonomy also needs to be balanced with accountability. While it makes sense for those closest to the work to make most of the decisions, there is also no excuse for them to not make their progress transparent. 
 
