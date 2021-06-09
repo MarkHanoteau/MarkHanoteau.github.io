@@ -12,25 +12,14 @@ Turn self-managing teams to your advantage.
 
 Are you happy with the extent your team depends on you to move things forward? How do your team members feel about being (un)empowered to make decisions? 
 
-Let's explore the invirgorating benefit of implementing a framework where each individual has controlled room to make decisions on their own and learn from their experiences as they go. To get the best out of your business, you need to get the best out of your people. An obvious way to accomplish this is by unleashing the thinking potential of your employees. This, in turn, allows you to spend most of your time delineating strategy rather than helping your team with tactical matters. 
+Let's explore the invirgorating benefit of implementing a framework where each individual has controlled room to make decisions on their own and learn from their experiences as they go. To get the best out of your business, you need to get the best out of your people. An obvious way to accomplish this is by unleashing the thinking potential of your employees. This, in turn, allows you to spend most of your time delineating strategy rather than helping your team with tactical matters, ensuring your team has a real sense of purpose on top of their autonomy. 
+
+Agile not only burgeons this perspective for leaders. In turn, it depends on people-first leadership for its survival. 
 
 
-
-sustainable framework 
-
- only thinker in your team 
 
 http://roneringa.com/leading-scrum-teams-to-maturity/
 
-To get the best out of your business, you need to get the best out of your people. 
-People being the presiding factor to business success is a cliche that made both David Brent's and Michael Scott's version of the office. 
-
-Businesses that identify humans as the presiding factor that unleashes business success will want a to burgeon it. [David Marquet](https://www.youtube.com/watch?v=OqmdLcyES_Q)'s definition of leadership, "*embedding the capacity for greatness in the people and practices of an organization and decoupling it from the personality of the leader*, indicates . By putting people first, Agile unleashes this mindset but also depends on it for its survival. 
-
-Agility requires empowering teams and helping them make decisions on their own, learning from their experiences as they go. 
-
- Teams reach goals that help their organizations succeed in the marketplace.  sense of purpose (professional and personal) - 
-What does it mean for a great Team to have a sense of purpose?
 
 How do you scale leadership without adding boxes on the org chart?
 
