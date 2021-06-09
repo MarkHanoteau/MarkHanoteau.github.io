@@ -10,11 +10,9 @@ tags: [Agile Manifesto, Agile Values, Agile Principles]
 
 Turn self-managing teams to your advantage. 
 
-To what extent does your team depend on you to move things forward?
+Are you happy with the extent your team depends on you to move things forward? How do your team members feel about being (un)empowered to make decisions? 
 
-Imagine the time you save from  your team make decisions on their own, learning from their experiences as they go?
-
-Reinvorgating feeling How do your team members feel about being (un)empowered to make decisions? Do you spend most of your time delineating strategy or helping your team with tactical matters? 
+Let's explore the invirgorating benefit of implementing a framework where each individual has controlled room to make decisions on their own and learn from their experiences as they go. To get the best out of your business, you need to get the best out of your people. An obvious way to accomplish this is by unleashing the thinking potential of your employees. This, in turn, allows you to spend most of your time delineating strategy rather than helping your team with tactical matters. 
 
 
 
