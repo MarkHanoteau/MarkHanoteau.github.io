@@ -14,7 +14,7 @@ To what extent does your team depend on you to move things forward?
 
 Imagine the time you save from  your team make decisions on their own, learning from their experiences as they go?
 
-How do your team members feel about being (un)empowered to make decisions? Do you spend most of your time delineating strategy or helping your team with tactical matters? 
+Reinvorgating feeling How do your team members feel about being (un)empowered to make decisions? Do you spend most of your time delineating strategy or helping your team with tactical matters? 
 
 
 
