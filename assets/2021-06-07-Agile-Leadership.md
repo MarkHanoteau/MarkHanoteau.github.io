@@ -10,7 +10,9 @@ tags: [Agile Manifesto, Agile Values, Agile Principles]
 
 Turn self-managing teams to your advantage by enabling people to do their best.
 
-Are you happy with the extent your team depends on you to move things forward? How do your team members feel about being (un)empowered to make decisions? 
+Are you happy with the extent your team depends on you to move things forward? 
+
+How do your team members feel about being (un)empowered to make decisions? 
 
 Let's explore the invirgorating benefit of implementing a framework where each individual has controlled room to make decisions on their own and learn from their experiences as they go. To get the best out of your business, you need to get the best out of your people. An obvious way to accomplish this rationale is by unleashing the thinking potential of your employees. The advantage here is that these individuals are more likely to be engaged on their own ideas rather than anything imposed on them, often leading them to go beyond the call of duty. In addition, this allows you to spend most of your time delineating strategy rather than helping your team with tactical matters, ensuring your team has a real sense of purpose on top of their autonomy. Autonomy comes with a catch: it needs to be balanced with accountability. Whilst it makes sense for those closest to the work to make most of the decisions, there is also no excuse for them to not make their progress transparent. 
 
