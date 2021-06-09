@@ -20,9 +20,7 @@ Agile leadership burgeons people-first leadership and actually depends on it for
 
 ![ServantLeadership](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/eng_acm_traditional_vs_agile.jpg)
 
-Achieving a flatter organizational hierarchy is a challenge that goes beyond the scope of this post, Scrum is a much more implementable tactic as each of its roles already promotes leadership roles. Product Owners should act as entrepreneurs for their products. Good Scrum Masters are implicit servant leaders. The team of Developers 'pull' (rather than are given) work into their backlog and leverage their collective intelligence to decide how to collaboratively solve complex problems. 
-
-http://roneringa.com/leading-scrum-teams-to-maturity/
+Achieving a flatter organizational hierarchy is a challenge that goes beyond the scope of this post, Scrum is a smaller scale tactic that might be easier to implement as each of its roles ideally should already promote leadership roles. Product Owners should act as entrepreneurs for their products. Good Scrum Masters are implicit servant leaders. The team of Developers should 'pull' (rather than are given) work into their backlog and should leverage their collective intelligence to decide how to collaboratively solve complex problems. It's up to leaders to help the teams mature into this self-managed state. [Ron Eringa](http://roneringa.com/leading-scrum-teams-to-maturity/) has created a great 5 level maturity pattern that leaders can follow to facilitate this.
 
 
 
