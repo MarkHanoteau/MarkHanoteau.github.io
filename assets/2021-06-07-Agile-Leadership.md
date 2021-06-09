@@ -8,7 +8,15 @@ share-img: /assets/img/Servant_Leadership.jpg
 tags: [Agile Manifesto, Agile Values, Agile Principles]
 ---
 
-How do you respond when your team members approach you with an issue? Do you solve the problem for them? Do you hint at the solution with guided questions?  guide them  your 
+Turn self-managing teams to your advantage. 
+
+To what extent does your team depend on you to move things forward? How do your team members feel about being (un)empowered to make decisions? Do you spend most of your time delineating strategy or helping your team with tactical matters? 
+
+
+
+sustainable framework 
+
+ only thinker in your team 
 
 http://roneringa.com/leading-scrum-teams-to-maturity/
 
