@@ -9,6 +9,7 @@ tags: [Scrum, Agile Values, Agile Principles]
 ---
 https://www.scrum.org/resources/blog/myth-2-sprint-backlog-cant-change-during-sprint
 https://www.scrum.org/resources/blog/why-you-need-only-one-product-owner
+https://www.scrum.org/resources/blog/scrum-trenches-sprint-goal
 
 Say your team, management, and stakeholders have rallied behind a common objective. The team uses Agile tactics — practices, processes, roles, and meetings. You’re on track to deliver great business outcomes ... right?
 
