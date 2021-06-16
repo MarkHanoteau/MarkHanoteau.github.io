@@ -1,13 +1,29 @@
 ---
 layout: post
-title: Overwhelmed with work?
-subtitle: Stop being an order taker!
+title: TBD
+subtitle: TBD
 cover-img: /assets/img/Overworked.jpg
 thumbnail-img: /assets/img/Overworked.jpg
 share-img: /assets/img/Overworked.jpg
 tags: [Scrum, Kanban, Optimizing value and flow]
 ---
+
+**Titles, LinkedIn CTA**
+
+The Busy Bee Paradox by Håkan Forss
+
+Stop fully utilizing your teams. Busy work is the highest obstacle to value in knowledge - complex work. 
+
+Stop being an order taker!
+
+Overwhelmed with work?
+
 [b]Overworked[/b]
+The busier you are, the more you produce.
+
+In my experience, this does not work with Knowledge Work. 
+
+Leaders do tend to focus on resource efficiency / utilisation.
 
 [b]Mathematical Proof[/b]
 
@@ -19,11 +35,6 @@ tags: [Scrum, Kanban, Optimizing value and flow]
 
 
 
-The Busy Bee Paradox by Håkan Forss
-
-Stop fully utilizing your teams. Busy work is the highest obstacle to value in knowledge - complex work. 
-
-Part of the problem is the mindset that has been taught to most business leaders — primarily, the unnecessary, and often damaging focus on Resource Efficiency. You probably know this as “Utilisation” and it is how most companies are managed. We meet managers that believe and say things such as “the key to running a business is to have every worker as busy as possible. The busier they are the more they’ll produce. Just give me 120%, damn it!”
 
 Resource Management may have worked really well in a manufacturing context. However, in Knowledge Work it is a ticket to business oblivion. To succeed in modern complex business environments requires us to adopt an alternative way of thinking, which is where Flow Management comes into play.
 
