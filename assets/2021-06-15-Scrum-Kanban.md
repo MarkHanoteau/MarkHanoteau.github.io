@@ -19,7 +19,14 @@ Stop being an order taker!
 Overwhelmed with work?
 
 [b]Overworked[/b]
-The busier you are, the more you produce.
+
+How do you typically react when it's taking you longer than originally anticipated to finish work? Do you start new items on top of your current workload to ensure that those items are not impacted and finish on time? 
+
+How does your manager respond when your team is requested to work on multiple priorities at once? 
+
+As you think about these situations, let's come to terms with the fact that the more items you work on at any given time, the longer it will take you to finish these items. As more work comes in, this can quickly unravel into a vicious and unsustainable cycle. 
+
+This might feel counterproductive. People can be forgiven for thinking that if they had a busy day, they had a productive day at work. 
 
 In my experience, this does not work with Knowledge Work. 
 
@@ -27,39 +34,25 @@ Leaders do tend to focus on resource efficiency / utilisation.
 
 [b]Mathematical Proof[/b]
 
+The key implication of Little's Law is that you need to work on less items if you want to work faster. If it takes you too long to complete your scope of work, you should break it down into smaller, more manageable items and focus exclusively on these. 
+
 [b]Limit WIP[/b]
+
+If Leaders want to utilize their teams to their full potential and enable them to deliver higher quality work faster than ever before, 
 
 [b]Manage workflow[/b]
 
+This means 
+
 [b]Scrum with Kanban[/b]
 
+In order to succeed in modern, complex business environments, we must create valuable solutions for our customers. The way that solution comes to life should be as pain free as possible (flow management). 
 
 
-
-Resource Management may have worked really well in a manufacturing context. However, in Knowledge Work it is a ticket to business oblivion. To succeed in modern complex business environments requires us to adopt an alternative way of thinking, which is where Flow Management comes into play.
-
-This is the kind of confusion I see all the time. We are so focused on resource utilisation, that it is hard to realise that even if people can be 100% utilised (efficient resource), the work can spend most of the time idle (being unutilised) in a queue (inefficient flow).
-
-In Lean and Agile we’ve known for a very long time that our measure of progress is completed work that meets the needs of a user. Assuming this is true, then, what we should aim for is 100% utilised work (efficient flow) done by people with spare time (Slack) that can absorb the inherent uncertainty of our work environments (inefficient resource).
-
-Little’s	Law
-The fundamental result of Little’s Law is that for a given process, in general, the more things that you
-work on at any given time (on average) the longer it is going to take for each of those things to finish
-(on average). As a case in point, managers who are ignorant of this law panic when they see that their
-Cycle Times are too long and perform the exact opposite intervention of what they should do: they
-start more work. After all, they reason, if things take so long, then they need to start new items as
-soon as possible so that those items finish on time—regardless of what is currently in progress. The
-result is that items only take longer and longer to complete. Thus, managers feel more and more
-pressure to start things sooner and sooner. You can see how this vicious cycle gets started and
-perpetuates itself. After studying Little’s Law, you should realize that if Cycle Times are too long then
-the first thing you should consider is lowering WIP. It feels uncomfortable, but it is true. In order to
-get more stuff done faster, you need to work on less (again, on average)
 
 Average Cycle Time = Average Work In Progress / Average Throughput
 
 Limiting WIP: 
-
-WIP limits unlock the full potential of Kanban, enabling teams to deliver higher quality work faster than ever before, in a healthier, more sustainable environment.
 
 Stop starting, start finishing
 One of the biggest culprits of lengthening cycle times is multi-tasking. Well, we think we’re multitasking but what we’re actually doing is something called task switching — putting one thing aside to work on another and then coming back to the first thing later.
