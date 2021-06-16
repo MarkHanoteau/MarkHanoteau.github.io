@@ -8,6 +8,21 @@ share-img: /assets/img/magic.jpg
 tags: [Scrum, Kanban, Optimizing value and flow]
 ---
 
+Little’s	Law
+The fundamental result of Little’s Law is that for a given process, in general, the more things that you
+work on at any given time (on average) the longer it is going to take for each of those things to finish
+(on average). As a case in point, managers who are ignorant of this law panic when they see that their
+Cycle Times are too long and perform the exact opposite intervention of what they should do: they
+start more work. After all, they reason, if things take so long, then they need to start new items as
+soon as possible so that those items finish on time—regardless of what is currently in progress. The
+result is that items only take longer and longer to complete. Thus, managers feel more and more
+pressure to start things sooner and sooner. You can see how this vicious cycle gets started and
+perpetuates itself. After studying Little’s Law, you should realize that if Cycle Times are too long then
+the first thing you should consider is lowering WIP. It feels uncomfortable, but it is true. In order to
+get more stuff done faster, you need to work on less (again, on average)
+
+Average Cycle Time = Average Work In Progress / Average Throughput
+
 Limiting WIP: 
 
 WIP limits unlock the full potential of Kanban, enabling teams to deliver higher quality work faster than ever before, in a healthier, more sustainable environment.
@@ -17,7 +32,7 @@ One of the biggest culprits of lengthening cycle times is multi-tasking. Well, w
 
 Implementing a limit to the number of things you will work on at a time can help individuals, teams, or even organizations focus on fewer items at a time, allowing them to deliver the items faster and, usually, with better quality. This limit is called a work-in-progress limit, or WIP limit, and is a key component of a Kanban system.
 
-WIP has one major implicit consequence: it empowers you to say no to work, and pull work. 
+WIP has one major implicit consequence: it empowers you to say no to work, and pull work. It certainly means that you should have a whole different outlook around accepting and fastracking any last minute requests - if you'd like more insight around this, I highly recommend Daniel Vacanti's explanation of how [an expedite request sunk the Titanic](https://vimeo.com/239539858). 
 
 Scrum turbo charged by Kanban. 
 
