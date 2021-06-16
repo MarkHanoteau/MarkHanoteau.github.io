@@ -24,7 +24,11 @@ How do you typically react when it's taking you longer than originally anticipat
 
 How does your manager respond when your team is requested to work on multiple priorities at once? 
 
-As you think about these situations, let's come to terms with the fact that the more items you work on at any given time, the longer it will take you to finish these items. As more work comes in, this can quickly unravel into a vicious and unsustainable cycle. 
+As you think about these situations, let's come to terms with the fact that the more items you work on at any given time, the longer it will take you to finish these items.
+
+The workaround here is unfortunately not multitasking, where you're essentially putting an item an item of work aside to work on something else, only to come back to the first item later on. 
+
+As more work comes in, this can quickly unravel into a vicious and unsustainable cycle. 
 
 This might feel counterproductive. People can be forgiven for thinking that if they had a busy day, they had a productive day at work. 
 
@@ -34,11 +38,15 @@ Leaders do tend to focus on resource efficiency / utilisation.
 
 [b]Mathematical Proof[/b]
 
+Average Cycle Time = Average Work In Progress / Average Throughput
+
 The key implication of Little's Law is that you need to work on less items if you want to work faster. If it takes you too long to complete your scope of work, you should break it down into smaller, more manageable items and focus exclusively on these. 
 
 [b]Limit WIP[/b]
 
-If Leaders want to utilize their teams to their full potential and enable them to deliver higher quality work faster than ever before, 
+If Leaders want to utilize their teams to their full potential and enable them to deliver higher quality work faster than ever before, they should implement a limit on the number of items that the team will work on at any given time, so that the team can focus on the current work in progress. Finishing WIP instead of starting new work is a key component of the Kanban method.
+
+WIP has one major implicit consequence: it empowers you to say no to work, and pull work. It certainly means that you should have a whole different outlook around accepting and fastracking any last minute requests - if you'd like more insight around this, I highly recommend Daniel Vacanti's explanation of how [an expedite request sunk the Titanic](https://vimeo.com/239539858). 
 
 [b]Manage workflow[/b]
 
@@ -50,18 +58,6 @@ In order to succeed in modern, complex business environments, we must create val
 
 
 
-Average Cycle Time = Average Work In Progress / Average Throughput
-
-Limiting WIP: 
-
-Stop starting, start finishing
-One of the biggest culprits of lengthening cycle times is multi-tasking. Well, we think we’re multitasking but what we’re actually doing is something called task switching — putting one thing aside to work on another and then coming back to the first thing later.
-
-Implementing a limit to the number of things you will work on at a time can help individuals, teams, or even organizations focus on fewer items at a time, allowing them to deliver the items faster and, usually, with better quality. This limit is called a work-in-progress limit, or WIP limit, and is a key component of a Kanban system.
-
-WIP has one major implicit consequence: it empowers you to say no to work, and pull work. It certainly means that you should have a whole different outlook around accepting and fastracking any last minute requests - if you'd like more insight around this, I highly recommend Daniel Vacanti's explanation of how [an expedite request sunk the Titanic](https://vimeo.com/239539858). 
-
-Stop Starting, Start Finishing
 Learning to limit work in process can be challenging, for many reasons: WIP limits force us to have the discipline to say “no” when we’re accustomed to saying “yes.” They encourage us to abandon the frantic, chaotic way of working that we’ve come to define as “productivity.”
 
 They expose our bad habits and hold us accountable to the work of not just ourselves, but our team. Our calendars might free up, giving us more time to sit at our desks and do valuable work. We might even have slack time.
