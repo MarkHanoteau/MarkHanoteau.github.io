@@ -97,7 +97,7 @@ Not just a Kanban board although you can certainly start with your board and evo
 
 New post on how WIP can not just be limited but also managed and optimized. The icing on the cake is that once you have stabilised your workflow, Kanban takes you to another level with its probabilistic [forecasting techniques](https://www.scrum.org/resources/blog/create-faster-and-more-accurate-forecasts-using-probabilities), such as Monte Carlo, that on top of saving time estimating work, best help you answer the eternal and inevitable stakeholder question of when you expect to complete the work in the safest-most accurate way possible?  Steers away from the awful habit of story points.
 
-No people values but puts people first by its very essence.
+No people values but puts people first by its very essence. Improve collaboratively. 
 
 But, why exactly should you provide Kanban training for your Scrum Team?
 
