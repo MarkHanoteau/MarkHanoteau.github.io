@@ -14,57 +14,23 @@ The Busy Bee Paradox by Håkan Forss
 
 Stop fully utilizing your teams. Busy work is the highest obstacle to value in knowledge - complex work. 
 
-Stop being an order taker!
+The order taker fallacy. 
 
 Overwhelmed with work?
 
 [b]Overworked[/b]
 
-Imagine an instance where it's taking you longer than originally anticipated to finish work. A new request comes in. Getting started on the new item, on top of your current workload, might induce the least mental resistance under the premise that the earlier you start, the smaller the risk this item is not impacted and gets completed on time. You certainly aren't likely to find opposition from your stakeholders with this choice either. 
+Imagine an instance where it's taking you or your team longer than originally anticipated to finish work. A new request comes in. The intuitive choice to make, given your current turnaround times, might be to add to your workload and get started on the new item as early as you can to complete it on time. If this resonates with your work habits, this article is for you. 
 
-If this resonates with how you (or your manager) typically respond(s) to additional requests to overwhelming workloads, this article is for you. 
+The good news here is that your response will most likely gain stakeholder support. The bad news is that it generally has unproductive consequences. This is because the more items you work on at any given time, the longer it will take you to finish these items. This is typically true no matter how good you or your team are at multitasking (where time is still wasted as you swich tasks and contexts). This unravels into a vicious and unsustainable cycle as more work comes in. As your attention gets devoured by completing tasks, you lose focus of the bigger picture and miss opportunities to rectify the state of affairs. As the speed of delivery suffers, so might work quality, revenues, and ultimately, team morale.
 
-
-the fact that the more items you work on at any given time, the longer it will take you to finish these items.
-
-The workaround here is unfortunately not multitasking, where you're essentially putting an item an item of work aside to work on something else, only to come back to the first item later on. 
-
-focus and clarity are luxuries. Waste comes in many forms, including:
-
-Context switching
-Excess meetings
-Communication breakdowns
-Rework
-Duplicate effort
-Handoff delays
-Missed deadlines
-
-As more work comes in, this can quickly unravel into a vicious and unsustainable cycle. 
-
-This might feel counterproductive. People can be forgiven for thinking that if they had a busy day, they had a productive day at work. 
-
-In my experience, this does not work with Knowledge Work. 
-
-Leaders do tend to focus on resource efficiency / utilisation.
-
-Without limiting WIP, it’s incredibly difficult to identify wasteful and inefficient processes.
-The impact on our system can be disastrous, in terms of speed of delivery, work quality, cost, and morale.
-
-[b]Mathematical Proof[/b]
+This concept is supported by a theorem called Little's Law. Little's Law relates how long it takes to finish work given how much work you can complete and your current work in progress:
 
 Average Cycle Time = Average Work In Progress / Average Throughput
 
-The key implication of Little's Law is that you need to work on less items if you want to work faster. If it takes you too long to complete your scope of work, you should break it down into smaller, more manageable items and focus exclusively on these. In short, Little Law gives you all the justification you ever needed to refocus. 
+The key implication of Little's Law is that you need to work on less items if you want to work faster. If it takes you too long to complete your scope of work, you should break it down into smaller, more manageable items and focus exclusively on these. In short, Little Law gives you all the justification you ever needed to refocus. If Leaders want to utilize their teams to their full potential and enable them to deliver higher quality work faster than ever before, they should implement a limit on the number of items that the team will work on at any given time, so that the team can focus on the current work in progress. 
 
-Little’s Law establishes that there is a relation between how much work is in process (WIP), the time it takes to complete the work (Lead Time) and the amount of work you can deliver (Throughput).
-
-Average Throughput = (Average WIP / Average Lead Time)
-
-[b]Limit WIP[/b]
-
-If Leaders want to utilize their teams to their full potential and enable them to deliver higher quality work faster than ever before, they should implement a limit on the number of items that the team will work on at any given time, so that the team can focus on the current work in progress. Finishing WIP instead of starting new work is a key component of the Kanban method.
-
-WIP has one major implicit consequence: it empowers you to say no to work, and pull work. It certainly moves away from the often frantic and almost always unproductive chaos that ensues when accepting and fastracking any last minute requests - if you'd like more insight around this, I highly recommend Daniel Vacanti's explanation of how [an expedite request sunk the Titanic](https://vimeo.com/239539858). 
+Finishing WIP instead of starting new work is a key component of the Kanban method. This is where Kanban most demonstrates its Agile essence by putting people first and protecting them from being overwhelmed with work, for their and the company's benefit. Kanban offers so much more than the misconception that it is about visualizing work through a board. 
 
 More time to focus on the work at hands opens up opportunities to collaborate and synergize with peers or partners. You’ll regain the luxuries of focus, creativity, and clarity, which will allow you to engage with your work in a more fulfilling way.
 
@@ -76,13 +42,9 @@ Completing work starts becoming more predictable, trust in the process increases
 
 Balancing WIP generates the conditions to improve Flow Efficiency. It also enables virtuous feedback loops that lead to successful, healthier businesses.
 
-[b]Manage workflow[/b]
+WIP has one major implicit consequence: it empowers you to say no to work, and pull work. It certainly moves away from the often frantic and almost always unproductive chaos that ensues when accepting and fastracking any last minute requests - if you'd like more insight around this, I highly recommend Daniel Vacanti's explanation of how [an expedite request sunk the Titanic](https://vimeo.com/239539858). 
 
 For Kanban to be succesful, the flow of work doesn't just need to be optimized but actively managed. New post on how WIP can not just be limited but also optimized. The icing on the cake is that once you have stabilised your workflow, Kanban takes you to another level with its probabilistic [forecasting techniques](https://www.scrum.org/resources/blog/create-faster-and-more-accurate-forecasts-using-probabilities), such as Monte Carlo, that on top of saving time estimating work, best help you answer the eternal and inevitable stakeholder question of when you expect to complete the work in the safest-most accurate way possible?  Steers away from the awful habit of story points. 
-
-The hope behind these thoughts is that you appreciate how Kaban is so much more than just a Kanban board. No people values but puts people first by its very essence. Improve collaboratively. 
-
-Not just a Kanban board although you can certainly start with your board and evolve steadily from there - just make sure your board has at least one 'active' state (doing, in progress, etc.) .
 
 [b]Scrum with Kanban[/b]
 
@@ -101,3 +63,10 @@ https://www.planview.com/resources/articles/benefits-wip-limits/
 https://www.planview.com/resources/articles/wip-limits/
 
 
+This might feel counterproductive. People can be forgiven for thinking that if they had a busy day, they had a productive day at work. 
+
+In my experience, this does not work with Knowledge Work. 
+
+Leaders do tend to focus on resource efficiency / utilisation.
+
+Without limiting WIP, it’s incredibly difficult to identify wasteful and inefficient processes.
