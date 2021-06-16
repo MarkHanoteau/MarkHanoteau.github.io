@@ -7,6 +7,17 @@ thumbnail-img: /assets/img/magic.jpg
 share-img: /assets/img/magic.jpg
 tags: [Scrum, Kanban, Optimizing value and flow]
 ---
+The Busy Bee Paradox by Håkan Forss
+
+Stop fully utilizing your teams. Busy work is the highest obstacle to value in knowledge - complex work. 
+
+Part of the problem is the mindset that has been taught to most business leaders — primarily, the unnecessary, and often damaging focus on Resource Efficiency. You probably know this as “Utilisation” and it is how most companies are managed. We meet managers that believe and say things such as “the key to running a business is to have every worker as busy as possible. The busier they are the more they’ll produce. Just give me 120%, damn it!”
+
+Resource Management may have worked really well in a manufacturing context. However, in Knowledge Work it is a ticket to business oblivion. To succeed in modern complex business environments requires us to adopt an alternative way of thinking, which is where Flow Management comes into play.
+
+This is the kind of confusion I see all the time. We are so focused on resource utilisation, that it is hard to realise that even if people can be 100% utilised (efficient resource), the work can spend most of the time idle (being unutilised) in a queue (inefficient flow).
+
+In Lean and Agile we’ve known for a very long time that our measure of progress is completed work that meets the needs of a user. Assuming this is true, then, what we should aim for is 100% utilised work (efficient flow) done by people with spare time (Slack) that can absorb the inherent uncertainty of our work environments (inefficient resource).
 
 Little’s	Law
 The fundamental result of Little’s Law is that for a given process, in general, the more things that you
@@ -33,6 +44,50 @@ One of the biggest culprits of lengthening cycle times is multi-tasking. Well, w
 Implementing a limit to the number of things you will work on at a time can help individuals, teams, or even organizations focus on fewer items at a time, allowing them to deliver the items faster and, usually, with better quality. This limit is called a work-in-progress limit, or WIP limit, and is a key component of a Kanban system.
 
 WIP has one major implicit consequence: it empowers you to say no to work, and pull work. It certainly means that you should have a whole different outlook around accepting and fastracking any last minute requests - if you'd like more insight around this, I highly recommend Daniel Vacanti's explanation of how [an expedite request sunk the Titanic](https://vimeo.com/239539858). 
+
+Stop Starting, Start Finishing
+Learning to limit work in process can be challenging, for many reasons: WIP limits force us to have the discipline to say “no” when we’re accustomed to saying “yes.” They encourage us to abandon the frantic, chaotic way of working that we’ve come to define as “productivity.”
+
+They expose our bad habits and hold us accountable to the work of not just ourselves, but our team. Our calendars might free up, giving us more time to sit at our desks and do valuable work. We might even have slack time.
+
+Over time, you’ll begin to see the method to this madness: You’ll get more done with less resistance and less stress. You’ll rediscover the power of effective collaboration. Your team will operate with a synergy that you may not have ever thought possible. You’ll regain the luxuries of focus, creativity, and clarity, which will allow you to engage with your work in a more fulfilling way.
+
+To get started with WIP limits, we highly recommend going through the exercises in our Kanban Roadmap with your team.
+
+When we focus on maximising utilisation, the time it takes to complete the job grows exponentially. If we want to reduce the time to complete the job, then we have a business trade-off as the cost of spare capacity increases. Considering the three parameters (utilisation, time and cost), there is a level of utilisation that generates an optimal trade-off between the cost of spare capacity and the time to complete the job.
+
+Many people really struggle answering the question “how do we create the Slack, then?” When we talk about utilisation in this way, we are referring to how busy people are. Our mind locks on Resource Management solutions (eg. give people less work). That’s not it — this will not work if your organisation (un)consciously values “being busy”. What we need to do is to refocus on what is happening to the work and, specifically, in identifying Flow Management solutions. In Kanban we have a wonderfully powerful tool to help us refocus: Little’s Law.
+
+Little’s Law establishes that there is a relation between how much work is in process (WIP), the time it takes to complete the work (Lead Time) and the amount of work you can deliver (Throughput).
+
+Average Throughput = (Average WIP / Average Lead Time)
+
+If we want to create Slack and improve efficiency in our system, the first thing we can do is to Balance the WIP — usually by reducing the amount of Work-in-Process. This makes sense, because if you remember, we want to focus on solutions that target the work, and changing the WIP is, at its core, an intervention focused on the work. When you achieve a more balanced system, the result is that work will flow more smoothly and faster. The impact on the people is that they will not be running around like headless chickens with too much work. This leads to the appearance of Slack. Having Slack soon becomes a business asset as people:
+
+Have time to absorb the variability of work
+Start truly collaborating
+Improve their work and their processes, and
+Remove the sources of delay & waste.
+Completing work starts becoming more predictable, trust in the process increases, people have more opportunities to self-organise and so on.
+
+Balancing WIP generates the conditions to improve Flow Efficiency. It also enables virtuous feedback loops that lead to successful, healthier businesses.
+
+Why Do We Need WIP Limits?
+In Lean thinking, waste is defined as anything that does not add value to the customer. We operate in environments that are inherently wasteful, where focus and clarity are luxuries. Waste comes in many forms, including:
+
+Context switching
+Excess meetings
+Communication breakdowns
+Rework
+Duplicate effort
+Handoff delays
+Missed deadlines
+
+Without limiting WIP, it’s incredibly difficult to identify wasteful and inefficient processes.
+The impact on our system can be disastrous, in terms of speed of delivery, work quality, cost, and morale.
+
+https://www.planview.com/resources/articles/benefits-wip-limits/
+https://www.planview.com/resources/articles/wip-limits/
 
 Scrum turbo charged by Kanban. 
 
