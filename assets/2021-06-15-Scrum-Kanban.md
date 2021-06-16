@@ -15,3 +15,12 @@ Not just a Kanban board although you can certainly start with your board and evo
 Steers away from the awful habit of story points.
 
 No people values but puts people first by its very essence.
+
+But, why exactly should you provide Kanban training for your Scrum Team?
+
+The Flow of Empiricism
+The key element of Kanban is the flow or the concept of flow as such. The flow in Kanban is basically the movement of value that is present in the entire lifecycle of product development. Kanban, therefore, focuses on optimizing this flow by improving both efficiency and effectiveness of a process, thus ultimately making it more predictable. 
+
+When placed in the context of Scrum, optimizing the flow would require defining what the flow is, in the first place. The Scrum framework is based on empiricism, which defines the frequency of transparency, adaptation and inspection cycle. 
+
+Simply put, you can describe it as a cycle time during the feedback loop. So, when practices native to Kanban are implemented in the Scrum framework, they can grant a certain focus on improving the flow during the feedback loop, thus optimizing the frequency for transparency, adaptation and inspection of both the product being developed and the development process. 
