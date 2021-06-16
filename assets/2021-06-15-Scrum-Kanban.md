@@ -64,7 +64,7 @@ They expose our bad habits and hold us accountable to the work of not just ourse
 
 Over time, you’ll begin to see the method to this madness: You’ll get more done with less resistance and less stress. You’ll rediscover the power of effective collaboration. Your team will operate with a synergy that you may not have ever thought possible. You’ll regain the luxuries of focus, creativity, and clarity, which will allow you to engage with your work in a more fulfilling way.
 
-To get started with WIP limits, we highly recommend going through the exercises in our Kanban Roadmap with your team.
+
 
 When we focus on maximising utilisation, the time it takes to complete the job grows exponentially. If we want to reduce the time to complete the job, then we have a business trade-off as the cost of spare capacity increases. Considering the three parameters (utilisation, time and cost), there is a level of utilisation that generates an optimal trade-off between the cost of spare capacity and the time to complete the job.
 
