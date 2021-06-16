@@ -8,7 +8,11 @@ share-img: /assets/img/magic.jpg
 tags: [Scrum, Kanban, Optimizing value and flow]
 ---
 
-Limiting WIP: Stop starting, start finishing
+Limiting WIP: 
+
+WIP limits unlock the full potential of Kanban, enabling teams to deliver higher quality work faster than ever before, in a healthier, more sustainable environment.
+
+Stop starting, start finishing
 One of the biggest culprits of lengthening cycle times is multi-tasking. Well, we think we’re multitasking but what we’re actually doing is something called task switching — putting one thing aside to work on another and then coming back to the first thing later.
 
 Implementing a limit to the number of things you will work on at a time can help individuals, teams, or even organizations focus on fewer items at a time, allowing them to deliver the items faster and, usually, with better quality. This limit is called a work-in-progress limit, or WIP limit, and is a key component of a Kanban system.
