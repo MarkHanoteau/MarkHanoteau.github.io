@@ -2,11 +2,23 @@
 layout: post
 title: Overwhelmed with work?
 subtitle: Stop being an order taker!
-cover-img: /assets/img/magic.jpg
-thumbnail-img: /assets/img/magic.jpg
-share-img: /assets/img/magic.jpg
+cover-img: /assets/img/Overworked.jpg
+thumbnail-img: /assets/img/Overworked.jpg
+share-img: /assets/img/Overworked.jpg
 tags: [Scrum, Kanban, Optimizing value and flow]
 ---
+[b]Overworked[/b]
+
+[b]Mathematical Proof[/b]
+
+[b]Limit WIP[/b]
+
+[b]Manage workflow[/b]
+
+[b]Scrum with Kanban[/b]
+
+
+
 The Busy Bee Paradox by Håkan Forss
 
 Stop fully utilizing your teams. Busy work is the highest obstacle to value in knowledge - complex work. 
