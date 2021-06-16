@@ -12,7 +12,7 @@ https://scrumorg-website-prod.s3.amazonaws.com/drupal/2021-01/01-2021%20Kanban%2
 
 Not just a Kanban board although you can certainly start with your board and evolve steadily from there - just make sure your board has at least one 'active' state (doing, in progress, etc.) .
 
-Steers away from the awful habit of story points.
+The icing on the cake is that once you have stabilised your workflow, Kanban has probabilistic [forecasting techniques](https://www.scrum.org/resources/blog/create-faster-and-more-accurate-forecasts-using-probabilities), such as Monte Carlo, that on top of saving time estimating work, best help you answer the eternal inevitable question of when will the request be done in the safest-most accurate way possible?  Steers away from the awful habit of story points.
 
 No people values but puts people first by its very essence.
 
