@@ -17,6 +17,8 @@ One of the biggest culprits of lengthening cycle times is multi-tasking. Well, w
 
 Implementing a limit to the number of things you will work on at a time can help individuals, teams, or even organizations focus on fewer items at a time, allowing them to deliver the items faster and, usually, with better quality. This limit is called a work-in-progress limit, or WIP limit, and is a key component of a Kanban system.
 
+WIP has one major implicit consequence: it empowers you to say no to work, and pull work. 
+
 Scrum turbo charged by Kanban. 
 
 https://scrumorg-website-prod.s3.amazonaws.com/drupal/2021-01/01-2021%20Kanban%20Guide.pdf?nexus-file=https%3A%2F%2Fscrumorg-website-prod.s3.amazonaws.com%2Fdrupal%2F2021-01%2F01-2021%2520Kanban%2520Guide.pdf
