@@ -14,7 +14,7 @@ If this resonates with your work habits, this post is for you. When you take on 
 
 This [Busy Bee Paradox](https://hakanforss.wordpress.com/2014/11/18/the-busy-bee-paradox/) might be challenging to accept but it is supported by a theorem called [Little's Law](https://scrumorg-website-prod.s3.amazonaws.com/drupal/2018-05/Little%E2%80%99s%20Law%20for%20Professional%20Scrum%20with%20Kanban.pdf). [Little's Law](https://www.process.st/littles-law/) relates how long it takes to finish work to how much work you can complete, given your current work in progress. 
 
-https://www.process.st/wp-content/uploads/2017/11/littles-law-formula.png
+[!Image](https://www.process.st/wp-content/uploads/2017/11/littles-law-formula.png)
 
 The key implication of Little's Law is that you need to work on less items if you want to work faster. If it takes you too long to complete your scope of work, you should break it down into smaller, more manageable items and focus exclusively on these. In short, Little Law gives you all the justification you ever needed to refocus. If Leaders want to utilize their teams to their full potential and enable them to deliver higher quality work faster than ever before, they should implement a limit on the number of items that the team will work on at any given time, so that the team can focus on the current work in progress. 
 
