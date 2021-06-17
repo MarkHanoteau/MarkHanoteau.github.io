@@ -10,7 +10,7 @@ tags: [Scrum, Kanban, Optimizing value and flow]
 
 Imagine an instance where it is taking you or your team longer than anticipated to finish work. A new request comes in. Given your current turnaround times, you might intuitively chose to get started on the new item as early as you can and give yourself a chance to complete it on time, even if it adds to your workload. 
 
-If this resonates with you, this post was written especially for you. By adding more items to your workload, you extend the duration it'll take to complete it. This unravels into an unsustainable cycle when more work inevitably comes in. As you concentrate on frenetically completing tasks, you lose focus of the bigger picture and miss opportunities to rectify the cumulative work. If the speed of delivery suffers, it ultimately threatens work quality, revenues, team morale and stakeholder credibility.
+If this resonates with you, this post was written especially for you. By adding more items to your workload, you extend the duration it will take to complete it. This unravels into an unsustainable cycle when more work inevitably comes in. As you concentrate on frenetically completing tasks, you lose focus of the bigger picture and miss opportunities to rectify the cumulative work. If the speed of delivery suffers, it ultimately threatens work quality, revenues, team morale and stakeholder credibility.
 
 This [Busy Bee Paradox](https://hakanforss.wordpress.com/2014/11/18/the-busy-bee-paradox/) is substantiated by a theorem called Little's Law. [Little's Law](https://www.process.st/littles-law/) relates how long it takes to finish work to how much work you can complete given your current work in progress. 
 
