@@ -2,7 +2,7 @@
 layout: post
 title: The order-taker fallacy.
 subtitle: Busy work is the highest obstacle to value. 
-cover-img: /assets/img/Overworked.jpg
+cover-img: /assets/img/burnout.jpg
 thumbnail-img: /assets/img/Overworked.jpg
 share-img: /assets/img/Overworked.jpg
 tags: [Scrum, Kanban, Optimizing value and flow]
