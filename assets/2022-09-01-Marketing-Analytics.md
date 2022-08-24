@@ -173,6 +173,100 @@ that marketers fully disclose their definition and measurement method
 of the ROMI to promote transparency and to support effective decision
 making.
 
+Besides just calculating the current ROMI, marketers also often attempt
+to estimate the ROMI at other levels of spending. Typically, the estimate
+takes the form of an S-curve that is shaped by two inherent characteristics
+of media spending: the necessity to have a certain level of awareness
+before marketing starts to be effective and the diminishing returns of
+media investment (Mantia, 2015; Wang et al., 2017). An example of such
+curves is given in Figure 2.4 by Karmann et al. (2015). For each point on
+the curves, the total and marginal ROAS are calculable. The definition of
+ROAS is slightly different from the ROMI as the advertising spending is
+not subtracted from the incremental profit.
 
+When using ROMI figures to make decisions, it is essential to distinguish
+effectiveness and efficiency. Effectiveness refers to the ability to reach a
+goal, whereas efficiency refers to the ability to do so with the least amount
+of resources.
+For companies, the goal is to make a profit. Thus, the ROMI measures the
+efficiency of marketing efforts rather than their effectiveness. The upper
+part of the ROMI equation, in turn, represents effectiveness. Although
+improving efficiency, in general, also leads to improving effectiveness,
+it may fail in some cases. Imagine two mutually exclusive marketing
+projects: the first one returning EUR 100 million for a EUR 50 million
+investment and the second one returning EUR 10 million for a EUR 2
+million investment. The first one has a higher net return (e50 mill. vs
+e8 mill.) but a lower ROMI (100% vs 400%). Thus, the goal in marketing
+should be to maximise effectiveness rather than just efficiency, even if it
+reduces efficiency (Farris et al., 2015; Hanssens and Pauwels, 2016). One
+way to reach this goal is to use incremental ROMI between two choices
+(Farris et al., 2015). In our example, we get a 187.5% incremental ROMI
+((100 − 10)/(50 − 2) · 100% = 187.5%) when selecting the first project over
+the second one.
+
+To reach higher profits, marketers should not blindly shift budgets toward
+high ROMI marketing efforts. Low ROMI operations may be saturated
+but effective. High ROMI operations may, in some cases, become quickly
+saturated, and sudden shifts towards them can lead to lower effectiveness.
+Moreover, the ROMI does not, by default, tell about the risks involved investments. Additional investment into an activity that has performed well
+in the past can always fail. Thus, marketers should consider marketing
+spending as an investment and carefully approach the decisions with the
+help relevant information, e.g. ROMI figures, S-curve estimates, forecasts
+and risk analyses.
+Although the ROMI is a useful measure in marketing decision making,
+some researchers criticise it. For example, Ambler and Roberts (2005) and
+Rust et al. (2004) note that the ROMI often dismisses the potential impact
+of marketing investments on long-term marketing assets, thus yielding
+inaccurate results on the profitability of investments. Consequently, they
+recommend using other long-term measures alongside the ROMI. Despite
+the critique, the ROMI remains a simple and effective way to assess the
+short-term impact of investments. Moreover, if a company manages to
+quantify the financial impact of long-term effects, it can include them into
+the ROMI to form a complete estimate.
+
+Overall, the ROMI can help marketers to gain back the trust of CEOs.
+
+The ROMI can help in answering many marketing questions. For example:
+1) How much return do we get from spending X amount on marketing?
+2) How should we allocate our marketing budget to maximise our sales?
+Because these questions are mainly causal, it makes sense to use commonly accepted methods for studying causality to measure the impact
+of marketing and the ROMI. Randomised experiments and the potential
+outcomes framework (Imbens and Rubin, 2015) are perhaps the most common ones of these methods and researchers regularly apply them in other
+fields. Randomised experiments have also been applied successfully to
+measure marketing effectiveness, and their cost has been brought down
+by the Internet and digital measurement infrastructures (Lewis and Rao,
+2015). Thanks to their effectiveness, they have also become a part of the
+innovation process of many businesses, such as Amazon and Microsoft
+(Kohavi et al., 2009) and incorporated into advertising tools of Google and
+Facebook (Facebook, 2015; Google, 2018). However, they also have several
+barriers that prevent their adoption. For example, to reveal the S-curve,
+experiments must be done at various levels of advertising spending, which
+can be costly. Moreover, the need and cost of having large control groups to
+measure weak effects limit the opportunities in their use.
+
+Because of the impracticality of the conventional methods for studying
+causality, companies often resort to using more straightforward marketing
+mix modelling (MMM), aka media mix modelling, techniques. MMM attempts to model the demand response by fitting a model, typically an OLS
+regression with various drivers and control factors, in historical data (Chan
+and Perry, 2017). The results commonly include ROAS estimates for advertising channels and a break-down of the effect of different drivers. The
+technique is cheap, fast and straightforward to apply as it typically involves
+no experimentation. Yet, the validity of the results is often questionable.
+The models are often based on inaccurate or unverified assumptions about
+the nature of marketing environment (Zhang and Vaver, 2017) and are
+merely capable of producing correlational, not causal results (Chan and
+Perry, 2017).
+
+MMM typically uses four types of
+data to fit their models:
+• response data, which are typically volume or sales data,
+• media metrics, which are commonly media spending data but sometimes other KPIs such as impressions and clicks,
+• marketing metrics such as price, promotions, product distribution,
+and
+• control factors such as seasonality, weather and market competition.
+
+If suitable data are available, modellers can fit models on various levels
+of data aggregation, for example, ranging from the level of an individual
+product to the total business unit level, as presented in Figure 2.5 by Cain
+(2010).
 
 Paragraph 2
