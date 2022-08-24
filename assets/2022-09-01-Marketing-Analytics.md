@@ -383,6 +383,17 @@ measure long-term effects, models must also focus on the base sales
 component of the model. The base sales reflect the changes in underlying marketing assets, for example, by growing when new customers
 convert into loyal customers that make repeated purchases. 
 
+However, according to Cain, the standard OLS regression models are only
+capable of imposing a fixed or deterministic baseline that prevents
+the analysis of the long-term impact of marketing. Consequently, he
+suggests the use of time series regression models to decompose the
+sales into short-term (incremental) and long-term base (trend) sales.
+
+Past performance may not be the best indicator for future performance.
+Conventional MMM only provides an estimate of the past performance but does not specifically attempt to estimate what the performance will be in the future. Customer behaviour and market
+conditions may change in the future and affect marketing performance and S-curves. Thus, the results from MMM should be used
+with caution when making decisions.
+
 
 
 Paragraph 2
