@@ -10,7 +10,9 @@ tags: [ROMI, MMM, MTA]
 
 Check growth engine photos!
 
-I sometimes fear for Marketing. 
+Increasingly, boards and CEOs are demanding hard empirical evidence that proposed marketing expenditures will yield greater profitability.
+
+By focusing on ROMI, managers can not only empirically measure the marketing effectiveness of their assets, but can also compare the pay-offs from competing alternatives and make more informed decisions. 
 
 Why does Marketing struggle so much to demonstrate it's financial returns / impact on financial outcomes?
 
@@ -20,8 +22,6 @@ with it.
 
 To optimise marketing spending and to promote the accountability of
 marketing, Stewart (2009) suggests developing industry-wide standardised measures for the short-term and long-term effects. The real options,
-7
-Measuring marketing effectiveness
 however, remain specific to each company and thus are not standardisable
 as measures. The measures used for quantifying the short- and long-term
 effects should be financial. According to Stewart (2009), this is important because it is the language that top management understands and
@@ -49,6 +49,8 @@ From this marketing process, it is possible to identify different types
 of returns. Stewart (2009) suggests that marketing has three types of
 returns: short-term (incremental) effects, long-term (persistent) effects
 and real options (see Figure 2.2)
+
+
 
 One of the most commonly applied financial measures is the
 return on marketing investment (ROMI) that combines both the returns
