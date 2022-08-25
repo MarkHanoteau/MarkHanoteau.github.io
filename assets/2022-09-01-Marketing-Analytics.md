@@ -10,7 +10,7 @@ tags: [ROMI, MMM, MTA]
 
 Marketing's  biggest C-suite communication challenge is to empirically and accurately prove how effective marketing strategies are on financial outcomes. This affects past performance assessments just as much as planning for which marketing investments will return the greater profitability.
 
-By focusing on ROMI, managers can not only empirically measure the marketing effectiveness of their assets, but can also compare the pay-offs from competing alternatives and make more informed decisions. 
+Adopting a 'Return on marketing Investment' (ROMI) outlook, managers can not only empirically measure the marketing effectiveness of their assets, but can also compare the pay-offs from competing alternatives and make more informed decisions. 
 
 Companies adopting ROMI have seen several benefits besides cost control and higher revenues. ROMI sharpens the focus on business goals, encourages transparency, and streamlines the business process. ROMI methods can be applied to a broad range of marketing activities across multiple brands and categories. Perhaps the most salient benefit is that it improves the speed of decision making.
 
