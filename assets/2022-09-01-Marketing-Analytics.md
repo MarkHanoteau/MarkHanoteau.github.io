@@ -10,16 +10,21 @@ tags: [ROMI, MMM, MTA]
 
 Marketing's  biggest C-suite communication challenge is to empirically and accurately prove how effective marketing strategies are on financial outcomes. This affects past performance assessments just as much as planning for which marketing investments will return the greater profitability.
 
-multitouch attribution (MTA) is a solution that suggest ways to optimize their marketing performance. 
+By focusing on ROMI, managers can not only empirically measure the marketing effectiveness of their assets, but can also compare the pay-offs from competing alternatives and make more informed decisions. 
+
+Companies adopting ROMI have seen several benefits besides cost control and higher revenues. ROMI sharpens the focus on business goals, encourages transparency, and streamlines the business process. ROMI methods can be applied to a broad range of marketing activities across multiple brands and categories. Perhaps the most salient benefit is that it improves the speed of decision making.
+
+
+
 
 **Plan Strategically with Marketing Mix Modeling**
 
-Marketing mix modeling is a top down modelling solution that measures the high-level impact of a range of marketing efforts on sales, will help guide budget allocation by showing how channel performance compares, to get the optimal marketing mix. 
-It models sales over time across digital and offline channels, as a function of advertising sales, other marketing variables and even control variables like weather, seasonality and competition.
-
-Marketing mix modeling provides high-level strategic insights for budgeting and long-term planning. It uses statistical analysis to understand past trends and predict the future effect of marketing tactics on sales. Leveraging summary-level data, it measures a wide array of online and offline marketing activities (linear TV, in-store promotions, online display, paid search, etc.), and assesses the effectiveness of spending by channel over and above the baseline of sales that would have occurred without any marketing efforts. It also controls for external factors that can impact performance, such as weather, economic conditions, and holidays.
+Marketing mix modeling is a top down modelling solution that measures the high-level impact of a range of marketing efforts on sales, will help guide budget allocation by showing how channel (incremental) performance compares, to get the optimal marketing mix. 
+It models sales over time across digital and offline channels, as a function of advertising sales, other marketing variables and even control variables like weather, economic conditions, seasonality and competition.
 
 **Optimize Tactically with Multi-Touch Attribution**
+multitouch attribution (MTA) is a solution that suggest ways to optimize their marketing performance. 
+
 Multi-touch attribution, on the other hand, offers tactical insights for short-term optimization. It focuses on addressable channels and leverages granular, user-level data to analyze performance in near real time. It does this by calculating and assigning fractional KPI credit to the marketing touchpoints and dimensions (publisher, placement, creative, offer, etc.) along the consumer journey that influenced a sales or other desired outcome. Marketers can use this insight to make smarter tactical decisions, such as which call to action to use or which keywords to bid on.
 
 Attribution is the process of determining the relative contribution of individual campaign impressions
@@ -41,10 +46,6 @@ are performing most effectively against their Key Performance Indicator (KPI). T
 regarded by practitioners as a proxy for optimizing campaign performance (Interactive Advertising
 Bureau, 2017). Contrary to media mix modeling, it is a bottom-up measurement approach that
 requires individual-level data (Gartner, 2018).
-Marketing mix modeling is most useful when sales happen in physical stores, and media is allocated
-towards online and offline channels. On the other hand, MTA is preferred when the conversion path
-happens mostly online, and marketers have user-level data readily available (Gartner, 2018).
-
 
 **Achieve Better Results by Combining Methods**
 
@@ -64,11 +65,13 @@ For example, consider a brand that is running multiple campaigns across a number
 
 Most brands today rely on both online and offline channels to drives sales, revenue and other desired business outcomes. By leveraging a holistic measurement approach that reconciles data and insight from marketing mix modeling and multi-touch attribution, marketers can enjoy the truly comprehensive view they need to make the right decisions, at the right time, to optimize performance across every area of investment.
 
-By focusing on ROMI, managers can not only empirically measure the marketing effectiveness of their assets, but can also compare the pay-offs from competing alternatives and make more informed decisions. 
 
-Companies adopting ROMI have seen several benefits besides cost control and higher revenues. ROMI sharpens the focus on business goals, encourages transparency, and streamlines the business process. ROMI methods can be applied to a broad range of marketing activities across multiple brands and categories. Perhaps the most salient benefit is that it improves the speed of decision making.
 
-Why does Marketing struggle so much to demonstrate it's financial returns / impact on financial outcomes?
+
+
+
+
+
 
 Measuring the impact of marketing is essential for improving its performance and
 justifying marketing decisions to top management. However, marketers often struggle
