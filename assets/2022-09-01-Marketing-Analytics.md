@@ -8,10 +8,9 @@ share-img: /assets/img/ROMI.jpg
 tags: [ROMI, MMM, MTA]
 ---
 
-Marketing leaders reported that their biggest C-suite communication challenge was to prove the
-impact of marketing on financial outcomes
+Marketing's  biggest C-suite communication challenge is to empirically prove the impact of marketing on financial outcomes
 
-Increasingly, boards and CEOs are demanding hard empirical evidence that proposed marketing expenditures will yield greater profitability.
+ proposed marketing expenditures will yield greater profitability.
 
 Measuring marketing effectiveness sharpens the business goals and adds transparency to planning and performance assessment.
 
