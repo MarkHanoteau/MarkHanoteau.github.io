@@ -24,40 +24,17 @@ effectiveness and efficiency. Effectiveness refers to the ability to reach a
 goal, whereas efficiency refers to the ability to do so with the least amount
 of resources.
 For companies, the goal is to make a profit. Thus, the ROMI measures the
-efficiency of marketing efforts rather than their effectiveness. The upper
-part of the ROMI equation, in turn, represents effectiveness. Although
-improving efficiency, in general, also leads to improving effectiveness,
-it may fail in some cases. Imagine two mutually exclusive marketing
-projects: the first one returning EUR 100 million for a EUR 50 million
-investment and the second one returning EUR 10 million for a EUR 2
-million investment. The first one has a higher net return (e50 mill. vs
-e8 mill.) but a lower ROMI (100% vs 400%). Thus, the goal in marketing
+efficiency of marketing efforts rather than their effectiveness. Thus, the goal in marketing
 should be to maximise effectiveness rather than just efficiency, even if it
-reduces efficiency (Farris et al., 2015; Hanssens and Pauwels, 2016). One
-way to reach this goal is to use incremental ROMI between two choices
-(Farris et al., 2015). In our example, we get a 187.5% incremental ROMI
-((100 − 10)/(50 − 2) · 100% = 187.5%) when selecting the first project over
-the second one.
+reduces efficiency. One
+way to reach this goal is to use incremental ROMI between two choices. 
 
-To reach higher profits, marketers should not blindly shift budgets toward
-high ROMI marketing efforts. Low ROMI operations may be saturated
-but effective. High ROMI operations may, in some cases, become quickly
-saturated, and sudden shifts towards them can lead to lower effectiveness.
 Moreover, the ROMI does not, by default, tell about the risks involved investments. Additional investment into an activity that has performed well
 in the past can always fail. Thus, marketers should consider marketing
 spending as an investment and carefully approach the decisions with the
 help relevant information, e.g. ROMI figures, S-curve estimates, forecasts
 and risk analyses.
-Although the ROMI is a useful measure in marketing decision making,
-some researchers criticise it. For example, Ambler and Roberts (2005) and
-Rust et al. (2004) note that the ROMI often dismisses the potential impact
-of marketing investments on long-term marketing assets, thus yielding
-inaccurate results on the profitability of investments. Consequently, they
-recommend using other long-term measures alongside the ROMI. Despite
-the critique, the ROMI remains a simple and effective way to assess the
-short-term impact of investments. Moreover, if a company manages to
-quantify the financial impact of long-term effects, it can include them into
-the ROMI to form a complete estimate.
+
 
 Overall, the ROMI can help marketers to gain back the trust of CEOs.
 
