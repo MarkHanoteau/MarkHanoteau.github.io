@@ -1,36 +1,21 @@
 ---
 layout: post
-title: ROMI vs MMM vs MTA
-subtitle: Demystifying Marketing Effectiveness 
+title: How to measure and optimize Marketing's contribution to enterprise value
+subtitle: ROMI vs MMM vs MTA
 cover-img: /assets/img/ROMI.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/ROMI.jpg
 tags: [ROMI, MMM, MTA]
 ---
 
-Marketing's  biggest C-suite communication challenge is to empirically prove the impact of marketing on financial outcomes
+Marketing's  biggest C-suite communication challenge is to empirically and accurately prove how effective marketing strategies are on financial outcomes. This affects past performance assessments just as much as planning for which marketing investments will return the greater profitability.
 
- proposed marketing expenditures will yield greater profitability.
-
-Measuring marketing effectiveness sharpens the business goals and adds transparency to planning and performance assessment.
-
-Marketing departments are no longer measured by the leads they generate, but by providing proof of ROI for every campaign they run. This makes the need for accurate measurement increasingly important.
-
-Thus, measuring and optimizing the
-contribution of marketing to enterprise value has emerged as a critical topic for senior leaders
-
-Marketing mix modeling and multitouch attribution (MTA) are two solutions that measure the
-impact of marketing and media efforts and suggest ways to optimize their marketing performance 
+multitouch attribution (MTA) is a solution that suggest ways to optimize their marketing performance. 
 
 **Plan Strategically with Marketing Mix Modeling**
-Marketing mix models help to measure how advertising spend affects sales and to guide budget
-allocation to get the optimal marketing mix (Jin et al., 2017). These are statistical models that use
-aggregate historical data to model sales over time, as a function of advertising variables, other
-marketing variables or even control variables like weather, seasonality, and competition (Chan &
-Perry, 2017). This data typically includes media spend across digital and offline channels, such as TV
-and print. It is a top-down approach that measures the high-level impact of a range of marketing
-tactics. They are used to guide investment decisions by showing how channel performance
-compares. Marketing mix models that only include media-related data are called media mix models 
+
+Marketing mix modeling is a top down modelling solution that measures the high-level impact of a range of marketing efforts on sales, will help guide budget allocation by showing how channel performance compares, to get the optimal marketing mix. 
+It models sales over time across digital and offline channels, as a function of advertising sales, other marketing variables and even control variables like weather, seasonality and competition.
 
 Marketing mix modeling provides high-level strategic insights for budgeting and long-term planning. It uses statistical analysis to understand past trends and predict the future effect of marketing tactics on sales. Leveraging summary-level data, it measures a wide array of online and offline marketing activities (linear TV, in-store promotions, online display, paid search, etc.), and assesses the effectiveness of spending by channel over and above the baseline of sales that would have occurred without any marketing efforts. It also controls for external factors that can impact performance, such as weather, economic conditions, and holidays.
 
