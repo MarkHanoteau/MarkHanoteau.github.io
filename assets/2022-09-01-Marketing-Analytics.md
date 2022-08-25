@@ -10,10 +10,31 @@ tags: [ROMI, MMM, MTA]
 
 Marketing's  biggest C-suite communication challenge is to accurately prove how effective marketing strategies are on financial outcomes. This struggle ranges from fact-based past performance assessments just as much as empirically deciding whether to decrease or increase Marketing Budgets, or even, at a more tactical level, which future marketing investments will return the greater pay off.
 
-Beyond cost control and profitability decision making, adopting a 'Return On Marketing Investment' (ROMI) outlook sharpens the focus on business goals. It also encourages transparency and builds credibility as financial impact is a language that top management understands and evaluates against. 
+Beyond cost control and profitability decision making, adopting a financial measure like 'Return On Marketing Investment' (ROMI) outlook sharpens the focus on business goals. By combining the returns and costs of marketing, ROMI encourages transparency and builds credibility as financial impact is a language that top management understands and evaluates against. 
 
+ROMI = Incremental margin − Marketing investment / Marketing investment 
+
+The measure enables the comparison of efficiencies between different marketing investments. It is typically calculated by doing a baseline-lift valuation on short-term sales, where the effect of a marketing effort on sales is separated from the level of sales that would have been reached without the marketing effort. 
 
 **Plan Strategically with Marketing Mix Modeling**
+
+The most commonly studied and applied method is marketing mix modelling (MMM), aka
+media mix modelling, where a regression model is fitted to historical data
+to represent sales as a function of advertising and marketing variables,
+such as media spend, number of views and product price, and control
+variables, such as weather, seasonality, and market competition. The
+outputs are typically ROAS figures for media, which can be used to adjust
+marketing budgets. The method is popular as it requires no experiments
+and is somewhat simple to implement. According to Chan and Perry (2017),
+a lack of granular data, however, commonly limits the scope of MMM just
+to studying the marketing effectiveness on a national level rather than,
+for example, regionally or by product category. This limitation reduces
+opportunities in detailed decision making and budgeting. MMM also
+suffers from various downsides, such as lack of data, untested assumptions of market behaviour and various biases. To counter many of these problems,
+Chan and Perry suggest three areas of improvement for MMM:
+1. Better data
+2. Better models
+3. Model validation through simulation
 
 Marketing mix modeling is a top down modelling solution that measures the high-level impact of a range of marketing efforts on sales, will help guide budget allocation by showing how channel (incremental) performance compares, to get the optimal marketing mix. 
 It models sales over time across digital and offline channels, as a function of advertising sales, other marketing variables and even control variables like weather, economic conditions, seasonality and competition.
@@ -69,59 +90,6 @@ Most brands today rely on both online and offline channels to drives sales, reve
 
 
 
-
-From this marketing process, it is possible to identify different types
-of returns. Stewart (2009) suggests that marketing has three types of
-returns: short-term (incremental) effects, long-term (persistent) effects
-and real options (see Figure 2.2)
-
-
-
-One of the most commonly applied financial measures is the
-return on marketing investment (ROMI) that combines both the returns
-and costs of marketing into the equation
-
-ROMI =
-Incremental margin − Marketing investment / 
-Marketing investment 
-
-(According to Stewart (2009), marketing can be identified to
-have three types of impacts: short-term (incremental) returns, e.g. sales,
-long-term (persistent) effects, e.g. customer attitudes, and real options,
-e.g. a higher price point enabled by a valued brand. )
-
- The measure enables the comparison
-of efficiencies between different marketing investments. It is typically
-calculated by doing a baseline-lift valuation on short-term sales, where
-the effect of a marketing effort on sales is separated from the level of sales
-that would have been reached without the marketing effort. Marketers
-can adapt the measure to analyse different investments, for example, to
-measure return on advertising spending (ROAS). The measure is criticised
-by some researchers (e.g. Ambler and Roberts (2005); Rust et al. (2004))
-for often only including short-term effects and disregarding any long-term
-effects. Thus, other measures may be needed to support it.
-Despite the short-termism of ROMI, researchers and companies have
-done a considerable amount of research on the topic. The most commonly
-studied and applied method is marketing mix modelling (MMM), aka
-media mix modelling, where a regression model is fitted to historical data
-to represent sales as a function of advertising and marketing variables,
-such as media spend, number of views and product price, and control
-variables, such as weather, seasonality, and market competition. The
-outputs are typically ROAS figures for media, which can be used to adjust
-marketing budgets. The method is popular as it requires no experiments
-and is somewhat simple to implement. According to Chan and Perry (2017),
-a lack of granular data, however, commonly limits the scope of MMM just
-to studying the marketing effectiveness on a national level rather than,
-for example, regionally or by product category. This limitation reduces
-opportunities in detailed decision making and budgeting. MMM also
-suffers from various downsides, such as lack of data, untested assumptions
-2
-Introduction
-of market behaviour and various biases. To counter many of these problems,
-Chan and Perry suggest three areas of improvement for MMM:
-1. Better data
-2. Better models
-3. Model validation through simulation
 
 A model that could measure
 the underlying performance structure, starting from promotions and other
