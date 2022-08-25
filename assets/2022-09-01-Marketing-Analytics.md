@@ -14,45 +14,10 @@ Beyond cost control and profitability decision making, adopting a financial meas
 
 ROMI = Incremental margin − Marketing investment / Marketing investment 
 
-**gives 
+**give WF example**
 
 The measure enables the comparison of efficiencies between different marketing investments. It is typically calculated by doing a baseline-lift valuation on short-term sales, where the effect of a marketing effort on sales is separated from the level of sales that would have been reached without the marketing effort. 
 
-
-The **scope of the ROMI measure** can also change. For example, it can
-range from measuring the overall marketing impact to the impact of
-an individual campaign, promotion, ad or ad view. The measure can
-appear under new names when changing the scope, for example, as
-return on advertising spending (ROAS) when discussing advertising
-spending. Overall, the ROMI can be adapted to support both strategic
-and tactical decisions at various levels of the organisation.
-
-The **range of the ROMI** can take three different forms: total, incremental
-and marginal. The total ROMI evaluates the return on all spending,
-the incremental ROMI the return on a specified spending increment
-and the marginal ROMI describes the return gained when increasing
-spending with one unit (Farris et al., 2015). These forms can be useful
-in different decisions. For example, the total ROMI can be used to
-evaluate whether an investment is profitable in general, whereas
-the incremental and marginal ROMI figures can be used to evaluate
-whether it is worth putting more money into an investment.
-
-Because of all the possible variations, marketers and managers can easily
-misinterpret ROMI numbers. Consequently, Farris et al. (2015) recommend
-that marketers fully disclose their definition and measurement method
-of the ROMI to promote transparency and to support effective decision
-making.
-
-Besides just calculating the current ROMI, marketers also often attempt
-to estimate the ROMI at other levels of spending. Typically, the estimate
-takes the form of an S-curve that is shaped by two inherent characteristics
-of media spending: the necessity to have a certain level of awareness
-before marketing starts to be effective and the diminishing returns of
-media investment (Mantia, 2015; Wang et al., 2017). An example of such
-curves is given in Figure 2.4 by Karmann et al. (2015). For each point on
-the curves, the total and marginal ROAS are calculable. The definition of
-ROAS is slightly different from the ROMI as the advertising spending is
-not subtracted from the incremental profit.
 
 When using ROMI figures to make decisions, it is essential to distinguish
 effectiveness and efficiency. Effectiveness refers to the ability to reach a
