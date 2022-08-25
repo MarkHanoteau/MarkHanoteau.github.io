@@ -8,8 +8,6 @@ share-img: /assets/img/ROMI.jpg
 tags: [ROMI, MMM, MTA]
 ---
 
-Check growth engine photos!
-
 Marketing leaders reported that their biggest C-suite communication challenge was to prove the
 impact of marketing on financial outcomes
 
@@ -22,13 +20,60 @@ Marketing departments are no longer measured by the leads they generate, but by 
 Thus, measuring and optimizing the
 contribution of marketing to enterprise value has emerged as a critical topic for senior leaders
 
+Marketing mix modeling and multitouch attribution (MTA) are two solutions that measure the
+impact of marketing and media efforts and suggest ways to optimize their marketing performance 
+
 **Plan Strategically with Marketing Mix Modeling**
+Marketing mix models help to measure how advertising spend affects sales and to guide budget
+allocation to get the optimal marketing mix (Jin et al., 2017). These are statistical models that use
+aggregate historical data to model sales over time, as a function of advertising variables, other
+marketing variables or even control variables like weather, seasonality, and competition (Chan &
+Perry, 2017). This data typically includes media spend across digital and offline channels, such as TV
+and print. It is a top-down approach that measures the high-level impact of a range of marketing
+tactics. They are used to guide investment decisions by showing how channel performance
+compares. Marketing mix models that only include media-related data are called media mix models 
+
 Marketing mix modeling provides high-level strategic insights for budgeting and long-term planning. It uses statistical analysis to understand past trends and predict the future effect of marketing tactics on sales. Leveraging summary-level data, it measures a wide array of online and offline marketing activities (linear TV, in-store promotions, online display, paid search, etc.), and assesses the effectiveness of spending by channel over and above the baseline of sales that would have occurred without any marketing efforts. It also controls for external factors that can impact performance, such as weather, economic conditions, and holidays.
 
 **Optimize Tactically with Multi-Touch Attribution**
 Multi-touch attribution, on the other hand, offers tactical insights for short-term optimization. It focuses on addressable channels and leverages granular, user-level data to analyze performance in near real time. It does this by calculating and assigning fractional KPI credit to the marketing touchpoints and dimensions (publisher, placement, creative, offer, etc.) along the consumer journey that influenced a sales or other desired outcome. Marketers can use this insight to make smarter tactical decisions, such as which call to action to use or which keywords to bid on.
 
+Attribution is the process of determining the relative contribution of individual campaign impressions
+towards a goal for the purpose of performance measurement and optimization. The dominant
+attribution methodology is last-touch, which assigns credit to only the last ad that a consumer
+interacted with, before taking the desired action of the campaign (Interactive Advertising Bureau,
+2017). In this case, the desired action of the campaign was for users to participate online by
+registering a set of products they had bought in physical stores. However, the last-touch model is
+flawed because individuals are usually exposed to multiple advertising channels before making any 
+purchasing decision. Therefore, a fundamental problem in measuring advertising effectiveness is to
+quantify how revenue should be attributed to multiple touch-points along consumers' conversion
+paths, which is the sequence, timing, and engagement in advertising channels along the purchase
+funnel (Zhao, Mahboobi, & Bagheri, 2019).
+MTA is a solution for this measurement challenge since it assigns credit to multiple touch points
+along the path to conversion. By assembling information about user characteristics, media touch
+points, and sales/conversion data, marketers can understand which combination of channels,
+audience targets, publishers, devices, creatives, search keywords, or other marketing considerations
+are performing most effectively against their Key Performance Indicator (KPI). Thus, they are widely
+regarded by practitioners as a proxy for optimizing campaign performance (Interactive Advertising
+Bureau, 2017). Contrary to media mix modeling, it is a bottom-up measurement approach that
+requires individual-level data (Gartner, 2018).
+Marketing mix modeling is most useful when sales happen in physical stores, and media is allocated
+towards online and offline channels. On the other hand, MTA is preferred when the conversion path
+happens mostly online, and marketers have user-level data readily available (Gartner, 2018).
+
+
 **Achieve Better Results by Combining Methods**
+
+By combining both approaches, marketers can further corroborate which channels are contributing
+to the pre-defined KPIs while preventing misguided conclusions when gaps between these two
+methods arise. For instance, a marketer may use MTA to determine the relative contributions of
+display and paid search tactics to online revenue. Meanwhile, they may also use marketing mix
+modeling to estimate the impact of those same tactics on offline sales. Blending the detailed view
+from MTA with the higher-level analysis provided by marketing mix modeling, companies gain more
+accurate measurements. However, the different data sources and levels of data capture make the
+automated reconciliation of the two approaches difficult. As a result, some providers offer custom
+unified measurement solutions (Gartner, 2018).
+
 Marketers’ need for an integrated view of their marketing performance is as critical as ever. While marketing mix modeling and multi-touch attribution have their distinct advantages, marketers can realize the highest returns when they are used in tandem. By bringing insights from both methods of analysis together, marketers can get the comprehensive view of performance they need to inform their next best action within and across channels.
 
 For example, consider a brand that is running multiple campaigns across a number of online and offline channels. Using marketing mix modeling, the brand can analyze all the drivers of performance and determine how to best allocate its budget between channels on a quarterly or annual basis. Using multi-touch attribution, the brand can then drill down deeper and allocate channel budgets to the highest-performing publishers, placements, keywords, creatives, and other tactics while campaigns are still in flight. Armed with this strategic -and tactical-level insight, brands can make a broad array of decisions to maximize the efficiency and effectiveness of their entire marketing portfolios.
@@ -282,6 +327,21 @@ The models are often based on inaccurate or unverified assumptions about
 the nature of marketing environment (Zhang and Vaver, 2017) and are
 merely capable of producing correlational, not causal results (Chan and
 Perry, 2017).
+
+Data used to fit marketing mix models are typically historical weekly or monthly aggregated national
+data, although geo-level data can be used. The data includes:
+ response data, typically sales but can be other KPI
+ media metrics by channel, such as impressions, clicks, GRPs, with the cost being the most
+commonly used
+ marketing metrics such as price, promotion, product distribution
+ control factors such as seasonality, weather or competition.
+The response data needs to be at the same level of granularity as the ads spend data. So, while an
+advertiser may have precise SKU level data, advertising is usually done at a brand or
+product level over an entire country. For the response data, such as sales, advertisers have in place a
+robust data collection mechanism. However, media data is more challenging to collect, as ad
+campaigns are often executed through several intermediaries, such as agencies or online platforms.
+Since it is difficult to get competitor variables for pricing, promotion, and distribution through thirdparties, these variables are often omitted (Chan & Perry, 2017).
+
 
 MMM typically uses four types of
 data to fit their models:
