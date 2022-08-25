@@ -12,6 +12,8 @@ Check growth engine photos!
 
 Increasingly, boards and CEOs are demanding hard empirical evidence that proposed marketing expenditures will yield greater profitability.
 
+Measuring marketing effectiveness sharpens the business goals and adds transparency to planning and performance assessment.
+
 By focusing on ROMI, managers can not only empirically measure the marketing effectiveness of their assets, but can also compare the pay-offs from competing alternatives and make more informed decisions. 
 
 Why does Marketing struggle so much to demonstrate it's financial returns / impact on financial outcomes?
@@ -396,6 +398,14 @@ Conventional MMM only provides an estimate of the past performance but does not 
 conditions may change in the future and affect marketing performance and S-curves. Thus, the results from MMM should be used
 with caution when making decisions.
 
+ROMI-managed companies extensively use econometric or marketing mix models to aid the marketing mix decision-making process. The models help optimize ROMI beyond improving the measurement of returns; they allow marketing analysts to virtually estimate potential outcomes across a variety of circumstances performing “what-if scenarios” and to evaluate more quickly and efficiently a wide range of alternative options. MMM adds a critically important capability to ROMI management when building on a foundation of definitions and metrics developed through cross-functional teamwork.
 
+Marketers have used MMM to move beyond cost management to optimize their mix and manage their top-line opportunities.
 
-Paragraph 2
+Minute Maid has turned its MMMs into a potent tool for increasing the payback on its advertising spending. These models are updated every six months for all major brands and the learning gained in the process is used for planning purposes.
+
+MMMs allow marketers to estimate potential outcomes across a variety of circumstances—able to evaluate alternative hypotheses and select those most likely to payoff and to test them more rigorously because they do not have to test a thousand options. MMM tools can be productive as a means by which users enrich their judgmental processes by adding to their learning.
+
+MMM is often criticized for its “rear-view mirror” or after the fact perspective of marketing mix impact. However, new simulation models can provide scenarios for managers to assess future potential results. 
+
+To aid in evaluating new products, they have begun Monte Carlo simulations integrating the degrees of uncertainty and drivers of a project. The simulations enable the marketing team to assess the range of potential outcomes and to apply market models and to assess discounted cash flow. The analysis allows the understanding of likely outcomes to gain a degree of confidence of the amount of risk. Their risk-adjustment net-present-value model adjusts the hurdle rate over the life of the project to more accurately reflect the degree of risk that the organization is taking.“What-if” simulations permit marketing analysts to evaluate their databases and models, as well as testing out alter-native marketing options. Also, “What-if” or “Due-to” analyses can turn a postmortem on a disappointing promotion into a springboard to new, more effective programs for the future.
