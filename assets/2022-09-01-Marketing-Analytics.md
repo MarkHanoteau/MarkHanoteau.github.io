@@ -2,19 +2,42 @@
 layout: post
 title: ROMI vs MMM vs MTA
 subtitle: Demystifying Marketing Effectiveness 
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/ROMI.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/ROMI.jpg
 tags: [ROMI, MMM, MTA]
 ---
 
 Check growth engine photos!
 
+Marketing leaders reported that their biggest C-suite communication challenge was to prove the
+impact of marketing on financial outcomes
+
 Increasingly, boards and CEOs are demanding hard empirical evidence that proposed marketing expenditures will yield greater profitability.
 
 Measuring marketing effectiveness sharpens the business goals and adds transparency to planning and performance assessment.
 
+Marketing departments are no longer measured by the leads they generate, but by providing proof of ROI for every campaign they run. This makes the need for accurate measurement increasingly important.
+
+Thus, measuring and optimizing the
+contribution of marketing to enterprise value has emerged as a critical topic for senior leaders
+
+**Plan Strategically with Marketing Mix Modeling**
+Marketing mix modeling provides high-level strategic insights for budgeting and long-term planning. It uses statistical analysis to understand past trends and predict the future effect of marketing tactics on sales. Leveraging summary-level data, it measures a wide array of online and offline marketing activities (linear TV, in-store promotions, online display, paid search, etc.), and assesses the effectiveness of spending by channel over and above the baseline of sales that would have occurred without any marketing efforts. It also controls for external factors that can impact performance, such as weather, economic conditions, and holidays.
+
+**Optimize Tactically with Multi-Touch Attribution**
+Multi-touch attribution, on the other hand, offers tactical insights for short-term optimization. It focuses on addressable channels and leverages granular, user-level data to analyze performance in near real time. It does this by calculating and assigning fractional KPI credit to the marketing touchpoints and dimensions (publisher, placement, creative, offer, etc.) along the consumer journey that influenced a sales or other desired outcome. Marketers can use this insight to make smarter tactical decisions, such as which call to action to use or which keywords to bid on.
+
+**Achieve Better Results by Combining Methods**
+Marketers’ need for an integrated view of their marketing performance is as critical as ever. While marketing mix modeling and multi-touch attribution have their distinct advantages, marketers can realize the highest returns when they are used in tandem. By bringing insights from both methods of analysis together, marketers can get the comprehensive view of performance they need to inform their next best action within and across channels.
+
+For example, consider a brand that is running multiple campaigns across a number of online and offline channels. Using marketing mix modeling, the brand can analyze all the drivers of performance and determine how to best allocate its budget between channels on a quarterly or annual basis. Using multi-touch attribution, the brand can then drill down deeper and allocate channel budgets to the highest-performing publishers, placements, keywords, creatives, and other tactics while campaigns are still in flight. Armed with this strategic -and tactical-level insight, brands can make a broad array of decisions to maximize the efficiency and effectiveness of their entire marketing portfolios.
+
+Most brands today rely on both online and offline channels to drives sales, revenue and other desired business outcomes. By leveraging a holistic measurement approach that reconciles data and insight from marketing mix modeling and multi-touch attribution, marketers can enjoy the truly comprehensive view they need to make the right decisions, at the right time, to optimize performance across every area of investment.
+
 By focusing on ROMI, managers can not only empirically measure the marketing effectiveness of their assets, but can also compare the pay-offs from competing alternatives and make more informed decisions. 
+
+Companies adopting ROMI have seen several benefits besides cost control and higher revenues. ROMI sharpens the focus on business goals, encourages transparency, and streamlines the business process. ROMI methods can be applied to a broad range of marketing activities across multiple brands and categories. Perhaps the most salient benefit is that it improves the speed of decision making.
 
 Why does Marketing struggle so much to demonstrate it's financial returns / impact on financial outcomes?
 
