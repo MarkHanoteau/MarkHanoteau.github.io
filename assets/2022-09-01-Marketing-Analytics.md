@@ -10,139 +10,14 @@ tags: [ROMI, MMM, MTA]
 
 Marketing's  biggest C-suite communication challenge is to accurately prove how effective marketing strategies are on financial outcomes. This struggle ranges from fact-based past performance assessments just as much as empirically deciding whether to decrease or increase Marketing Budgets, or even, at a more tactical level, which future marketing investments will return the greater pay off.
 
-Beyond cost control and profitability decision making, adopting a financial measure like 'Return On Marketing Investment' (ROMI) outlook sharpens the focus on business goals. By combining the returns and costs of marketing, ROMI encourages transparency and builds credibility as financial impact is a language that top management understands and evaluates against. 
+Beyond cost control and profitability decision making, adopting a financial measure like 'Return On Marketing Investment' (ROMI) outlook sharpens the focus on business goals. By comparing the returns and costs of marketing, ROMI encourages transparency and builds credibility as financial impact is a language that top management understands and evaluates against. ROMI helps compare marketing decisions by revealing the ones with the higher efficiency.
 
 ROMI = Incremental margin − Marketing investment / Marketing investment 
 
+**gives 
+
 The measure enables the comparison of efficiencies between different marketing investments. It is typically calculated by doing a baseline-lift valuation on short-term sales, where the effect of a marketing effort on sales is separated from the level of sales that would have been reached without the marketing effort. 
 
-**Plan Strategically with Marketing Mix Modeling**
-
-The most commonly studied and applied method is marketing mix modelling (MMM), aka
-media mix modelling, where a regression model is fitted to historical data
-to represent sales as a function of advertising and marketing variables,
-such as media spend, number of views and product price, and control
-variables, such as weather, seasonality, and market competition. The
-outputs are typically ROAS figures for media, which can be used to adjust
-marketing budgets. The method is popular as it requires no experiments
-and is somewhat simple to implement. According to Chan and Perry (2017),
-a lack of granular data, however, commonly limits the scope of MMM just
-to studying the marketing effectiveness on a national level rather than,
-for example, regionally or by product category. This limitation reduces
-opportunities in detailed decision making and budgeting. MMM also
-suffers from various downsides, such as lack of data, untested assumptions of market behaviour and various biases. To counter many of these problems,
-Chan and Perry suggest three areas of improvement for MMM:
-1. Better data
-2. Better models
-3. Model validation through simulation
-
-Marketing mix modeling is a top down modelling solution that measures the high-level impact of a range of marketing efforts on sales, will help guide budget allocation by showing how channel (incremental) performance compares, to get the optimal marketing mix. 
-It models sales over time across digital and offline channels, as a function of advertising sales, other marketing variables and even control variables like weather, economic conditions, seasonality and competition.
-
-**Optimize Tactically with Multi-Touch Attribution**
-multitouch attribution (MTA) is a solution that suggest ways to optimize their marketing performance. 
-
-Multi-touch attribution, on the other hand, offers tactical insights for short-term optimization. It focuses on addressable channels and leverages granular, user-level data to analyze performance in near real time. It does this by calculating and assigning fractional KPI credit to the marketing touchpoints and dimensions (publisher, placement, creative, offer, etc.) along the consumer journey that influenced a sales or other desired outcome. Marketers can use this insight to make smarter tactical decisions, such as which call to action to use or which keywords to bid on.
-
-Attribution is the process of determining the relative contribution of individual campaign impressions
-towards a goal for the purpose of performance measurement and optimization. The dominant
-attribution methodology is last-touch, which assigns credit to only the last ad that a consumer
-interacted with, before taking the desired action of the campaign (Interactive Advertising Bureau,
-2017). In this case, the desired action of the campaign was for users to participate online by
-registering a set of products they had bought in physical stores. However, the last-touch model is
-flawed because individuals are usually exposed to multiple advertising channels before making any 
-purchasing decision. Therefore, a fundamental problem in measuring advertising effectiveness is to
-quantify how revenue should be attributed to multiple touch-points along consumers' conversion
-paths, which is the sequence, timing, and engagement in advertising channels along the purchase
-funnel (Zhao, Mahboobi, & Bagheri, 2019).
-MTA is a solution for this measurement challenge since it assigns credit to multiple touch points
-along the path to conversion. By assembling information about user characteristics, media touch
-points, and sales/conversion data, marketers can understand which combination of channels,
-audience targets, publishers, devices, creatives, search keywords, or other marketing considerations
-are performing most effectively against their Key Performance Indicator (KPI). Thus, they are widely
-regarded by practitioners as a proxy for optimizing campaign performance (Interactive Advertising
-Bureau, 2017). Contrary to media mix modeling, it is a bottom-up measurement approach that
-requires individual-level data (Gartner, 2018).
-
-**Achieve Better Results by Combining Methods**
-
-By combining both approaches, marketers can further corroborate which channels are contributing
-to the pre-defined KPIs while preventing misguided conclusions when gaps between these two
-methods arise. For instance, a marketer may use MTA to determine the relative contributions of
-display and paid search tactics to online revenue. Meanwhile, they may also use marketing mix
-modeling to estimate the impact of those same tactics on offline sales. Blending the detailed view
-from MTA with the higher-level analysis provided by marketing mix modeling, companies gain more
-accurate measurements. However, the different data sources and levels of data capture make the
-automated reconciliation of the two approaches difficult. As a result, some providers offer custom
-unified measurement solutions (Gartner, 2018).
-
-Marketers’ need for an integrated view of their marketing performance is as critical as ever. While marketing mix modeling and multi-touch attribution have their distinct advantages, marketers can realize the highest returns when they are used in tandem. By bringing insights from both methods of analysis together, marketers can get the comprehensive view of performance they need to inform their next best action within and across channels.
-
-For example, consider a brand that is running multiple campaigns across a number of online and offline channels. Using marketing mix modeling, the brand can analyze all the drivers of performance and determine how to best allocate its budget between channels on a quarterly or annual basis. Using multi-touch attribution, the brand can then drill down deeper and allocate channel budgets to the highest-performing publishers, placements, keywords, creatives, and other tactics while campaigns are still in flight. Armed with this strategic -and tactical-level insight, brands can make a broad array of decisions to maximize the efficiency and effectiveness of their entire marketing portfolios.
-
-Most brands today rely on both online and offline channels to drives sales, revenue and other desired business outcomes. By leveraging a holistic measurement approach that reconciles data and insight from marketing mix modeling and multi-touch attribution, marketers can enjoy the truly comprehensive view they need to make the right decisions, at the right time, to optimize performance across every area of investment.
-
-
-
-
-
-
-
-
-
-
-A model that could measure
-the underlying performance structure, starting from promotions and other
-low-level activities, would facilitate more granular decision making and
-possibly have a more significant impact on marketing performance.
-
-Overall, a gap seems to exist
-in research for a complete retail marketing mix model that would support
-the retailers in decision making on all levels with accurate marketing
-performance data.
-
-MMM often suffers from
-various downsides, such as lack of data, deficient model forms and biases. Researchers
-have consequently suggested improving it through better data, better models and model
-validation. However, researchers mainly discuss these areas as a way to improve model
-accuracy rather than to widen the scope of analysis. Improving modelling granularity
-would enable marketers to analyse performance on lower levels and broaden their discussion on improvements. Higher granularity could particularly support the retail industry,
-where marketing is a complex operation because of wide product ranges, geographical
-reaches and customer bases
-
-The ROMI compares the returns and costs
-of marketing, thus recognising marketing as an investment. A marketing
-decision with a positive ROMI can be deemed a justified investment and
-one with a negative ROMI unjustified. The measure also helps in comparing marketing decisions by revealing the ones with higher efficiency.
-The simple formula, however, leaves a lot open for interpretation. For
-example, how should marketers measure the incremental margins? What
-spending should be included in the measurement? Overall, Farris et al.
-(2015) identify three primary sources of variation in ROMI measurement:
-
-The **incremental returns** may be measured in different ways. A typical
-practice is to do a baseline–lift valuation that splits sales into a baseline, which would have been reached without the specific marketing
-effort(s), and into an incremental uplift part, which can be attributed
-to the marketing effort(s) (Farris et al., 2015). The incremental uplift
-part is then used in the calculation of the ROMI. Different modellers
-may, however, define the baseline and incremental sales differently. A
-common approach (e.g. by Cain (2010)) is to define the baseline as the
-long-term or trend component of the sales time series that is driven
-by the underlying consumer preferences (i.e. the marketing assets),
-regular shelf price, distribution and other underlying factors, and
-the incremental sales as the week-to-week sales fluctuation driven
-by marketing and promotions.
-To derive more accurate results, some models further dissect the
-incremental sales. For example, Silva-Risso et al. (1999) divide incremental sales of promotions into ‘borrowed’ and ‘truly incremental’
-(see Figure 2.3). The borrowed sales are purchases that consumers
-would have done in the future but were accelerated or cannibalised
-by stockpiling because of the promotion. Other such side effects, such
-as cannibalisation and halo, may also be taken into account.
-Besides incremental sales, ROMI measurement can also be based
-on cost-savings, conversion rates and changes in customer equity
-and marketing assets (Farris et al., 2015). The changes in customer
-equity and marketing assets can be used to estimate the long-term
-ROMI, although measuring the effects and setting a reliable baseline
-may turn out to be difficult (Stewart, 2009).
 
 The **scope of the ROMI measure** can also change. For example, it can
 range from measuring the overall marketing impact to the impact of
@@ -238,6 +113,98 @@ barriers that prevent their adoption. For example, to reveal the S-curve,
 experiments must be done at various levels of advertising spending, which
 can be costly. Moreover, the need and cost of having large control groups to
 measure weak effects limit the opportunities in their use.
+
+
+**Plan Strategically with Marketing Mix Modeling**
+
+The most commonly studied and applied method is marketing mix modelling (MMM), aka
+media mix modelling, where a regression model is fitted to historical data
+to represent sales as a function of advertising and marketing variables,
+such as media spend, number of views and product price, and control
+variables, such as weather, seasonality, and market competition. The
+outputs are typically ROAS figures for media, which can be used to adjust
+marketing budgets. The method is popular as it requires no experiments
+and is somewhat simple to implement. According to Chan and Perry (2017),
+a lack of granular data, however, commonly limits the scope of MMM just
+to studying the marketing effectiveness on a national level rather than,
+for example, regionally or by product category. This limitation reduces
+opportunities in detailed decision making and budgeting. MMM also
+suffers from various downsides, such as lack of data, untested assumptions of market behaviour and various biases. To counter many of these problems,
+Chan and Perry suggest three areas of improvement for MMM:
+1. Better data
+2. Better models
+3. Model validation through simulation
+
+
+A model that could measure
+the underlying performance structure, starting from promotions and other
+low-level activities, would facilitate more granular decision making and
+possibly have a more significant impact on marketing performance.
+
+Overall, a gap seems to exist
+in research for a complete retail marketing mix model that would support
+the retailers in decision making on all levels with accurate marketing
+performance data.
+
+MMM often suffers from
+various downsides, such as lack of data, deficient model forms and biases. Researchers
+have consequently suggested improving it through better data, better models and model
+validation. However, researchers mainly discuss these areas as a way to improve model
+accuracy rather than to widen the scope of analysis. Improving modelling granularity
+would enable marketers to analyse performance on lower levels and broaden their discussion on improvements. Higher granularity could particularly support the retail industry,
+where marketing is a complex operation because of wide product ranges, geographical
+reaches and customer bases
+
+Marketing mix modeling is a top down modelling solution that measures the high-level impact of a range of marketing efforts on sales, will help guide budget allocation by showing how channel (incremental) performance compares, to get the optimal marketing mix. 
+It models sales over time across digital and offline channels, as a function of advertising sales, other marketing variables and even control variables like weather, economic conditions, seasonality and competition.
+
+**Optimize Tactically with Multi-Touch Attribution**
+multitouch attribution (MTA) is a solution that suggest ways to optimize their marketing performance. 
+
+Multi-touch attribution, on the other hand, offers tactical insights for short-term optimization. It focuses on addressable channels and leverages granular, user-level data to analyze performance in near real time. It does this by calculating and assigning fractional KPI credit to the marketing touchpoints and dimensions (publisher, placement, creative, offer, etc.) along the consumer journey that influenced a sales or other desired outcome. Marketers can use this insight to make smarter tactical decisions, such as which call to action to use or which keywords to bid on.
+
+Attribution is the process of determining the relative contribution of individual campaign impressions
+towards a goal for the purpose of performance measurement and optimization. The dominant
+attribution methodology is last-touch, which assigns credit to only the last ad that a consumer
+interacted with, before taking the desired action of the campaign (Interactive Advertising Bureau,
+2017). In this case, the desired action of the campaign was for users to participate online by
+registering a set of products they had bought in physical stores. However, the last-touch model is
+flawed because individuals are usually exposed to multiple advertising channels before making any 
+purchasing decision. Therefore, a fundamental problem in measuring advertising effectiveness is to
+quantify how revenue should be attributed to multiple touch-points along consumers' conversion
+paths, which is the sequence, timing, and engagement in advertising channels along the purchase
+funnel (Zhao, Mahboobi, & Bagheri, 2019).
+MTA is a solution for this measurement challenge since it assigns credit to multiple touch points
+along the path to conversion. By assembling information about user characteristics, media touch
+points, and sales/conversion data, marketers can understand which combination of channels,
+audience targets, publishers, devices, creatives, search keywords, or other marketing considerations
+are performing most effectively against their Key Performance Indicator (KPI). Thus, they are widely
+regarded by practitioners as a proxy for optimizing campaign performance (Interactive Advertising
+Bureau, 2017). Contrary to media mix modeling, it is a bottom-up measurement approach that
+requires individual-level data (Gartner, 2018).
+
+**Achieve Better Results by Combining Methods**
+
+By combining both approaches, marketers can further corroborate which channels are contributing
+to the pre-defined KPIs while preventing misguided conclusions when gaps between these two
+methods arise. For instance, a marketer may use MTA to determine the relative contributions of
+display and paid search tactics to online revenue. Meanwhile, they may also use marketing mix
+modeling to estimate the impact of those same tactics on offline sales. Blending the detailed view
+from MTA with the higher-level analysis provided by marketing mix modeling, companies gain more
+accurate measurements. However, the different data sources and levels of data capture make the
+automated reconciliation of the two approaches difficult. As a result, some providers offer custom
+unified measurement solutions (Gartner, 2018).
+
+Marketers’ need for an integrated view of their marketing performance is as critical as ever. While marketing mix modeling and multi-touch attribution have their distinct advantages, marketers can realize the highest returns when they are used in tandem. By bringing insights from both methods of analysis together, marketers can get the comprehensive view of performance they need to inform their next best action within and across channels.
+
+For example, consider a brand that is running multiple campaigns across a number of online and offline channels. Using marketing mix modeling, the brand can analyze all the drivers of performance and determine how to best allocate its budget between channels on a quarterly or annual basis. Using multi-touch attribution, the brand can then drill down deeper and allocate channel budgets to the highest-performing publishers, placements, keywords, creatives, and other tactics while campaigns are still in flight. Armed with this strategic -and tactical-level insight, brands can make a broad array of decisions to maximize the efficiency and effectiveness of their entire marketing portfolios.
+
+Most brands today rely on both online and offline channels to drives sales, revenue and other desired business outcomes. By leveraging a holistic measurement approach that reconciles data and insight from marketing mix modeling and multi-touch attribution, marketers can enjoy the truly comprehensive view they need to make the right decisions, at the right time, to optimize performance across every area of investment.
+
+
+
+
+
 
 Because of the impracticality of the conventional methods for studying
 causality, companies often resort to using more straightforward marketing
