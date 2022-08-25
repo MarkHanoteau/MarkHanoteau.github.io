@@ -8,9 +8,10 @@ share-img: /assets/img/ROMI.jpg
 tags: [ROMI, MMM, MTA]
 ---
 
-Marketing's  biggest C-suite communication challenge is to empirically and accurately prove how effective marketing strategies are on financial outcomes. This affects past performance assessments just as much as deciding which future marketing investments will return the greater pay off.
+Marketing's  biggest C-suite communication challenge is to accurately prove how effective marketing strategies are on financial outcomes. This struggle ranges from fact-based past performance assessments just as much as empirically deciding whether to decrease or increase Marketing Budgets, or even, at a more tactical level, which future marketing investments will return the greater pay off.
 
-Beyond cost control and profitability decision making, adopting a 'Return on marketing Investment' (ROMI) outlook sharpens the focus on business goals and encourages transparency. 
+Beyond cost control and profitability decision making, adopting a 'Return On Marketing Investment' (ROMI) outlook sharpens the focus on business goals. It also encourages transparency and builds credibility as financial impact is a language that top management understands and evaluates against. 
+
 
 **Plan Strategically with Marketing Mix Modeling**
 
@@ -68,34 +69,6 @@ Most brands today rely on both online and offline channels to drives sales, reve
 
 
 
-Measuring the impact of marketing is essential for improving its performance and
-justifying marketing decisions to top management. However, marketers often struggle
-with it. 
-
-To optimise marketing spending and to promote the accountability of
-marketing, Stewart (2009) suggests developing industry-wide standardised measures for the short-term and long-term effects. The real options,
-however, remain specific to each company and thus are not standardisable
-as measures. The measures used for quantifying the short- and long-term
-effects should be financial. According to Stewart (2009), this is important because it is the language that top management understands and
-by which their performance is evaluated. Financial measures also enable
-comparison and benchmarking between different actions. Without such
-measures, making both strategic and tactical decisions becomes harder
-and less fact-based. 
-
-For example, it would be hard to decide whether to
-decrease or increase the marketing budget without knowing whether the
-decision would increase or decrease profits. Similarly, it would be challenging to decide on the allocation of the advertising budget between different
-media if their effectiveness at different levels of spending is unknown. It
-would also be tricky to select the optimal items and their discount rates for
-promotion without an estimate of the incremental sales. Overall, financial
-measures support decision making on both the strategic and the tactical
-level.
-
-To gain back their trust and influence, marketing departments need
-to start measuring the impact of marketing – as is done with any other
-1
-Introduction
-investment. 
 
 From this marketing process, it is possible to identify different types
 of returns. Stewart (2009) suggests that marketing has three types of
