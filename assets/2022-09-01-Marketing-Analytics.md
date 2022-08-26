@@ -19,18 +19,13 @@ ROMI = Incremental margin − Marketing investment / Marketing investment
 
 The measure enables the comparison of efficiencies between different marketing investments. It also allows for experiments as the business decides how to allocate their marketing budget to maximise sales. 
 
-ROMI-managed companies use marketing mix models, or when media is involved, media mix modelling, as a critically important capability to aid this budget adjustment decision-making process. MMM analyzes historical data to represent sales as a function of advertising and marketing variables:
+ROMI-managed companies use marketing mix models, or when media is involved, media mix modelling, as a critically important capability to aid this budget adjustment decision-making process. MMM analyzes high level, historical data to represent sales as a function of advertising and marketing variables:
 
 media spend, number of views and product price, and control
 variables, such as weather, seasonality, and market competition
 
 to optimize ROMI beyond improving the measurement of returns. They allow the estimate of potential outcomes across a variety of circumstances performing “what-if scenarios” and to evaluate more quickly and efficiently a wide range of alternative options. 
 
-A lack of granular data, however, commonly limits the scope of MMM just
-to studying the marketing effectiveness on a national level rather than,
-for example, regionally or by product category. This limitation reduces
-opportunities in detailed decision making and budgeting. MMM also
-suffers from various downsides, such as lack of data, untested assumptions of market behaviour and various biases. 
 
 MMM often suffers from various downsides, such as lack of data, deficient model forms and biases. Improving modelling granularity would enable marketers to analyse performance on lower levels and broaden their discussion on improvements. 
 
