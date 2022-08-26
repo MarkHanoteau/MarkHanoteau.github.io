@@ -31,39 +31,16 @@ by the Internet and digital measurement infrastructures
 The most commonly studied and applied ROMI method is marketing mix modelling (MMM) or when media is involved, 
 media mix modelling, where historical data is used to represent sales as a function of advertising and marketing variables,
 such as media spend, number of views and product price, and control
-variables, such as weather, seasonality, and market competition. The
-outputs are typically ROAS figures for media, which can be used to adjust
-marketing budgets. The method is popular as it requires no experiments
-and is somewhat simple to implement. According to Chan and Perry (2017),
-a lack of granular data, however, commonly limits the scope of MMM just
+variables, such as weather, seasonality, and market competition. This can be used to adjust
+marketing budgets. A lack of granular data, however, commonly limits the scope of MMM just
 to studying the marketing effectiveness on a national level rather than,
 for example, regionally or by product category. This limitation reduces
 opportunities in detailed decision making and budgeting. MMM also
-suffers from various downsides, such as lack of data, untested assumptions of market behaviour and various biases. To counter many of these problems,
-Chan and Perry suggest three areas of improvement for MMM:
-1. Better data
-2. Better models
-3. Model validation through simulation
-
-
-A model that could measure
-the underlying performance structure, starting from promotions and other
-low-level activities, would facilitate more granular decision making and
-possibly have a more significant impact on marketing performance.
-
-Overall, a gap seems to exist
-in research for a complete retail marketing mix model that would support
-the retailers in decision making on all levels with accurate marketing
-performance data.
+suffers from various downsides, such as lack of data, untested assumptions of market behaviour and various biases. 
 
 MMM often suffers from
-various downsides, such as lack of data, deficient model forms and biases. Researchers
-have consequently suggested improving it through better data, better models and model
-validation. However, researchers mainly discuss these areas as a way to improve model
-accuracy rather than to widen the scope of analysis. Improving modelling granularity
-would enable marketers to analyse performance on lower levels and broaden their discussion on improvements. Higher granularity could particularly support the retail industry,
-where marketing is a complex operation because of wide product ranges, geographical
-reaches and customer bases
+various downsides, such as lack of data, deficient model forms and biases. Improving modelling granularity
+would enable marketers to analyse performance on lower levels and broaden their discussion on improvements. 
 
 Marketing mix modeling is a top down modelling solution that measures the high-level impact of a range of marketing efforts on sales, will help guide budget allocation by showing how channel (incremental) performance compares, to get the optimal marketing mix. 
 It models sales over time across digital and offline channels, as a function of advertising sales, other marketing variables and even control variables like weather, economic conditions, seasonality and competition.
