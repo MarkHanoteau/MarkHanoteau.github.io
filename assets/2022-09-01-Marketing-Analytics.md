@@ -19,7 +19,7 @@ ROMI = Incremental margin − Marketing investment / Marketing investment
 
 The measure enables the comparison of efficiencies between different marketing investments. It also allows for experiments as the business decides how to allocate their marketing budget to maximise sales. 
 
-ROMI-managed companies use marketing mix models to aid this decision-making process. The models help optimize ROMI beyond improving the measurement of returns; they allow marketing analysts to virtually estimate potential outcomes across a variety of circumstances performing “what-if scenarios” and to evaluate more quickly and efficiently a wide range of alternative options. MMM adds a critically important capability to ROMI management when building on a foundation of definitions and metrics developed through cross-functional teamwork.
+ROMI-managed companies use marketing mix models as a critically important capability to aid this decision-making process. The intention of MMMM is to optimize ROMI beyond improving the measurement of returns. They allow the estimate of potential outcomes across a variety of circumstances performing “what-if scenarios” and to evaluate more quickly and efficiently a wide range of alternative options. 
 
 The most commonly studied and applied ROMI method is marketing mix modelling (MMM) or when media is involved, 
 media mix modelling, where historical data is used to represent sales as a function of advertising and marketing variables,
