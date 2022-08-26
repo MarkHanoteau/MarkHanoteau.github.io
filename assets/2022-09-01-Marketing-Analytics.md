@@ -79,6 +79,13 @@ the difficulty of collecting reliable data. The omission can, in turn, lead to
 inaccuracies in modelling. Overall, the lack of (reliable) data is one of the
 main limitations of MMM.
 
+
+Past performance may not be the best indicator for future performance.
+Conventional MMM only provides an estimate of the past performance but does not specifically attempt to estimate what the performance will be in the future. Customer behaviour and market
+conditions may change in the future and affect marketing performance and S-curves. Thus, the results from MMM should be used
+with caution when making decisions.
+
+
 **Optimize Tactically with Multi-Touch Attribution**
 multitouch attribution (MTA) is a solution that suggest ways to optimize their marketing performance. 
 
@@ -128,86 +135,8 @@ Most brands today rely on both online and offline channels to drives sales, reve
 
 
 
-Data reliability is also crucial for the reliability of results. If the modeller feeds inaccurate data to the model, it will only produce inaccurate results. One typical source of inaccuracies is the lack of
-systematic data collection. For example, Karmann et al. (2015) note
-that it is often a significant challenge for companies to measure their
-marketing spending fully. Spending may, for example, become buried
-in the budgets of different departments and local subsidiaries and
-never become registered in the main marketing department.
 
-A limited range of data creates extrapolation uncertainty when esti19
-Measuring marketing effectiveness
-mating sales outside the observed budget range (Chan and Perry,
-2017). For example, if an advertiser wants to estimate the average
-ROAS of an advertising channel, it needs to estimate the level of
-sales at zero spending. If no data near zero spending is available,
-extrapolation may produce inaccurate results if the S-curve suddenly
-changes outside the available range. Thus, a model may produce accurate results for the marginal ROAS but fail to produce reasonable
-estimates for the total ROAS.
 
-The lack of model validation and evaluation limits model reliability.
-As described by Zhang and Vaver (2017), drawing causal results
-from MMM requires making assumptions about the nature of the
-marketing environment. Although these assumptions are inevitably
-inaccurate to some extent, they also remain unidentified or unverified
-in many situations. In some cases, they may also even be unverifiable. The inaccuracies and omissions of assumptions, in turn, reduce
-the reliability of the results. Consequently, Zhang and Vaver state
-that both observational and experimental methods require careful
-evaluation and validation. With observational methods, such as
-marketing mix modelling, modellers should attempt to verify the
-accuracy of result estimates against a source of truth, for example,
-from a simulation experiment.
-
-Correlated input parameters are a typical problem with MMM: advertisers often seek to maximise the impact of marketing efforts by
-investing in them in a correlated way. For example, an advertising
-channel could be observed at a high level only when a significant
-discount is in place or only during a specific season. In a linear
-regression model, this correlation can lead to coefficient estimates
-with variance and thus, lead to a wrong attribution of sales to the
-advertising channel (Chan and Perry, 2017).
-
-Selection bias is a major hurdle for MMM. As described by Chan and
-Perry (2017), it occurs when an input media variable correlates with
-an unobservable demand parameter that drives sales. When that
-parameter is left outside the regression, the model falsely attributes
-sales to the media instead of the unobservable parameter. The bias
-can be caused, for example, by:
-1. Ad targeting – Especially in digital channels, selection bias occurs when ads are shown to people who are already interested in the
-product, for example, when showing ads for a related search query.
-If the underlying interest remains unaccounted for, it can lead to
-false attribution.
-
-2. Seasonality – Unknown or inaccurately modelled seasonality can
-lead to selection bias as well. For example, a holiday can cause an
-increase in sales that becomes falsely attributed to an advertising
-channel. Similarly, competitors’ marketing efforts are not often
-accounted for because no data of them are often available.
-
-3. Funnel effects – Selection bias also occurs when the level of one
-advertising channel affects the level of another one. For example, a
-TV ad might drive more search queries leading to more paid search
-ads.
-
-Short-termism is a weakness of MMM as well. Conventional MMM
-focuses on measuring short-term incremental sales that will consequently, only provide an estimate of the short-term ROAS. Cain
-(2010) repeats the critique by Ambler and Roberts (2005) and Rust
-et al. (2004) by stating that this focus disregards the potential brandbuilding and brand-eroding effects of marketing and often leads to a
-bias towards promotion activity, where incremental sales are more
-immediate than in, for example, media activity. He suggests that to
-measure long-term effects, models must also focus on the base sales
-component of the model. The base sales reflect the changes in underlying marketing assets, for example, by growing when new customers
-convert into loyal customers that make repeated purchases. 
-
-However, according to Cain, the standard OLS regression models are only
-capable of imposing a fixed or deterministic baseline that prevents
-the analysis of the long-term impact of marketing. Consequently, he
-suggests the use of time series regression models to decompose the
-sales into short-term (incremental) and long-term base (trend) sales.
-
-Past performance may not be the best indicator for future performance.
-Conventional MMM only provides an estimate of the past performance but does not specifically attempt to estimate what the performance will be in the future. Customer behaviour and market
-conditions may change in the future and affect marketing performance and S-curves. Thus, the results from MMM should be used
-with caution when making decisions.
 
 ROMI-managed companies extensively use econometric or marketing mix models to aid the marketing mix decision-making process. The models help optimize ROMI beyond improving the measurement of returns; they allow marketing analysts to virtually estimate potential outcomes across a variety of circumstances performing “what-if scenarios” and to evaluate more quickly and efficiently a wide range of alternative options. MMM adds a critically important capability to ROMI management when building on a foundation of definitions and metrics developed through cross-functional teamwork.
 
