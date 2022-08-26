@@ -51,9 +51,33 @@ and Perry, 2017). The results commonly include ROAS estimates for advertising ch
 technique is cheap, fast and straightforward to apply as it typically involves
 no experimentation. Yet, the validity of the results is often questionable.
 The models are often based on inaccurate or unverified assumptions about
-the nature of marketing environment (Zhang and Vaver, 2017) and are
-merely capable of producing correlational, not causal results (Chan and
-Perry, 2017).
+the nature of marketing environment and are
+merely capable of producing correlational, not causal results.
+
+Data used to fit marketing mix models are typically historical weekly or monthly aggregated national
+data, although geo-level data can be used. The data includes:
+ response data, typically sales but can be other KPI
+ media metrics by channel, such as impressions, clicks, GRPs, with the cost being the most
+commonly used
+ marketing metrics such as price, promotion, product distribution
+ control factors such as seasonality, weather or competition.
+
+MMM typically uses four types of
+data to fit their models:
+• response data, which are typically volume or sales data,
+• media metrics, which are commonly media spending data but sometimes other KPIs such as impressions and clicks,
+• marketing metrics such as price, promotions, product distribution,
+and
+• control factors such as seasonality, weather and market competition.
+
+The response data needs to be at the same level of granularity as the ads spend data. 
+
+
+For example, companies often omit competitor data, such as marketing efforts
+and prices, or ad exposure data, especially for offline media, because of
+the difficulty of collecting reliable data. The omission can, in turn, lead to
+inaccuracies in modelling. Overall, the lack of (reliable) data is one of the
+main limitations of MMM.
 
 **Optimize Tactically with Multi-Touch Attribution**
 multitouch attribution (MTA) is a solution that suggest ways to optimize their marketing performance. 
@@ -100,58 +124,9 @@ Most brands today rely on both online and offline channels to drives sales, reve
 
 
 
-Data used to fit marketing mix models are typically historical weekly or monthly aggregated national
-data, although geo-level data can be used. The data includes:
- response data, typically sales but can be other KPI
- media metrics by channel, such as impressions, clicks, GRPs, with the cost being the most
-commonly used
- marketing metrics such as price, promotion, product distribution
- control factors such as seasonality, weather or competition.
-The response data needs to be at the same level of granularity as the ads spend data. So, while an
-advertiser may have precise SKU level data, advertising is usually done at a brand or
-product level over an entire country. For the response data, such as sales, advertisers have in place a
-robust data collection mechanism. However, media data is more challenging to collect, as ad
-campaigns are often executed through several intermediaries, such as agencies or online platforms.
-Since it is difficult to get competitor variables for pricing, promotion, and distribution through thirdparties, these variables are often omitted (Chan & Perry, 2017).
 
 
-MMM typically uses four types of
-data to fit their models:
-• response data, which are typically volume or sales data,
-• media metrics, which are commonly media spending data but sometimes other KPIs such as impressions and clicks,
-• marketing metrics such as price, promotions, product distribution,
-and
-• control factors such as seasonality, weather and market competition.
 
-If suitable data are available, modellers can fit models on various levels
-of data aggregation, for example, ranging from the level of an individual
-product to the total business unit level, as presented in Figure 2.5 by Cain
-(2010).
-
-The lower the level of the fitting, the more detailed conclusions
-can be drawn from the results. However, data granularity often limits
-the choice. As described by Chan and Perry (2017), companies typically
-have granular sales data on SKU or store level but do their advertising
-on a higher level over an entire country. As the data types in the model
-should preferably be on the same aggregation level, the least granular
-data type often sets the granularity of the whole model. Thus, models
-are often fitted on the national level using weekly or monthly aggregated
-data. Moreover, some of the data types may be difficult to obtain. For
-example, companies often omit competitor data, such as marketing efforts
-and prices, or ad exposure data, especially for offline media, because of
-the difficulty of collecting reliable data. The omission can, in turn, lead to
-inaccuracies in modelling. Overall, the lack of (reliable) data is one of the
-main limitations of MMM.
-
- Limitations of marketing mix modelling
-As described by Chan and Perry (2017), the results from a regression-based
-marketing mix model cannot be claimed to be causal in general, but they
-are likely to be more trustworthy when:
-• enough data are available to estimate all the parameters in the model,
-• useful variability exists in the advertising levels and control variables,
-• the model inputs vary independently,
-• the model accounts for all the important sales drivers, and
-• the model captures the causal relationship between variables.
 
 Despite the importance of these conditions, models often fail to meet them,
 limiting not only the reliability of results and but also the scope of the
