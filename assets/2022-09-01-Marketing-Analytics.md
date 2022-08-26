@@ -10,26 +10,16 @@ tags: [ROMI, MMM, MTA]
 
 Marketing's  biggest C-suite communication challenge is to accurately prove how effective marketing strategies are on financial outcomes. This struggle ranges from fact-based past performance assessments just as much as empirically deciding whether to decrease or increase Marketing Budgets, or even, at a more tactical level, which future marketing investments will return the greater pay off.
 
-Beyond cost control and profitability decision making, adopting a financial measure like 'Return On Marketing Investment' (ROMI) outlook sharpens the focus on business goals. By comparing the returns and costs of marketing, ROMI encourages transparency and builds trust as financial impact is a language that top management understands and evaluates against. ROMI helps compare marketing decisions by revealing the ones with the higher efficiency.
-
-The ROMI can help in answering many marketing questions. For example:
-1) How much return do we get from spending X amount on marketing?
-2) How should we allocate our marketing budget to maximise our sales?
+Beyond cost control and profitability decision making, adopting a financial measure like 'Return On Marketing Investment' (ROMI) outlook sharpens the focus on business goals. It is typically calculated by doing a baseline-lift valuation on short-term sales, where the effect of a marketing effort on sales is separated from the level of sales that would have been reached without the marketing effort. 
+By comparing the returns and costs of marketing, ROMI encourages transparency and builds trust as financial impact is a language that top management understands and evaluates against. ROMI helps compare marketing decisions by revealing the ones with the higher efficiency.
 
 ROMI = Incremental margin − Marketing investment / Marketing investment 
 
 **give WF example**
 
-The measure enables the comparison of efficiencies between different marketing investments. It is typically calculated by doing a baseline-lift valuation on short-term sales, where the effect of a marketing effort on sales is separated from the level of sales that would have been reached without the marketing effort. 
+The measure enables the comparison of efficiencies between different marketing investments. It also allows for experiments as the business decides how to allocate their marketing budget to maximise sales. 
 
-Randomised experiments have also been applied successfully to
-measure marketing effectiveness, and their cost has been brought down
-by the Internet and digital measurement infrastructures 
-
-**Plan Strategically with Marketing Mix Modeling**
-
-
-ROMI-managed companies extensively use econometric or marketing mix models to aid the marketing mix decision-making process. The models help optimize ROMI beyond improving the measurement of returns; they allow marketing analysts to virtually estimate potential outcomes across a variety of circumstances performing “what-if scenarios” and to evaluate more quickly and efficiently a wide range of alternative options. MMM adds a critically important capability to ROMI management when building on a foundation of definitions and metrics developed through cross-functional teamwork.
+ROMI-managed companies use marketing mix models to aid this decision-making process. The models help optimize ROMI beyond improving the measurement of returns; they allow marketing analysts to virtually estimate potential outcomes across a variety of circumstances performing “what-if scenarios” and to evaluate more quickly and efficiently a wide range of alternative options. MMM adds a critically important capability to ROMI management when building on a foundation of definitions and metrics developed through cross-functional teamwork.
 
 The most commonly studied and applied ROMI method is marketing mix modelling (MMM) or when media is involved, 
 media mix modelling, where historical data is used to represent sales as a function of advertising and marketing variables,
