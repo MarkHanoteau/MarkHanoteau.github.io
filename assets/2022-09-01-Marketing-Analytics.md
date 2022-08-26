@@ -38,12 +38,22 @@ for example, regionally or by product category. This limitation reduces
 opportunities in detailed decision making and budgeting. MMM also
 suffers from various downsides, such as lack of data, untested assumptions of market behaviour and various biases. 
 
-MMM often suffers from
-various downsides, such as lack of data, deficient model forms and biases. Improving modelling granularity
-would enable marketers to analyse performance on lower levels and broaden their discussion on improvements. 
+MMM often suffers from various downsides, such as lack of data, deficient model forms and biases. Improving modelling granularity would enable marketers to analyse performance on lower levels and broaden their discussion on improvements. 
 
 Marketing mix modeling is a top down modelling solution that measures the high-level impact of a range of marketing efforts on sales, will help guide budget allocation by showing how channel (incremental) performance compares, to get the optimal marketing mix. 
 It models sales over time across digital and offline channels, as a function of advertising sales, other marketing variables and even control variables like weather, economic conditions, seasonality and competition.
+
+Because of the impracticality of the conventional methods for studying
+causality, companies often resort to using more straightforward marketing
+mix modelling (MMM), aka media mix modelling, techniques. MMM attempts to model the demand response by fitting a model, typically an OLS
+regression with various drivers and control factors, in historical data (Chan
+and Perry, 2017). The results commonly include ROAS estimates for advertising channels and a break-down of the effect of different drivers. The
+technique is cheap, fast and straightforward to apply as it typically involves
+no experimentation. Yet, the validity of the results is often questionable.
+The models are often based on inaccurate or unverified assumptions about
+the nature of marketing environment (Zhang and Vaver, 2017) and are
+merely capable of producing correlational, not causal results (Chan and
+Perry, 2017).
 
 **Optimize Tactically with Multi-Touch Attribution**
 multitouch attribution (MTA) is a solution that suggest ways to optimize their marketing performance. 
@@ -76,8 +86,7 @@ display and paid search tactics to online revenue. Meanwhile, they may also use 
 modeling to estimate the impact of those same tactics on offline sales. Blending the detailed view
 from MTA with the higher-level analysis provided by marketing mix modeling, companies gain more
 accurate measurements. However, the different data sources and levels of data capture make the
-automated reconciliation of the two approaches difficult. As a result, some providers offer custom
-unified measurement solutions (Gartner, 2018).
+automated reconciliation of the two approaches difficult. 
 
 Marketers’ need for an integrated view of their marketing performance is as critical as ever. While marketing mix modeling and multi-touch attribution have their distinct advantages, marketers can realize the highest returns when they are used in tandem. By bringing insights from both methods of analysis together, marketers can get the comprehensive view of performance they need to inform their next best action within and across channels.
 
@@ -90,17 +99,6 @@ Most brands today rely on both online and offline channels to drives sales, reve
 
 
 
-Because of the impracticality of the conventional methods for studying
-causality, companies often resort to using more straightforward marketing
-mix modelling (MMM), aka media mix modelling, techniques. MMM attempts to model the demand response by fitting a model, typically an OLS
-regression with various drivers and control factors, in historical data (Chan
-and Perry, 2017). The results commonly include ROAS estimates for advertising channels and a break-down of the effect of different drivers. The
-technique is cheap, fast and straightforward to apply as it typically involves
-no experimentation. Yet, the validity of the results is often questionable.
-The models are often based on inaccurate or unverified assumptions about
-the nature of marketing environment (Zhang and Vaver, 2017) and are
-merely capable of producing correlational, not causal results (Chan and
-Perry, 2017).
 
 Data used to fit marketing mix models are typically historical weekly or monthly aggregated national
 data, although geo-level data can be used. The data includes:
