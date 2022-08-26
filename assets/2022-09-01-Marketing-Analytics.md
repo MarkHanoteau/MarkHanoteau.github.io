@@ -91,6 +91,8 @@ with caution when making decisions.
 Marketers have used MMM to move beyond cost management to optimize their mix and manage their top-line opportunities. MMMs allow marketers to estimate potential outcomes across a variety of circumstances—able to evaluate alternative hypotheses and select those most likely to payoff and to test them more rigorously because they do not have to test a thousand options. MMM tools can be productive as a means by which users enrich their judgmental processes by adding to their learning.
 
 MMM is often criticized for its “rear-view mirror” or after the fact perspective of marketing mix impact. However, new simulation models can provide scenarios for managers to assess future potential results. 
+To aid in evaluating new products, they have begun Monte Carlo simulations integrating the degrees of uncertainty and drivers of a project. The simulations enable the marketing team to assess the range of potential outcomes and to apply market models and to assess discounted cash flow. The analysis allows the understanding of likely outcomes to gain a degree of confidence of the amount of risk. Their risk-adjustment net-present-value model adjusts the hurdle rate over the life of the project to more accurately reflect the degree of risk that the organization is taking.“What-if” simulations permit marketing analysts to evaluate their databases and models, as well as testing out alter-native marketing options. Also, “What-if” or “Due-to” analyses can turn a postmortem on a disappointing promotion into a springboard to new, more effective programs for the future.
+
 
 
 **Optimize Tactically with Multi-Touch Attribution**
@@ -131,20 +133,3 @@ Marketers’ need for an integrated view of their marketing performance is as cr
 For example, consider a brand that is running multiple campaigns across a number of online and offline channels. Using marketing mix modeling, the brand can analyze all the drivers of performance and determine how to best allocate its budget between channels on a quarterly or annual basis. Using multi-touch attribution, the brand can then drill down deeper and allocate channel budgets to the highest-performing publishers, placements, keywords, creatives, and other tactics while campaigns are still in flight. Armed with this strategic -and tactical-level insight, brands can make a broad array of decisions to maximize the efficiency and effectiveness of their entire marketing portfolios.
 
 Most brands today rely on both online and offline channels to drives sales, revenue and other desired business outcomes. By leveraging a holistic measurement approach that reconciles data and insight from marketing mix modeling and multi-touch attribution, marketers can enjoy the truly comprehensive view they need to make the right decisions, at the right time, to optimize performance across every area of investment.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-To aid in evaluating new products, they have begun Monte Carlo simulations integrating the degrees of uncertainty and drivers of a project. The simulations enable the marketing team to assess the range of potential outcomes and to apply market models and to assess discounted cash flow. The analysis allows the understanding of likely outcomes to gain a degree of confidence of the amount of risk. Their risk-adjustment net-present-value model adjusts the hurdle rate over the life of the project to more accurately reflect the degree of risk that the organization is taking.“What-if” simulations permit marketing analysts to evaluate their databases and models, as well as testing out alter-native marketing options. Also, “What-if” or “Due-to” analyses can turn a postmortem on a disappointing promotion into a springboard to new, more effective programs for the future.
