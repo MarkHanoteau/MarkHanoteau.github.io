@@ -26,16 +26,6 @@ variables, such as weather, economic conditions, seasonality, and market competi
 
 to optimize ROMI beyond improving the measurement of returns and show how channel (incremental) performance compares, to get the optimal marketing mix. They allow the estimate of potential outcomes across a variety of circumstances performing “what-if scenarios” and to evaluate more quickly and efficiently a wide range of alternative options. 
 
-
- MMM attempts to model the demand response by fitting a model, typically an OLS
-regression with various drivers and control factors, in historical data (Chan
-and Perry, 2017). The results commonly include ROAS estimates for advertising channels and a break-down of the effect of different drivers. The
-technique is cheap, fast and straightforward to apply as it typically involves
-no experimentation. Yet, the validity of the results is often questionable.
-The models are often based on inaccurate or unverified assumptions about
-the nature of marketing environment and are
-merely capable of producing correlational, not causal results.
-
 Data used to fit marketing mix models are typically historical weekly or monthly aggregated national
 data, although geo-level data can be used. The data includes:
  response data, typically sales but can be other KPI
