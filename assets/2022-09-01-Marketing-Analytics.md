@@ -10,7 +10,11 @@ tags: [ROMI, MMM, MTA]
 
 Marketing's  biggest C-suite communication challenge is to accurately prove how effective marketing strategies are on financial outcomes. This struggle ranges from fact-based past performance assessments just as much as empirically deciding whether to decrease or increase Marketing Budgets, or even, at a more tactical level, which future marketing investments will return the greater pay off.
 
-Beyond cost control and profitability decision making, adopting a financial measure like 'Return On Marketing Investment' (ROMI) outlook sharpens the focus on business goals. By comparing the returns and costs of marketing, ROMI encourages transparency and builds credibility as financial impact is a language that top management understands and evaluates against. ROMI helps compare marketing decisions by revealing the ones with the higher efficiency.
+Beyond cost control and profitability decision making, adopting a financial measure like 'Return On Marketing Investment' (ROMI) outlook sharpens the focus on business goals. By comparing the returns and costs of marketing, ROMI encourages transparency and builds trust as financial impact is a language that top management understands and evaluates against. ROMI helps compare marketing decisions by revealing the ones with the higher efficiency.
+
+The ROMI can help in answering many marketing questions. For example:
+1) How much return do we get from spending X amount on marketing?
+2) How should we allocate our marketing budget to maximise our sales?
 
 ROMI = Incremental margin − Marketing investment / Marketing investment 
 
@@ -18,50 +22,14 @@ ROMI = Incremental margin − Marketing investment / Marketing investment
 
 The measure enables the comparison of efficiencies between different marketing investments. It is typically calculated by doing a baseline-lift valuation on short-term sales, where the effect of a marketing effort on sales is separated from the level of sales that would have been reached without the marketing effort. 
 
-
-When using ROMI figures to make decisions, it is essential to distinguish
-effectiveness and efficiency. Effectiveness refers to the ability to reach a
-goal, whereas efficiency refers to the ability to do so with the least amount
-of resources.
-For companies, the goal is to make a profit. Thus, the ROMI measures the
-efficiency of marketing efforts rather than their effectiveness. Thus, the goal in marketing
-should be to maximise effectiveness rather than just efficiency, even if it
-reduces efficiency. One
-way to reach this goal is to use incremental ROMI between two choices. 
-
-Moreover, the ROMI does not, by default, tell about the risks involved investments. Additional investment into an activity that has performed well
-in the past can always fail. Thus, marketers should consider marketing
-spending as an investment and carefully approach the decisions with the
-help relevant information, e.g. ROMI figures, S-curve estimates, forecasts
-and risk analyses.
-
-
-Overall, the ROMI can help marketers to gain back the trust of CEOs.
-
-The ROMI can help in answering many marketing questions. For example:
-1) How much return do we get from spending X amount on marketing?
-2) How should we allocate our marketing budget to maximise our sales?
-Because these questions are mainly causal, it makes sense to use commonly accepted methods for studying causality to measure the impact
-of marketing and the ROMI. Randomised experiments and the potential
-outcomes framework (Imbens and Rubin, 2015) are perhaps the most common ones of these methods and researchers regularly apply them in other
-fields. Randomised experiments have also been applied successfully to
+Randomised experiments have also been applied successfully to
 measure marketing effectiveness, and their cost has been brought down
-by the Internet and digital measurement infrastructures (Lewis and Rao,
-2015). Thanks to their effectiveness, they have also become a part of the
-innovation process of many businesses, such as Amazon and Microsoft
-(Kohavi et al., 2009) and incorporated into advertising tools of Google and
-Facebook (Facebook, 2015; Google, 2018). However, they also have several
-barriers that prevent their adoption. For example, to reveal the S-curve,
-experiments must be done at various levels of advertising spending, which
-can be costly. Moreover, the need and cost of having large control groups to
-measure weak effects limit the opportunities in their use.
-
+by the Internet and digital measurement infrastructures 
 
 **Plan Strategically with Marketing Mix Modeling**
 
-The most commonly studied and applied method is marketing mix modelling (MMM), aka
-media mix modelling, where a regression model is fitted to historical data
-to represent sales as a function of advertising and marketing variables,
+The most commonly studied and applied ROMI method is marketing mix modelling (MMM) or when media is involved, 
+media mix modelling, where historical data is used to represent sales as a function of advertising and marketing variables,
 such as media spend, number of views and product price, and control
 variables, such as weather, seasonality, and market competition. The
 outputs are typically ROAS figures for media, which can be used to adjust
