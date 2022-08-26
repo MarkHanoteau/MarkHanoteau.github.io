@@ -128,25 +128,6 @@ Most brands today rely on both online and offline channels to drives sales, reve
 
 
 
-Despite the importance of these conditions, models often fail to meet them,
-limiting not only the reliability of results and but also the scope of the
-analysis. Overall, these and many other challenges limit the opportunities
-in MMM:
-The lack of data limits the reliability of the results and the model granularity. As mentioned in Section 2.3.1, companies typically may have
-accurate data on sales but lack granular data on marketing. Low
-granularity in one data type can limit the whole model to the same
-level, forcing the modeller to aggregate other data types. The aggregation leads to a data set with a low number of data points. For
-example, a three-year data set of weekly-aggregated data has only
-156 data points. If a company has several advertising channels, each
-of which is modelled with several parameters, the number of data
-points per parameter in the model can quickly become quite low. The
-result might be an unstable regression fit that gives poor estimates
-(Chan and Perry, 2017). Many researchers have suggested that the
-number of observations should be at least five times the number of
-parameters (Leeflang et al., 2015). The lack of data can also lead to
-the omission of variables. For example, companies often fail to gather
-data about various control activities with a sales impact, such as competitor activity, leading to possible errors because of their omission.
-
 Data reliability is also crucial for the reliability of results. If the modeller feeds inaccurate data to the model, it will only produce inaccurate results. One typical source of inaccuracies is the lack of
 systematic data collection. For example, Karmann et al. (2015) note
 that it is often a significant challenge for companies to measure their
