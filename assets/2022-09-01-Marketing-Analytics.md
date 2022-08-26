@@ -53,22 +53,19 @@ Multi-touch attribution, on the other hand, offers tactical insights for short-t
 Attribution is the process of determining the relative contribution of individual campaign impressions
 towards a goal for the purpose of performance measurement and optimization. The dominant
 attribution methodology is last-touch, which assigns credit to only the last ad that a consumer
-interacted with, before taking the desired action of the campaign (Interactive Advertising Bureau,
-2017). In this case, the desired action of the campaign was for users to participate online by
-registering a set of products they had bought in physical stores. However, the last-touch model is
+interacted with, before taking the desired action of the campaign. However, the last-touch model is
 flawed because individuals are usually exposed to multiple advertising channels before making any 
 purchasing decision. Therefore, a fundamental problem in measuring advertising effectiveness is to
 quantify how revenue should be attributed to multiple touch-points along consumers' conversion
 paths, which is the sequence, timing, and engagement in advertising channels along the purchase
-funnel (Zhao, Mahboobi, & Bagheri, 2019).
+funnel.
 MTA is a solution for this measurement challenge since it assigns credit to multiple touch points
 along the path to conversion. By assembling information about user characteristics, media touch
 points, and sales/conversion data, marketers can understand which combination of channels,
 audience targets, publishers, devices, creatives, search keywords, or other marketing considerations
 are performing most effectively against their Key Performance Indicator (KPI). Thus, they are widely
-regarded by practitioners as a proxy for optimizing campaign performance (Interactive Advertising
-Bureau, 2017). Contrary to media mix modeling, it is a bottom-up measurement approach that
-requires individual-level data (Gartner, 2018).
+regarded by practitioners as a proxy for optimizing campaign performance. Contrary to media mix modeling, it is a bottom-up measurement approach that
+requires individual-level data.
 
 **Achieve Better Results by Combining Methods**
 
