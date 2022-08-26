@@ -19,7 +19,9 @@ ROMI = Incremental margin − Marketing investment / Marketing investment
 
 The measure enables the comparison of efficiencies between different marketing investments. It also allows for experiments and guides the business on marketing budget allocation to best maximise sales. 
 
-ROMI-managed companies use marketing mix models, or when media is involved, media mix modelling, as a critically important top down technique to aid this budget adjustment decision-making process (**plan strategically**). MMM measures the high level impact of a range of marketing efforts on sales over time across digital and offline channels:
+MMMs allow marketers to estimate potential outcomes across a variety of circumstances—able to evaluate alternative hypotheses and select those most likely to payoff and to test them more rigorously because they do not have to test a thousand options. MMM tools can be productive as a means by which users enrich their judgmental processes by adding to their learning.
+
+ROMI-managed companies use marketing mix models, or when media is involved, media mix modelling, as a critically important top down technique to move beyond budget the adjustment decision-making process (**plan strategically**) to measure the high level impact of a range of marketing efforts on sales over time across digital and offline channels and optimize top line opportunities:
 
 Data used to fit marketing mix models 
 
@@ -30,20 +32,10 @@ to optimize ROMI beyond improving the measurement of returns and show how channe
 
 The response data needs to be at the same level of granularity as the ads spend data. 
 
-
-For example, companies often omit competitor data, such as marketing efforts
-and prices, or ad exposure data, especially for offline media, because of
-the difficulty of collecting reliable data. The omission can, in turn, lead to
-inaccuracies in modelling. Overall, the lack of (reliable) data is one of the
-main limitations of MMM.
-
-
 Past performance may not be the best indicator for future performance.
 Conventional MMM only provides an estimate of the past performance but does not specifically attempt to estimate what the performance will be in the future. Customer behaviour and market
 conditions may change in the future and affect marketing performance and S-curves. Thus, the results from MMM should be used
 with caution when making decisions.
-
-Marketers have used MMM to move beyond cost management to optimize their mix and manage their top-line opportunities. MMMs allow marketers to estimate potential outcomes across a variety of circumstances—able to evaluate alternative hypotheses and select those most likely to payoff and to test them more rigorously because they do not have to test a thousand options. MMM tools can be productive as a means by which users enrich their judgmental processes by adding to their learning.
 
 MMM is often criticized for its “rear-view mirror” or after the fact perspective of marketing mix impact. However, new simulation models can provide scenarios for managers to assess future potential results. 
 To aid in evaluating new products, they have begun Monte Carlo simulations integrating the degrees of uncertainty and drivers of a project. The simulations enable the marketing team to assess the range of potential outcomes and to apply market models and to assess discounted cash flow. The analysis allows the understanding of likely outcomes to gain a degree of confidence of the amount of risk. Their risk-adjustment net-present-value model adjusts the hurdle rate over the life of the project to more accurately reflect the degree of risk that the organization is taking.“What-if” simulations permit marketing analysts to evaluate their databases and models, as well as testing out alter-native marketing options. Also, “What-if” or “Due-to” analyses can turn a postmortem on a disappointing promotion into a springboard to new, more effective programs for the future.
