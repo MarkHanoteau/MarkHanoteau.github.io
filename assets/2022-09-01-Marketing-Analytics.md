@@ -17,24 +17,17 @@ ROMI = Incremental margin − Marketing investment / Marketing investment
 
 **give WF example**
 
-The measure enables the comparison of efficiencies between different marketing investments. It also allows for experiments as the business decides how to allocate their marketing budget to maximise sales. 
+The measure enables the comparison of efficiencies between different marketing investments. It also allows for experiments and guides the business on marketing budget allocation to best maximise sales. 
 
-ROMI-managed companies use marketing mix models, or when media is involved, media mix modelling, as a critically important capability to aid this budget adjustment decision-making process. MMM analyzes high level, historical data to represent sales as a function of advertising and marketing variables:
+ROMI-managed companies use marketing mix models, or when media is involved, media mix modelling, as a critically important top down technique to aid this budget adjustment decision-making process (**plan strategically**). MMM measures the high level impact of a range of marketing efforts on sales over time across digital and offline channels:
 
 media spend, number of views and product price, and control
-variables, such as weather, seasonality, and market competition
+variables, such as weather, economic conditions, seasonality, and market competition
 
-to optimize ROMI beyond improving the measurement of returns. They allow the estimate of potential outcomes across a variety of circumstances performing “what-if scenarios” and to evaluate more quickly and efficiently a wide range of alternative options. 
+to optimize ROMI beyond improving the measurement of returns and show how channel (incremental) performance compares, to get the optimal marketing mix. They allow the estimate of potential outcomes across a variety of circumstances performing “what-if scenarios” and to evaluate more quickly and efficiently a wide range of alternative options. 
 
 
-MMM often suffers from various downsides, such as lack of data, deficient model forms and biases. Improving modelling granularity would enable marketers to analyse performance on lower levels and broaden their discussion on improvements. 
-
-Marketing mix modeling is a top down modelling solution that measures the high-level impact of a range of marketing efforts on sales, will help guide budget allocation by showing how channel (incremental) performance compares, to get the optimal marketing mix. 
-It models sales over time across digital and offline channels, as a function of advertising sales, other marketing variables and even control variables like weather, economic conditions, seasonality and competition.
-
-Because of the impracticality of the conventional methods for studying
-causality, companies often resort to using more straightforward marketing
-mix modelling (MMM), aka media mix modelling, techniques. MMM attempts to model the demand response by fitting a model, typically an OLS
+ MMM attempts to model the demand response by fitting a model, typically an OLS
 regression with various drivers and control factors, in historical data (Chan
 and Perry, 2017). The results commonly include ROAS estimates for advertising channels and a break-down of the effect of different drivers. The
 technique is cheap, fast and straightforward to apply as it typically involves
