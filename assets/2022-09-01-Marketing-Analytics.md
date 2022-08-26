@@ -21,26 +21,12 @@ The measure enables the comparison of efficiencies between different marketing i
 
 ROMI-managed companies use marketing mix models, or when media is involved, media mix modelling, as a critically important top down technique to aid this budget adjustment decision-making process (**plan strategically**). MMM measures the high level impact of a range of marketing efforts on sales over time across digital and offline channels:
 
-media spend, number of views and product price, and control
+Data used to fit marketing mix models 
+
+media spend, response data (sales), channel data, number of views, clicks, and product price, promotion, distribution, and control
 variables, such as weather, economic conditions, seasonality, and market competition
 
 to optimize ROMI beyond improving the measurement of returns and show how channel (incremental) performance compares, to get the optimal marketing mix. They allow the estimate of potential outcomes across a variety of circumstances performing “what-if scenarios” and to evaluate more quickly and efficiently a wide range of alternative options. 
-
-Data used to fit marketing mix models are typically historical weekly or monthly aggregated national
-data, although geo-level data can be used. The data includes:
- response data, typically sales but can be other KPI
- media metrics by channel, such as impressions, clicks, GRPs, with the cost being the most
-commonly used
- marketing metrics such as price, promotion, product distribution
- control factors such as seasonality, weather or competition.
-
-MMM typically uses four types of
-data to fit their models:
-• response data, which are typically volume or sales data,
-• media metrics, which are commonly media spending data but sometimes other KPIs such as impressions and clicks,
-• marketing metrics such as price, promotions, product distribution,
-and
-• control factors such as seasonality, weather and market competition.
 
 The response data needs to be at the same level of granularity as the ads spend data. 
 
