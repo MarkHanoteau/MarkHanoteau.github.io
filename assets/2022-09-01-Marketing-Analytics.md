@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to measure and optimize Marketing's contribution to enterprise value
-subtitle: ROMI vs MMM vs MTA
+title: Evidenced base management in Agile Marketing. 
+subtitle: ROMI vs MMM vs MTA How to measure and optimize Marketing's contribution to enterprise value
 cover-img: /assets/img/ROMI.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/ROMI.jpg
