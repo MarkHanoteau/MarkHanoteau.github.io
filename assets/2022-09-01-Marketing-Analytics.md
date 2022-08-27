@@ -15,7 +15,7 @@ By comparing the returns and costs of marketing, ROMI encourages transparency an
 
 ROMI = Incremental margin − Marketing investment / Marketing investment 
 
-**give WF example**
+Consider this simplistic example: 
 
 | Treatment group | Control group |
 |:------|:------|
