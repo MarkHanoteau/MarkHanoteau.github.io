@@ -13,7 +13,7 @@ Marketing's  biggest C-suite communication challenge is to accurately prove how 
 Beyond cost control and profitability decision making, adopting a financial measure like 'Return On Marketing Investment' (ROMI) outlook sharpens the focus on business goals. It is typically calculated by doing a baseline-lift valuation on short-term sales, where the effect of a marketing effort on sales is separated from the level of sales that would have been reached without the marketing effort. 
 By comparing the returns and costs of marketing, ROMI encourages transparency and builds trust as financial impact is a language that top management understands and evaluates against. ROMI helps compare marketing decisions by revealing the ones with the higher efficiency.
 
-> .. ROMI = Incremental margin − Marketing investment / Marketing investment 
+> ROMI = Incremental margin − Marketing investment / Marketing investment 
 
 The incremental margin is of course a critical measurement as without it, we can't calculate returns. Consider this simplistic example: 
 
@@ -23,8 +23,8 @@ The incremental margin is of course a critical measurement as without it, we can
 | 3000 responders| 36 organic sales|
 | 0.60% Treated rate| 0.12% Control rate|  
 
-> .. Then the incremental response is 2400 = (0.6% - 0.12%) * 500,000
-> .. And Marketing should take credit for 80% for the 3000 influenced responders (2400/3000)
+> Then the incremental response is 2400 = (0.6% - 0.12%) * 500,000..
+> .. and Marketing should take credit for 80% for the 3000 influenced responders (2400/3000)
 
 The measure enables the comparison of efficiencies between different marketing investments. It also allows for experiments and guides the business on marketing budget allocation to best maximise sales. 
 
