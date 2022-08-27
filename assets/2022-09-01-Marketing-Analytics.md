@@ -20,8 +20,8 @@ ROMI = Incremental margin − Marketing investment / Marketing investment
 | Treatment group | Control group |
 |:------|:------|
 | Mailed 500,000 <img width=900/>| Not Mailed 25,000|
-| Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.| This goes beyond mentoring. Trust that each individual will do his/her best, align your team to the greater goal and inspire them through purpose. View your team members as people, not resources, and create a culture that synergizes diversity of thought.|
-| At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.| Advocate courage and respect to empower inspection and adaptation opportunities. Implement a sustainable work pace, as well as feedback loops that allow your team to focus on and improve processes and behaviors that matter most.|  
+| 3000 responders| 36 organic sales|
+| 0.60% Treated rate| 0.12% Control rate|  
 
 The measure enables the comparison of efficiencies between different marketing investments. It also allows for experiments and guides the business on marketing budget allocation to best maximise sales. 
 
