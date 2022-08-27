@@ -19,7 +19,7 @@ The incremental margin is of course a critical measurement as without it, we can
 
 | Treatment group | Control group |
 |:------|:------|
-| Mailed 500,000| Not Mailed 25,000|
+| Mailed Sample 500,000| Non Mailed Sample 25,000|
 | 3000 responders| 36 organic sales|
 | 0.60% Treated rate| 0.12% Control rate|  
 
