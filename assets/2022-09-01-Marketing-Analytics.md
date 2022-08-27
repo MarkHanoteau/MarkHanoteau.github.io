@@ -27,14 +27,9 @@ media spend, response data (sales), channel data, number of views, clicks, and p
 variables, such as weather, economic conditions, seasonality, and market competition
 
 Past performance may not be the best indicator for future performance.
-Conventional MMM only provides an estimate of the past performance but does not specifically attempt to estimate what the performance will be in the future. Customer behaviour and market
-conditions may change in the future and affect marketing performance and S-curves. Thus, the results from MMM should be used
-with caution when making decisions.
+Conventional MMM only provides an estimate of the past performance but does not specifically attempt to estimate what the performance will be in the future. Customer behaviour and market conditions may change in the future and affect marketing performance. Thus, the results from MMM should be used with caution when making decisions. MMM is often criticized for its “rear-view mirror” or after the fact perspective of marketing mix impact. 
 
-MMM is often criticized for its “rear-view mirror” or after the fact perspective of marketing mix impact. However, new simulation models can provide scenarios for managers to assess future potential results. 
-To aid in evaluating new products, they have begun Monte Carlo simulations integrating the degrees of uncertainty and drivers of a project. The simulations enable the marketing team to assess the range of potential outcomes and to apply market models and to assess discounted cash flow. The analysis allows the understanding of likely outcomes to gain a degree of confidence of the amount of risk. Their risk-adjustment net-present-value model adjusts the hurdle rate over the life of the project to more accurately reflect the degree of risk that the organization is taking.“What-if” simulations permit marketing analysts to evaluate their databases and models, as well as testing out alter-native marketing options. Also, “What-if” or “Due-to” analyses can turn a postmortem on a disappointing promotion into a springboard to new, more effective programs for the future.
-
-
+However, new simulation models can provide scenarios for managers to assess future potential results. To aid in evaluating new products, they have begun Monte Carlo simulations integrating the degrees of uncertainty and drivers of a project. The simulations enable the marketing team to assess the range of potential outcomes and to apply market models and to assess discounted cash flow. The analysis allows the understanding of likely outcomes to gain a degree of confidence of the amount of risk. 
 
 **Optimize Tactically with Multi-Touch Attribution**
 multitouch attribution (MTA) is a solution that suggest ways to optimize their marketing performance. 
