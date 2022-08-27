@@ -32,9 +32,8 @@ Conventional MMM only provides an estimate of the past performance but does not 
 However, new simulation models can provide scenarios for managers to assess future potential results. To aid in evaluating new products, they have begun Monte Carlo simulations integrating the degrees of uncertainty and drivers of a project. The simulations enable the marketing team to assess the range of potential outcomes and to apply market models and to assess discounted cash flow. The analysis allows the understanding of likely outcomes to gain a degree of confidence of the amount of risk. 
 
 **Optimize Tactically with Multi-Touch Attribution**
-multitouch attribution (MTA) is a solution that suggest ways to optimize their marketing performance. 
 
-Multi-touch attribution, on the other hand, offers tactical insights for short-term optimization. It focuses on addressable channels and leverages granular, user-level data to analyze performance in near real time. It does this by calculating and assigning fractional KPI credit to the marketing touchpoints and dimensions (publisher, placement, creative, offer, etc.) along the consumer journey that influenced a sales or other desired outcome. Marketers can use this insight to make smarter tactical decisions, such as which call to action to use or which keywords to bid on.
+Multi-touch attribution (MTA), on the other hand, is a solution that offers tactical insights and suggests ways to optimize short-term marketing performance. It focuses on addressable channels and leverages granular, user-level data to analyze performance in near real time. It does this by calculating and assigning fractional KPI credit to the marketing touchpoints and dimensions (publisher, placement, creative, offer, etc.) along the consumer journey that influenced a sales or other desired outcome. Marketers can use this insight to make smarter tactical decisions, such as which call to action to use or which keywords to bid on.
 
 Attribution is the process of determining the relative contribution of individual campaign impressions
 towards a goal for the purpose of performance measurement and optimization. The dominant
