@@ -43,14 +43,8 @@ audience targets, publishers, devices, creatives, search keywords, or other mark
 
 **Achieve Better Results by Combining Methods**
 
-By combining both approaches, marketers can further corroborate which channels are contributing
-to the pre-defined KPIs while preventing misguided conclusions when gaps between these two
-methods arise. For instance, a marketer may use MTA to determine the relative contributions of
-display and paid search tactics to online revenue. Meanwhile, they may also use marketing mix
-modeling to estimate the impact of those same tactics on offline sales. Blending the detailed view
-from MTA with the higher-level analysis provided by marketing mix modeling, companies gain more
-accurate measurements. However, the different data sources and levels of data capture make the
-automated reconciliation of the two approaches difficult. 
+By combining both approaches, marketers can further corroborate which channels are contributing to the pre-defined KPIs while preventing misguided conclusions when gaps between these two methods arise. Blending the detailed view from MTA with the higher-level analysis provided by marketing mix modeling, companies gain more
+accurate measurements. However, the different data sources and levels of data capture make the automated reconciliation of the two approaches difficult. 
 
 Marketers’ need for an integrated view of their marketing performance is as critical as ever. While marketing mix modeling and multi-touch attribution have their distinct advantages, marketers can realize the highest returns when they are used in tandem. By bringing insights from both methods of analysis together, marketers can get the comprehensive view of performance they need to inform their next best action within and across channels.
 
