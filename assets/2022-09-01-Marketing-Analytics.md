@@ -19,18 +19,12 @@ ROMI = Incremental margin − Marketing investment / Marketing investment
 
 The measure enables the comparison of efficiencies between different marketing investments. It also allows for experiments and guides the business on marketing budget allocation to best maximise sales. 
 
-MMMs allow marketers to estimate potential outcomes across a variety of circumstances—able to evaluate alternative hypotheses and select those most likely to payoff and to test them more rigorously because they do not have to test a thousand options. MMM tools can be productive as a means by which users enrich their judgmental processes by adding to their learning.
+ROMI-managed companies use marketing mix models, or when media is involved, media mix modelling, as a critically important top down technique to move beyond budget the adjustment decision-making process to compare the high level incremental impact of a range of marketing efforts on sales over time across digital and offline channels.  This allows moving beyond measurement to **strategic planning** to estimate top line future opportunities of potential outcomes performing "what-if scenarios", evaluate quickly and select the optimal marketing mix amongst the alternatives that most likely to pay off. MMMM tools can be productive as a means by which users enrich their judgmental processes by adding to their learning.
 
-ROMI-managed companies use marketing mix models, or when media is involved, media mix modelling, as a critically important top down technique to move beyond budget the adjustment decision-making process (**plan strategically**) to measure the high level impact of a range of marketing efforts on sales over time across digital and offline channels and optimize top line opportunities:
-
-Data used to fit marketing mix models 
+Data used to fit marketing mix models. The response data needs to be at the same level of granularity as the ads spend data. 
 
 media spend, response data (sales), channel data, number of views, clicks, and product price, promotion, distribution, and control
 variables, such as weather, economic conditions, seasonality, and market competition
-
-to optimize ROMI beyond improving the measurement of returns and show how channel (incremental) performance compares, to get the optimal marketing mix. They allow the estimate of potential outcomes across a variety of circumstances performing “what-if scenarios” and to evaluate more quickly and efficiently a wide range of alternative options. 
-
-The response data needs to be at the same level of granularity as the ads spend data. 
 
 Past performance may not be the best indicator for future performance.
 Conventional MMM only provides an estimate of the past performance but does not specifically attempt to estimate what the performance will be in the future. Customer behaviour and market
