@@ -19,7 +19,7 @@ ROMI = Incremental margin − Marketing investment / Marketing investment
 
 | Treatment group | Control group |
 |:------|:------|
-| Mailed 500,000 <img width=900/>| Not Mailed 25,000|
+| Mailed 500,000| Not Mailed 25,000|
 | 3000 responders| 36 organic sales|
 | 0.60% Treated rate| 0.12% Control rate|  
 
