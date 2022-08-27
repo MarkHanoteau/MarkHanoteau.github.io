@@ -33,24 +33,13 @@ However, new simulation models can provide scenarios for managers to assess futu
 
 **Optimize Tactically with Multi-Touch Attribution**
 
-Multi-touch attribution (MTA), on the other hand, is a solution that offers tactical insights and suggests ways to optimize short-term marketing performance. It focuses on addressable channels and leverages granular, user-level data to analyze performance in near real time. It does this by calculating and assigning fractional KPI credit to the marketing touchpoints and dimensions (publisher, placement, creative, offer, etc.) along the consumer journey that influenced a sales or other desired outcome. Marketers can use this insight to make smarter tactical decisions, such as which call to action to use or which keywords to bid on.
+Multi-touch attribution (MTA), on the other hand, is a solution that offers tactical in-flight insights by determining the relative contribution of individual campaign impressions towards a goal for the purpose of performance measurement and optimizations. It suggests ways to optimize short-term marketing performance. It focuses on addressable channels and leverages granular, user-level data to analyze performance in near real time. It does this by calculating and assigning fractional KPI credit to the marketing touchpoints and dimensions (publisher, placement, creative, offer, etc.) along the consumer journey that influenced an action (e.g. a sale) towards the desired outcome of the campaign. Marketers can use this insight to make smarter tactical decisions, such as which call to action to use or which keywords to bid on.
 
-Attribution is the process of determining the relative contribution of individual campaign impressions
-towards a goal for the purpose of performance measurement and optimization. The dominant
-attribution methodology is last-touch, which assigns credit to only the last ad that a consumer
-interacted with, before taking the desired action of the campaign. However, the last-touch model is
-flawed because individuals are usually exposed to multiple advertising channels before making any 
-purchasing decision. Therefore, a fundamental problem in measuring advertising effectiveness is to
-quantify how revenue should be attributed to multiple touch-points along consumers' conversion
-paths, which is the sequence, timing, and engagement in advertising channels along the purchase
-funnel.
-MTA is a solution for this measurement challenge since it assigns credit to multiple touch points
-along the path to conversion. By assembling information about user characteristics, media touch
-points, and sales/conversion data, marketers can understand which combination of channels,
-audience targets, publishers, devices, creatives, search keywords, or other marketing considerations
-are performing most effectively against their Key Performance Indicator (KPI). Thus, they are widely
-regarded by practitioners as a proxy for optimizing campaign performance. Contrary to media mix modeling, it is a bottom-up measurement approach that
-requires individual-level data.
+A fundamental problem in measuring advertising effectiveness is to quantify how revenue should be attributed to multiple touch-points along consumers' conversion
+paths, which is the sequence, timing, and engagement in advertising channels along the purchase funnel.
+
+By assembling information about user characteristics, media touch points, and sales/conversion data, marketers can understand which combination of channels,
+audience targets, publishers, devices, creatives, search keywords, or other marketing considerations are performing most effectively against their Key Performance Indicator (KPI). Thus, they are widely regarded by practitioners as a proxy for optimizing campaign performance. Contrary to media mix modeling, it is a bottom-up measurement approach that requires individual-level data.
 
 **Achieve Better Results by Combining Methods**
 
