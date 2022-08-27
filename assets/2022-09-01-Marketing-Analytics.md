@@ -17,6 +17,12 @@ ROMI = Incremental margin − Marketing investment / Marketing investment
 
 **give WF example**
 
+| Treatment group | Control group |
+|:------|:------|
+| Mailed 500,000 <img width=900/>| Not Mailed 25,000|
+| Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.| This goes beyond mentoring. Trust that each individual will do his/her best, align your team to the greater goal and inspire them through purpose. View your team members as people, not resources, and create a culture that synergizes diversity of thought.|
+| At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.| Advocate courage and respect to empower inspection and adaptation opportunities. Implement a sustainable work pace, as well as feedback loops that allow your team to focus on and improve processes and behaviors that matter most.|  
+
 The measure enables the comparison of efficiencies between different marketing investments. It also allows for experiments and guides the business on marketing budget allocation to best maximise sales. 
 
 ROMI-managed companies use marketing mix models, or when media is involved, media mix modelling, as a critically important top down technique to move beyond budget the adjustment decision-making process to compare the high level incremental impact of a range of marketing efforts on sales over time across digital and offline channels.  This allows moving beyond measurement to **strategic planning** to estimate top line future opportunities of potential outcomes performing "what-if scenarios", evaluate quickly and select the optimal marketing mix amongst the alternatives that most likely to pay off. MMMM tools can be productive as a means by which users enrich their judgmental processes by adding to their learning.
