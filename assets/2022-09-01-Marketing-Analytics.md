@@ -1,12 +1,17 @@
 ---
 layout: post
-title: Evidenced based management in Agile Marketing. 
-subtitle: ROMI vs MMM vs MTA How to measure and optimize Marketing's contribution to enterprise value
-cover-img: /assets/img/ROMI.jpg
-thumbnail-img: /assets/img/ROMI.png
-share-img: /assets/img/ROMI.jpg
+title: Evidenced based management in Agile Marketing
+subtitle: How to measure and optimize Marketing's contribution to enterprise value
+cover-img: /assets/img/ROMI2.PNG
+thumbnail-img: /assets/img/ROMI.PNG
+share-img: /assets/img/ROMI2.PNG
 tags: [ROMI, MMM, MTA]
 ---
+Agile tracks via EBM
+
+Reaching strategic goals requires experimenting, inspecting, and adapting
+
+![EBM](/assets/img/EBM.PNG)
 
 The top two marketing challenges I have consistently encountered across various industries and companies are as follows:
 
