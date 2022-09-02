@@ -2,9 +2,9 @@
 layout: post
 title: Evidenced based management in Agile Marketing
 subtitle: How to measure and optimize Marketing's contribution to enterprise value
-cover-img: /assets/img/ROMI.PNG
+cover-img: /assets/img/ROMI2.PNG
 thumbnail-img: /assets/img/ROMI.PNG
-share-img: /assets/img/ROMI.PNG
+share-img: /assets/img/ROMI2.PNG
 tags: [ROMI, MMM, MTA]
 ---
 
