@@ -9,6 +9,8 @@ tags: [ROMI, MMM, MTA]
 ---
 Agile tracks via EBM
 
+Reaching strategic goals requires experimenting, inspecting, and adapting
+
 ![EBM](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFk4dVQnzO3npZxUpBR1vOJFZf9k_3Mmp_nBGSXTsUnuEqNRkhnbnrGHHDAXCTUmKc71I&usqp=CAU)
 
 The top two marketing challenges I have consistently encountered across various industries and companies are as follows:
