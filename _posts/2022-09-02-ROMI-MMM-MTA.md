@@ -9,6 +9,8 @@ tags: [ROMI, MMM, MTA]
 ---
 Agile tracks via EBM
 
+![EBM](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3mjv0lreuoRzXflClMGfwlnLWs2ieCCVUVA&usqp=CAU)
+
 The top two marketing challenges I have consistently encountered across various industries and companies are as follows:
 
 * Find ways to bring incremental revenues beyond seasonality and cannibalism. 
