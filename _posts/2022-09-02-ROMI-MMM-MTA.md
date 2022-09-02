@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/ROMI.PNG
 share-img: /assets/img/ROMI2.PNG
 tags: [ROMI, MMM, MTA]
 ---
+Agile tracks via EBM
 
 The top two marketing challenges I have consistently encountered across various industries and companies are as follows:
 
