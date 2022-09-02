@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Evidenced based management in Agile Marketing. 
-subtitle: ROMI vs MMM vs MTA How to measure and optimize Marketing's contribution to enterprise value
-cover-img: /assets/img/ROMI.png
-thumbnail-img: /assets/img/ROMI.png
-share-img: /assets/img/ROMI.png
+title: Evidenced based management in Agile Marketing
+subtitle: How to measure and optimize Marketing's contribution to enterprise value
+cover-img: /assets/img/ROMI.PNG
+thumbnail-img: /assets/img/ROMI.PNG
+share-img: /assets/img/ROMI.PNG
 tags: [ROMI, MMM, MTA]
 ---
 
