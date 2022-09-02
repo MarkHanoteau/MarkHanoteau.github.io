@@ -8,7 +8,10 @@ share-img: /assets/img/ROMI.jpg
 tags: [ROMI, MMM, MTA]
 ---
 
-Marketing's  biggest C-suite communication challenge is to accurately prove how effective marketing strategies are on financial outcomes. This struggle ranges from fact-based past performance assessments just as much as empirically deciding whether to decrease or increase Marketing Budgets, or even, at a more tactical level, which future marketing investments will return the greater pay off.
+The top two marketing challenges I have consistently encountered across various industries and companies are as follows:
+
+* Find ways to bring incremental revenues beyond seasonality and cannibalism. 
+* Marketing's  biggest C-suite communication challenge is to accurately prove how effective marketing strategies are on financial outcomes. This struggle ranges from fact-based past performance assessments just as much as empirically deciding whether to decrease or increase Marketing Budgets, or even, at a more tactical level, which future marketing investments will return the greater pay off.
 
 Beyond cost control and profitability decision making, adopting a financial measure like 'Return On Marketing Investment' (ROMI) outlook sharpens the focus on business goals. It is typically calculated by doing a baseline-lift valuation on short-term sales, where the effect of a marketing effort on sales is separated from the level of sales that would have been reached without the marketing effort. 
 By comparing the returns and costs of marketing, ROMI encourages transparency and builds trust as financial impact is a language that top management understands and evaluates against. ROMI helps compare marketing decisions by revealing the ones with the higher efficiency.
