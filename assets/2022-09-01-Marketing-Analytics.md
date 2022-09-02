@@ -15,7 +15,7 @@ The top two marketing challenges I have consistently encountered across various 
 
 The most important equation in Marketing is arguably 'Return On Marketing Investment' (ROMI).
 
-[> ROMI = Incremental margin − Marketing investment / Marketing investment ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_cGaoR2e7gDvLXoOJVXP2ySl62vRLbO0JrAhZovyUBY9UwPHoIGzX0BeHMAV8wQ9prg&usqp=CAU)
+[ROMI = Incremental margin − Marketing investment / Marketing investment ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_cGaoR2e7gDvLXoOJVXP2ySl62vRLbO0JrAhZovyUBY9UwPHoIGzX0BeHMAV8wQ9prg&usqp=CAU)
 
 Beyond cost control and profitability decision making, adopting a financial measure like outlook sharpens the focus on business goals. It is typically calculated by doing a baseline-lift valuation on short-term sales, where the effect of a marketing effort on sales is separated from the level of sales that would have been reached without the marketing effort. 
 By comparing the returns and costs of marketing, ROMI encourages transparency and builds trust as financial impact is a language that top management understands and evaluates against. ROMI helps compare marketing decisions by revealing the ones with the higher efficiency.
