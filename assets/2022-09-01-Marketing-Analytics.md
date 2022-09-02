@@ -7,6 +7,13 @@ thumbnail-img: /assets/img/ROMI.PNG
 share-img: /assets/img/ROMI2.PNG
 tags: [ROMI, MMM, MTA]
 ---
+
+What techniques provide Marketing the ability to adapt quickly to emerging information?
+
+Agile is a collective concept that includes different techniques that provide the ability to adapt quickly to new conditions
+
+One of the What tools  does Marketing pivot and optimize towards its outcomes? 
+
 Agile tracks via EBM
 
 Reaching strategic goals requires experimenting, inspecting, and adapting
