@@ -21,6 +21,8 @@ Two pillars: Drive financial efficiency and improve marketing effectiveness.
 
 Drive financial efficiency: accountability to the business + provide greater transparency of investments. 
 
+effectiveness: plan campaigns with data and insights at key points of the marketing cycle. 
+
 What techniques provide Marketing the ability to adapt quickly to emerging information?
 
 Bet on transparency
