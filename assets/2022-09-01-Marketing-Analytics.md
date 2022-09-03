@@ -7,11 +7,19 @@ thumbnail-img: /assets/img/ROMI.PNG
 share-img: /assets/img/ROMI2.PNG
 tags: [ROMI, MMM, MTA]
 ---
+There are two sides to Marketing: growing relationships and deepening relationships. 
+
+"You have to spend money to make money" adage is never been truer than in Marketing. Smarter and clearer about how you're spending your dollars in support of your business. 
+
+Effectiveness: how do we get more out of everything that we do in Marketing?
+
 Ultimately you have to grow the top line, you have to grow revenues in order to succeed. (Mix Quantic Accounting to Marketing). 
 
 Greater levels of integrity on the insights. 
 
 Two pillars: Drive financial efficiency and improve marketing effectiveness.
+
+Drive financial efficiency: accountability to the business + provide greater transparency of investments. 
 
 What techniques provide Marketing the ability to adapt quickly to emerging information?
 
