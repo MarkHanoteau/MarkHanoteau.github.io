@@ -9,6 +9,17 @@ tags: [ROMI, MMM, MTA]
 ---
 There are two sides to Marketing: growing relationships and deepening relationships. 
 
+Build brand. 
+
+Strategy: Know your customer
+Personalize with intelligence
+Engage across the entire customer journey
+Improve customer experience
+grown and deepen relationships
+
+
+Increase efficiency: develop top down framework for customer engagment. 
+
 "You have to spend money to make money" adage is never been truer than in Marketing. Smarter and clearer about how you're spending your dollars in support of your business. 
 
 Effectiveness: how do we get more out of everything that we do in Marketing?
