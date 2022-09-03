@@ -7,8 +7,17 @@ thumbnail-img: /assets/img/ROMI.PNG
 share-img: /assets/img/ROMI2.PNG
 tags: [ROMI, MMM, MTA]
 ---
+Ultimately you have to grow the top line, you have to grow revenues in order to succeed. (Mix Quantic Accounting to Marketing). 
+
+Greater levels of integrity on the insights. 
+
+Two pillars: Drive financial efficiency and improve marketing effectiveness.
 
 What techniques provide Marketing the ability to adapt quickly to emerging information?
+
+Bet on transparency
+
+What are the right levers?
 
 Agile is a collective concept that includes different techniques that provide the ability to adapt quickly to new conditions
 
@@ -24,6 +33,7 @@ The top two marketing challenges I have consistently encountered across various 
 
 * Find ways to bring incremental revenues beyond seasonality and cannibalism. 
 * Marketing's  biggest C-suite communication challenge is to accurately prove how effective marketing strategies are on financial outcomes. This struggle ranges from fact-based past performance assessments just as much as empirically deciding whether to decrease or increase Marketing Budgets, or even, at a more tactical level, which future marketing investments will return the greater pay off.
+* Collecting the right data, making sense of complex and varied data, adding to the data. 
 
 The most important equation in Marketing is arguably 'Return On Marketing Investment' (ROMI).
 
