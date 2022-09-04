@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Evidenced based management in Agile Marketing
-subtitle: How to measure and optimize Marketing's contribution to enterprise value
+title: Evidenced based Marketing
+subtitle: Measure and optimize Marketing's contribution to enterprise value
 cover-img: /assets/img/ROMI3.png
 thumbnail-img: /assets/img/ROMI.PNG
 share-img: /assets/img/ROMI3.png
 tags: [ROMI, MMM, MTA]
 ---
-Focus on solving customer problems in ways that drive business value. 
+
 
 
 
