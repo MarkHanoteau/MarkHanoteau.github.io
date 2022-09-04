@@ -2,9 +2,9 @@
 layout: post
 title: Evidenced based Marketing
 subtitle: Measure and optimize Marketing's contribution to enterprise value
-cover-img: /assets/img/ROMI4.png
+cover-img: /assets/img/ROMI.png
 thumbnail-img: /assets/img/ROMI.PNG
-share-img: /assets/img/ROMI4.png
+share-img: /assets/img/ROMI.png
 tags: [ROMI, MMM, MTA]
 ---
 My elevator pitch on Marketing often focuses on a narrow set of themes. 
