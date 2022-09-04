@@ -24,7 +24,7 @@ If Marketing can be thought of as an investment - and it defintely is accounted 
 
 Throughout this article, I will describe three ways to factually measure past marketing performance, empirically decide how to set top down campaign budgets and how to ensure that each investment returns the likelier pay off. 
 
-With that said, one of the single most important equations in marketing is the *Return On Marketing Investment* aka ROMI.
+With that said, one of the single most important equations in marketing is the **Return On Marketing Investment** aka ROMI.
 
 Let's break the ROMI equation down:
 
