@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/ROMI.PNG
 share-img: /assets/img/ROMI.png
 tags: [ROMI, MMM, MTA]
 ---
-My elevator pitch on Marketing often focuses on a narrow set of themes. 
+My elevator pitch on Marketing often focuses on a narrow set of themes: know your customer, personalize with intelligence, engage across the customer journey, grow and deepen relationships. 
 
 Focus on solving customer problems in ways that drive business value. 
 
@@ -18,12 +18,6 @@ Enhance customer relationships and help identify significant revenue / profit op
 There are two sides to Marketing: growing relationships and deepening relationships. 
 
 Build brand. 
-
-Strategy: Know your customer
-Personalize with intelligence
-Engage across the entire customer journey
-Improve customer experience
-grown and deepen relationships
 
 
 Increase efficiency: develop top down framework for customer engagment. 
