@@ -20,47 +20,11 @@ What takes more mental energy is achieving these outcomes in ways that drive bus
 
 Even though the typical common language across departments involves proving how effective their strategies are on the business' financial outcomes, many marketing functions find it challenging to identify and measure significant revenue / profit opportunities, never mind communicate them. 
 
+
+If Marketing can be thought of as an investment - and it defintely is accounted for as an expense on income statements - a critical skill for modern marketers is to be smart and clear about how to spend their investment in support of the business.
 Throughout this article, I will describe three ways to factually measure past marketing performance, empirically decide how to set top down campaign budgets and how to ensure that each investment returns the likelier pay off. 
 
-* Find ways to bring incremental revenues beyond seasonality and cannibalism. 
-* Collecting the right data, making sense of complex and varied data, adding to the data. 
-
-Increase efficiency: develop top down framework for customer engagment. 
-
-"You have to spend money to make money" adage is never been truer than in Marketing. Smarter and clearer about how you're spending your dollars in support of your business. 
-
-Effectiveness: how do we get more out of everything that we do in Marketing?
-
-Ultimately you have to grow the top line, you have to grow revenues in order to succeed. (Mix Quantic Accounting to Marketing). 
-
-Greater levels of integrity on the insights. 
-
-Two pillars: Drive financial efficiency and improve marketing effectiveness.
-
-Drive financial efficiency: accountability to the business + provide greater transparency of investments. 
-
-effectiveness: plan campaigns with data and insights at key points of the marketing cycle. 
-
-What techniques provide Marketing the ability to adapt quickly to emerging information?
-
-Bet on transparency
-
-What are the right levers?
-
-Agile is a collective concept that includes different techniques that provide the ability to adapt quickly to new conditions
-
-One of the What tools  does Marketing pivot and optimize towards its outcomes? 
-
-Agile tracks via EBM
-
-Reaching strategic goals requires experimenting, inspecting, and adapting
-
-![EBM](/assets/img/EBM.PNG)
-
-The top two marketing challenges I have consistently encountered across various industries and companies are as follows:
-
-
-The most important equation in Marketing is arguably 'Return On Marketing Investment' (ROMI).
+With that said, one of the single most important equations in marketing is the 'Return On Marketing Investment' (ROMI).
 
 ![ROMI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW02FU6et9MQH0VOK4F_sr3rwnWLkH4F_z7J3Kf4jsh1Kgc9FkISfTg65gyUgg-JnsjQ&usqp=CAU) [Credit for picture](https://medium.com/@mmajonchi/measuring-the-true-impact-of-iot-bbe434213e20)
 
@@ -169,3 +133,44 @@ Marketers’ need for an integrated view of their marketing performance is as cr
 For example, consider a brand that is running multiple campaigns across a number of online and offline channels. Using marketing mix modeling, the brand can analyze all the drivers of performance and determine how to best allocate its budget between channels on a quarterly or annual basis. Using multi-touch attribution, the brand can then drill down deeper and allocate channel budgets to the highest-performing publishers, placements, keywords, creatives, and other tactics while campaigns are still in flight. Armed with this strategic -and tactical-level insight, brands can make a broad array of decisions to maximize the efficiency and effectiveness of their entire marketing portfolios.
 
 Most brands today rely on both online and offline channels to drives sales, revenue and other desired business outcomes. By leveraging a holistic measurement approach that reconciles data and insight from marketing mix modeling and multi-touch attribution, marketers can enjoy the truly comprehensive view they need to make the right decisions, at the right time, to optimize performance across every area of investment.
+
+
+
+* Find ways to bring incremental revenues beyond seasonality and cannibalism. 
+* Collecting the right data, making sense of complex and varied data, adding to the data. 
+
+Increase efficiency: develop top down framework for customer engagment. 
+
+"You have to spend money to make money" adage is never been truer than in Marketing. 
+
+Effectiveness: how do we get more out of everything that we do in Marketing?
+
+Ultimately you have to grow the top line, you have to grow revenues in order to succeed. (Mix Quantic Accounting to Marketing). 
+
+Greater levels of integrity on the insights. 
+
+Two pillars: Drive financial efficiency and improve marketing effectiveness.
+
+Drive financial efficiency: accountability to the business + provide greater transparency of investments. 
+
+effectiveness: plan campaigns with data and insights at key points of the marketing cycle. 
+
+What techniques provide Marketing the ability to adapt quickly to emerging information?
+
+Bet on transparency
+
+What are the right levers?
+
+Agile is a collective concept that includes different techniques that provide the ability to adapt quickly to new conditions
+
+One of the What tools  does Marketing pivot and optimize towards its outcomes? 
+
+Agile tracks via EBM
+
+Reaching strategic goals requires experimenting, inspecting, and adapting
+
+![EBM](/assets/img/EBM.PNG)
+
+The top two marketing challenges I have consistently encountered across various industries and companies are as follows:
+
+
