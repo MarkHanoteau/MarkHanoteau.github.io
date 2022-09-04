@@ -7,6 +7,12 @@ thumbnail-img: /assets/img/ROMI.PNG
 share-img: /assets/img/ROMI2.PNG
 tags: [ROMI, MMM, MTA]
 ---
+Focus on solving customer problems in ways that drive business value. 
+
+
+
+Enhance customer relationships and help identify significant revenue / profit opportunities. 
+
 There are two sides to Marketing: growing relationships and deepening relationships. 
 
 Build brand. 
