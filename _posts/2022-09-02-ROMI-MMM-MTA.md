@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/ROMI.PNG
 share-img: /assets/img/ROMI.png
 tags: [ROMI, MMM, MTA]
 ---
+
 Ask me for an elevator pitch on Marketing and you'll probably hear me touch on the following themes: 
 * Know your customer
 * Personalize with intelligence
@@ -14,9 +15,9 @@ Ask me for an elevator pitch on Marketing and you'll probably hear me touch on t
 * Grow and deepen relationships
 * Build the brand
 
-Focus on solving customer problems in ways that drive business value. 
+I am probably not the only marketer to absorb myself in this gratifying sense of nobility that comes with solving customer problems.  What takes more mental energy - but  
 
-nobility in marketing
+The problem is in ways that drive business value. 
 
 Enhance customer relationships and help identify significant revenue / profit opportunities. 
 
