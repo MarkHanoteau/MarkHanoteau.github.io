@@ -16,20 +16,14 @@ Ask me for an elevator pitch on Marketing and you'll probably hear me touch on t
 
 These focus areas feel natural. There's a gratifying sense of nobility that comes with solving customer problems.
 
-What takes more mental energy is achieving these outcomes in ways that drive business value. As marketers, we often pride ourselves as great storytellers yet we notoriously tend to struggle accurately demonstrating the benefits of marketing to other business units and functions. 
+What takes more mental energy is achieving these outcomes in ways that drive business value. As marketers, we often pride ourselves as great storytellers yet we notoriously tend to struggle accurately demonstrating the benefits of marketing to other business units. 
 
-The common language across departments is how effective their strategies are on the business' financial outcomes. 
+Even though the typical common language across departments involves proving how effective their strategies are on the business' financial outcomes, many marketing functions find it challenging to identify and measure significant revenue / profit opportunities, never mind communicate them. 
+
+Throughout this article, I will describe three ways to factually measure past marketing performance, empirically decide how to set top down campaign budgets and how to ensure that each investment returns the likelier pay off. 
 
 * Find ways to bring incremental revenues beyond seasonality and cannibalism. 
- This struggle ranges from fact-based past performance assessments just as much as empirically deciding whether to decrease or increase Marketing Budgets, or even, at a more tactical level, which future marketing investments will return the greater pay off.
 * Collecting the right data, making sense of complex and varied data, adding to the data. 
-
-
-Enhance customer relationships and help identify significant revenue / profit opportunities. 
-
-There are two sides to Marketing: growing relationships and deepening relationships. 
-
-Build the brand
 
 Increase efficiency: develop top down framework for customer engagment. 
 
@@ -65,9 +59,6 @@ Reaching strategic goals requires experimenting, inspecting, and adapting
 
 The top two marketing challenges I have consistently encountered across various industries and companies are as follows:
 
-* Find ways to bring incremental revenues beyond seasonality and cannibalism. 
-* Marketing's  biggest C-suite communication challenge is to accurately prove how effective marketing strategies are on financial outcomes. This struggle ranges from fact-based past performance assessments just as much as empirically deciding whether to decrease or increase Marketing Budgets, or even, at a more tactical level, which future marketing investments will return the greater pay off.
-* Collecting the right data, making sense of complex and varied data, adding to the data. 
 
 The most important equation in Marketing is arguably 'Return On Marketing Investment' (ROMI).
 
