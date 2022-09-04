@@ -87,6 +87,12 @@ The incremental margin is of course a critical measurement as without it, we can
 
 The measure enables the comparison of efficiencies between different marketing investments. It also allows for experiments and guides the business on marketing budget allocation to best maximise sales. 
 
+Measure and optimize the strategy across all channels:
+
+How much should we spend? Where should we invest? What's the impact?
+
+Incremental / absolute lift. 
+
 ROMI-managed companies use marketing mix models, or when media is involved, media mix modelling, as a critically important top down technique to move beyond budget the adjustment decision-making process to compare the high level incremental impact of a range of marketing efforts on sales over time across digital and offline channels.  This allows moving beyond measurement to **strategic planning** to estimate top line future opportunities of potential outcomes performing "what-if scenarios", evaluate quickly and select the optimal marketing mix amongst the alternatives that most likely to pay off. MMMM tools can be productive as a means by which users enrich their judgmental processes by adding to their learning.
 
 Data used to fit marketing mix models. The response data needs to be at the same level of granularity as the ads spend data. 
@@ -94,12 +100,20 @@ Data used to fit marketing mix models. The response data needs to be at the same
 media spend, response data (sales), channel data, number of views, clicks, and product price, promotion, distribution, and control
 variables, such as weather, economic conditions, seasonality, and market competition
 
+
 Past performance may not be the best indicator for future performance.
 Conventional MMM only provides an estimate of the past performance but does not specifically attempt to estimate what the performance will be in the future. Customer behaviour and market conditions may change in the future and affect marketing performance. Thus, the results from MMM should be used with caution when making decisions. MMM is often criticized for its “rear-view mirror” or after the fact perspective of marketing mix impact. 
 
 However, new simulation models can provide scenarios for managers to assess future potential results. To aid in evaluating new products, they have begun Monte Carlo simulations integrating the degrees of uncertainty and drivers of a project. The simulations enable the marketing team to assess the range of potential outcomes and to apply market models and to assess discounted cash flow. The analysis allows the understanding of likely outcomes to gain a degree of confidence of the amount of risk. 
 
-**Optimize Tactically with Multi-Touch Attribution**
+**Measure and Optimize the journey Tactically within addressable channels with Multi-Touch Attribution**
+
+Relative lift.
+
+How should we allocate median within a channel?
+Who should we target?
+Where and how should we reach them?
+How often should I message them?
 
 Multi-touch attribution (MTA), on the other hand, is a solution that offers tactical in-flight insights by determining the relative contribution of individual campaign impressions towards a goal for the purpose of performance measurement and optimizations. It suggests ways to optimize short-term marketing performance. It focuses on addressable channels and leverages granular, user-level data to analyze performance in near real time. It does this by calculating and assigning fractional KPI credit to the marketing touchpoints and dimensions (publisher, placement, creative, offer, etc.) along the consumer journey that influenced an action (e.g. a sale) towards the desired outcome of the campaign. Marketers can use this insight to make smarter tactical decisions, such as which call to action to use or which keywords to bid on.
 
@@ -109,7 +123,17 @@ paths, which is the sequence, timing, and engagement in advertising channels alo
 By assembling information about user characteristics, media touch points, and sales/conversion data, marketers can understand which combination of channels,
 audience targets, publishers, devices, creatives, search keywords, or other marketing considerations are performing most effectively against their Key Performance Indicator (KPI). Thus, they are widely regarded by practitioners as a proxy for optimizing campaign performance. Contrary to media mix modeling, it is a bottom-up measurement approach that requires individual-level data.
 
-**Achieve Better Results by Combining Methods**
+An individual's consumer's decision to purchase has four distinct drivers:
+*Purchase propensity (predisposition to purchase)
+*Traditional media
+*Non marketing drivers (seasonality, discounts, economy)
+*Digital media
+
+MTA only captures the digital media effects dimension. 
+
+**Optimize all marketing investments, holistically. Achieve Better Results by Combining Methods**
+
+Unified analytics combines the functionality of a market level, top down model (MMM) and an audience-level, bottom up model. 
 
 By combining both approaches, marketers can further corroborate which channels are contributing to the pre-defined KPIs while preventing misguided conclusions when gaps between these two methods arise. Blending the detailed view from MTA with the higher-level analysis provided by marketing mix modeling, companies gain more
 accurate measurements. However, the different data sources and levels of data capture make the automated reconciliation of the two approaches difficult. 
