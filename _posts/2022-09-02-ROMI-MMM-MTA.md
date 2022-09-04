@@ -13,16 +13,16 @@ Ask me for an elevator pitch on Marketing and you'll probably hear me touch on t
 * Personalize with intelligence
 * Engage across the customer journey
 * Grow and deepen relationships
-* Build the brand
 
-I am probably not the only marketer to absorb myself in this gratifying sense of nobility that comes with solving customer problems.  What takes more mental energy - but  
+These focus areas feel natural. Solving customer problems feels gratifying. It arguably even brings sense of nobility.
 
-The problem is in ways that drive business value. 
+What takes more mental energy is achieving these outcomes in ways that drive business value. As marketers, we often pride ourselves as great storytellers but a 
 
 Enhance customer relationships and help identify significant revenue / profit opportunities. 
 
 There are two sides to Marketing: growing relationships and deepening relationships. 
 
+Build the brand
 
 Increase efficiency: develop top down framework for customer engagment. 
 
