@@ -16,7 +16,13 @@ Ask me for an elevator pitch on Marketing and you'll probably hear me touch on t
 
 These focus areas feel natural. Solving customer problems feels gratifying. It arguably even brings sense of nobility.
 
-What takes more mental energy is achieving these outcomes in ways that drive business value. As marketers, we often pride ourselves as great storytellers but a 
+What takes more mental energy is achieving these outcomes in ways that drive business value. As marketers, we often pride ourselves as great storytellers yet we notoriously tend to struggle demonstrating the benefits of marketing to peers belongigng to other business units and functions. 
+
+
+* Find ways to bring incremental revenues beyond seasonality and cannibalism. 
+* Marketing's  biggest C-suite communication challenge is to accurately prove how effective marketing strategies are on financial outcomes. This struggle ranges from fact-based past performance assessments just as much as empirically deciding whether to decrease or increase Marketing Budgets, or even, at a more tactical level, which future marketing investments will return the greater pay off.
+* Collecting the right data, making sense of complex and varied data, adding to the data. 
+
 
 Enhance customer relationships and help identify significant revenue / profit opportunities. 
 
