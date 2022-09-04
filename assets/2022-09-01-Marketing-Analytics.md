@@ -89,6 +89,8 @@ The measure enables the comparison of efficiencies between different marketing i
 
 Measure and optimize the strategy across all channels:
 
+MMM sets campaign budgets for each media channel - dictating both the overall spend allocation for the campaign and the proportional spend across each channel. 
+
 How much should we spend? Where should we invest? What's the impact?
 
 Incremental / absolute lift. 
@@ -108,12 +110,38 @@ However, new simulation models can provide scenarios for managers to assess futu
 
 **Measure and Optimize the journey Tactically within addressable channels with Multi-Touch Attribution**
 
+Tactical decision making.
+
 Relative lift.
 
-How should we allocate median within a channel?
+How should we allocate media within a channel?
 Who should we target?
 Where and how should we reach them?
 How often should I message them?
+
+MTA optimizes budgets, it's a technique that gives intra-channel optimal plan recommendation based on MMM budget constraints. This ensures the activations are optimized for each specific channel. 
+
+Media performance:
+What addressable marketing efforts drive the highest incremental sales?
+What were the top performing publishers by media type?
+How have last week's campaigns been performing?
+
+Forward looking optimizations:
+How should we allocate next week's media plan to maximise sales?
+How can we shift gears this week to improve the performance of a given campaign?
+What is the impact on sales if we change the media mix? Budget? Cost per goals?
+
+Frequency analysis:
+What is the optimal frequency cap by media and by publisher?
+How many times do our customers see an ad before they convert?
+How efficient are our digital ad campaigns?
+
+Customer journey analysis:
+What are the most common paths to purchase?
+How do different audience segments perform aginast addressable media channels?
+How long does it typically take for consumers to convert following a media exposure?
+
+MTA optimizes in flight. MTA attribution is used to track results of campaigns as they run. It assesses performance across the most granular dimensions of media. Intra-channel optimizations can be done based on near real-time results. Cross channel shifts can be evaluated periodically throughout campaigns. 
 
 Multi-touch attribution (MTA), on the other hand, is a solution that offers tactical in-flight insights by determining the relative contribution of individual campaign impressions towards a goal for the purpose of performance measurement and optimizations. It suggests ways to optimize short-term marketing performance. It focuses on addressable channels and leverages granular, user-level data to analyze performance in near real time. It does this by calculating and assigning fractional KPI credit to the marketing touchpoints and dimensions (publisher, placement, creative, offer, etc.) along the consumer journey that influenced an action (e.g. a sale) towards the desired outcome of the campaign. Marketers can use this insight to make smarter tactical decisions, such as which call to action to use or which keywords to bid on.
 
