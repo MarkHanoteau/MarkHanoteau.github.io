@@ -14,7 +14,7 @@ Ask me for an elevator pitch on Marketing and you'll probably hear me touch on t
 * Engage across the customer journey
 * Grow and deepen relationships
 
-These focus areas feel natural. Solving customer problems feels gratifying. It arguably even brings sense of nobility.
+These focus areas feel natural, arguably because solving customer problems brings about a gratifying sense of nobility.
 
 What takes more mental energy is achieving these outcomes in ways that drive business value. As marketers, we often pride ourselves as great storytellers yet we notoriously tend to struggle demonstrating the benefits of marketing to peers belongigng to other business units and functions. 
 
