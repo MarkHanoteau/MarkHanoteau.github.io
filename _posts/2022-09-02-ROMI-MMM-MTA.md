@@ -29,7 +29,9 @@ With that said, one of the single most important equations in marketing is the '
 Let's break the ROMI equation down:
 
 > ROMI = Incremental margin − Marketing investment 
+
 >        -----------------------------------------
+
 >                Marketing investment 
 
 The incremental margin is of course a critical measurement as without it, we can't calculate returns. Consider this simplistic example: 
