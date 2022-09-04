@@ -7,6 +7,8 @@ thumbnail-img: /assets/img/ROMI.PNG
 share-img: /assets/img/ROMI4.png
 tags: [ROMI, MMM, MTA]
 ---
+My elevator pitch on Marketing often focuses on a narrow set of themes. 
+
 Focus on solving customer problems in ways that drive business value. 
 
 nobility in marketing
