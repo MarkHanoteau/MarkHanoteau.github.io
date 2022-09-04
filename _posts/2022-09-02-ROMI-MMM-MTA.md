@@ -16,24 +16,21 @@ Ask me for an elevator pitch on Marketing and you'll probably hear me touch on t
 
 These focus areas feel natural. There's a gratifying sense of nobility that comes with solving customer problems.
 
-What takes more mental energy is achieving these outcomes in ways that drive business value. As marketers, we often pride ourselves as great storytellers yet we notoriously tend to struggle accurately demonstrating the benefits of marketing to other business units. 
+What takes more mental energy is achieving these outcomes in ways that drive business value. As marketers, we often pride ourselves as great storytellers yet we notoriously tend to struggle accurately demonstrating the benefits of marketing to other business units. It's high time we sharpen our focus on business goals. 
 
 Even though the typical common language across departments involves proving how effective their strategies are on the business' financial outcomes, many marketing functions find it challenging to identify and measure significant revenue / profit opportunities, never mind communicate them. 
 
-
 If Marketing can be thought of as an investment - and it defintely is accounted for as an expense on income statements - a critical skill for modern marketers is to be smart and clear about how to spend their investment in support of the business.
+
 Throughout this article, I will describe three ways to factually measure past marketing performance, empirically decide how to set top down campaign budgets and how to ensure that each investment returns the likelier pay off. 
 
 With that said, one of the single most important equations in marketing is the 'Return On Marketing Investment' (ROMI).
 
-![ROMI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW02FU6et9MQH0VOK4F_sr3rwnWLkH4F_z7J3Kf4jsh1Kgc9FkISfTg65gyUgg-JnsjQ&usqp=CAU) [Credit for picture](https://medium.com/@mmajonchi/measuring-the-true-impact-of-iot-bbe434213e20)
-
-Beyond cost control and profitability decision making, adopting a financial measure like outlook sharpens the focus on business goals. It is typically calculated by doing a baseline-lift valuation on short-term sales, where the effect of a marketing effort on sales is separated from the level of sales that would have been reached without the marketing effort. 
-By comparing the returns and costs of marketing, ROMI encourages transparency and builds trust as financial impact is a language that top management understands and evaluates against. ROMI helps compare marketing decisions by revealing the ones with the higher efficiency.
-
 Let's break the ROMI equation down:
 
-> ROMI = Incremental margin − Marketing investment / Marketing investment 
+> ROMI = Incremental margin − Marketing investment 
+>        -----------------------------------------
+>                Marketing investment 
 
 The incremental margin is of course a critical measurement as without it, we can't calculate returns. Consider this simplistic example: 
 
@@ -48,6 +45,9 @@ The incremental margin is of course a critical measurement as without it, we can
 > .. and Marketing should take credit for 80% for the 3000 influenced responders (2400/3000)
 
 The measure enables the comparison of efficiencies between different marketing investments. It also allows for experiments and guides the business on marketing budget allocation to best maximise sales. 
+
+Beyond cost control and profitability decision making, adopting a financial measure like outlook.. It is typically calculated by doing a baseline-lift valuation on short-term sales, where the effect of a marketing effort on sales is separated from the level of sales that would have been reached without the marketing effort. 
+By comparing the returns and costs of marketing, ROMI encourages transparency and builds trust as financial impact is a language that top management understands and evaluates against. ROMI helps compare marketing decisions by revealing the ones with the higher efficiency.
 
 Measure and optimize the strategy across all channels:
 
