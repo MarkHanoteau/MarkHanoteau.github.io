@@ -14,7 +14,7 @@ Ask me for an elevator pitch on Marketing and the following themes will most pro
 * Engage across the customer journey
 * Grow and deepen relationships
 
-Solving customer problems. There's a gratifying sense of nobility that comes with it. What takes more mental energy is achieving these outcomes in ways that drive business value. As marketers, we often pride ourselves as great storytellers yet we notoriously tend to struggle accurately demonstrating the benefits of marketing to other business units. It's high time we sharpen our focus on business goals. 
+Solving customer problems.. There's a gratifying sense of nobility that comes with it. What takes more mental energy is achieving such an outcome in ways that also drive business value. As marketers, we often pride ourselves as great storytellers yet we notoriously tend to struggle accurately demonstrating the benefits of marketing to other business units. It's high time we sharpen our focus on business goals. 
 
 Even though the typical common language across departments involves proving how effective their strategies are on the business' financial outcomes, many marketing functions find it challenging to identify and measure significant revenue / profit opportunities, never mind communicate them. 
 
