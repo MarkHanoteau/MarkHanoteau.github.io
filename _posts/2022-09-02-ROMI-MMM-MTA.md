@@ -8,13 +8,15 @@ share-img: /assets/img/ROMI.png
 tags: [ROMI, MMM, MTA]
 ---
 
-Ask me for an elevator pitch on Marketing and the following themes will most probably spring to my mind: 
+Prompt me for an elevator pitch on Marketing and the following themes will most probably spring to my mind: 
 * Know your customer
 * Personalize with intelligence
 * Engage across the customer journey
 * Grow and deepen relationships
 
-Solving customer problems.. There's a gratifying sense of nobility that comes with it. What takes more mental energy is achieving such an outcome in ways that also drive business value. As marketers, we often pride ourselves as great storytellers yet we notoriously tend to struggle accurately demonstrating the benefits of marketing to other business units. It's high time we sharpen our focus on business goals. 
+I'll confess it's a pretty customer centric list. It feels gratifying to solve customer problems. On the other hand, achieving such outcomes in a way that also drives business value tends to consume more of my mental energy. Perhaps it's just me. However, many marketers - even those that pride themselves as great storytellers - notoriously struggle with accurately demonstrating the benefits of marketing to other business units. 
+
+It's high time we sharpen our focus on business goals. 
 
 Even though the typical common language across departments involves proving how effective their strategies are on the business' financial outcomes, many marketing functions find it challenging to identify and measure significant revenue / profit opportunities, never mind communicate them. 
 
