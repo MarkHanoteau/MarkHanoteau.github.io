@@ -14,7 +14,7 @@ Ask me for an elevator pitch on Marketing and you'll probably hear me touch on t
 * Engage across the customer journey
 * Grow and deepen relationships
 
-These focus areas feel natural. There's a gratifying sense of nobility that comes with solving customer problems.
+These focus areas probably spring to mind There's a gratifying sense of nobility that comes with solving customer problems.
 
 What takes more mental energy is achieving these outcomes in ways that drive business value. As marketers, we often pride ourselves as great storytellers yet we notoriously tend to struggle accurately demonstrating the benefits of marketing to other business units. It's high time we sharpen our focus on business goals. 
 
