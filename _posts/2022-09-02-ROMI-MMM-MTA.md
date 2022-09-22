@@ -14,15 +14,11 @@ Prompt me for an elevator pitch on Marketing and an osmosis of customer centric 
 * Engage across the customer journey
 * Grow and deepen relationships
 
-It sure feels gratifying to solve customer problems. What consumes more of my mental energy is achieving such outcomes in a way that also drives business value. Perhaps it's just me. However, many marketers - even those that pride themselves as great storytellers - notoriously struggle with accurately demonstrating the effectiveness of marketing on their business' financial outcomes. This is a critical skill. Executives think of Marketing as an investment to grow their business - and accountants definitely classify Marketing as an expense on income statements.
+It sure feels gratifying to solve customer problems. What consumes more of my mental energy is achieving such outcomes in a way that also drives business value. Perhaps it's just me. However, many marketers - even those that pride themselves as great storytellers - notoriously struggle to accurately demonstrate the effectiveness of marketing on their business' financial outcomes. 
 
-Whilst some marketing functions simply need to sharpen their focus on business goals, several others find it challenging to identify and measure significant revenue / profit opportunities, never mind communicate them. 
+Throughout this article, I will describe three ways to factually measure past marketing performance, empirically decide how to set top down campaign budgets and how to ensure that each investment returns the likelier pay off for a business. This has become a critical skill. Executives think of Marketing as an investment first and foremost. Accountants definitely classify Marketing as an expense on income statements. How to best spend in support of the business' goals - how to clearly identify and report on revenue and profit opportunities - is the common organizational language. 
 
-If Marketing can be thought of as an investment - and it defintely is accounted for as an expense on income statements - a critical skill for modern marketers is to be smart and clear about how to spend their investment in support of the business.
-
-Throughout this article, I will describe three ways to factually measure past marketing performance, empirically decide how to set top down campaign budgets and how to ensure that each investment returns the likelier pay off. 
-
-With that said, one of the single most important equations in marketing is the **Return On Marketing Investment** aka ROMI.
+ one of the single most important equations in marketing is the **Return On Marketing Investment** aka ROMI.
 
 Let's break the ROMI equation down:
 
