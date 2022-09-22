@@ -38,6 +38,8 @@ The incremental margin is of course a critical measurement as without it, we can
 
 ROMI allows you to compare efficiencies between different marketing investments. It guides you on marketing budget allocation to best maximise incremental margins - by seperating the effect of marketing on revenues that would have been organically achieved. 
 
+ROMI-led companies use marketing or media mix modelling to move beyond measurement , as a critically important top down technique to move beyond budget the adjustment decision-making process to compare the high level incremental impact of a range of marketing efforts on sales over time across digital and offline channels.  This allows moving beyond measurement to **strategic planning** to estimate top line future opportunities of potential outcomes performing "what-if scenarios", evaluate quickly and select the optimal marketing mix amongst the alternatives that most likely to pay off. MMMM tools can be productive as a means by which users enrich their judgmental processes by adding to their learning.
+
 Measure and optimize the strategy across all channels:
 
 MMM sets campaign budgets for each media channel - dictating both the overall spend allocation for the campaign and the proportional spend across each channel. 
