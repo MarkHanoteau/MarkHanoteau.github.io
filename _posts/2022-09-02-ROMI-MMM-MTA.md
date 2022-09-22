@@ -14,11 +14,9 @@ Prompt me for an elevator pitch on Marketing and an osmosis of customer centric 
 * Engage across the customer journey
 * Grow and deepen relationships
 
-It sure feels gratifying to solve customer problems. What consumes more of my mental energy is achieving such outcomes in a way that also drives business value. Perhaps it's just me. However, many marketers - even those that pride themselves as great storytellers - notoriously struggle with accurately demonstrating the benefits of marketing to other business units. 
+It sure feels gratifying to solve customer problems. What consumes more of my mental energy is achieving such outcomes in a way that also drives business value. Perhaps it's just me. However, many marketers - even those that pride themselves as great storytellers - notoriously struggle with accurately demonstrating the effectiveness of marketing on their business' financial outcomes. 
 
-It's high time we sharpen our focus on business goals. 
-
-Even though the typical common language across departments involves proving how effective their strategies are on the business' financial outcomes, many marketing functions find it challenging to identify and measure significant revenue / profit opportunities, never mind communicate them. 
+Whilst some marketing functions simply need to sharpen their focus on business goals, several others find it challenging to identify and measure significant revenue / profit opportunities, never mind communicate them. 
 
 If Marketing can be thought of as an investment - and it defintely is accounted for as an expense on income statements - a critical skill for modern marketers is to be smart and clear about how to spend their investment in support of the business.
 
