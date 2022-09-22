@@ -14,9 +14,9 @@ Prompt me for an elevator pitch on Marketing and an osmosis of customer centric 
 * Engage across the customer journey
 * Grow and deepen relationships
 
-It sure feels gratifying to solve customer problems. What consumes more of my mental energy is achieving such outcomes in a way that also drives business value. Perhaps it's just me. However, many marketers - even those that pride themselves as great storytellers - notoriously struggle to accurately demonstrate the effectiveness of marketing on their business' financial outcomes. 
+It sure feels gratifying to solve customer problems. What consumes more of my mental energy is achieving such outcomes in a way that also drives business value. Perhaps it's just me. However, many marketers - even those that pride themselves as great storytellers - notoriously struggle to transparently demonstrate the effectiveness of marketing on their business' financial outcomes. 
 
-Let's demystify how to do this together. Throughout this article, I will describe three ways to factually measure past marketing performance, empirically decide how to set top down campaign budgets and how to ensure that each investment returns the likelier pay off for a business. This has become a critical skill for the modern marketer. Executives think of Marketing as an investment first and foremost. Accountants definitely classify Marketing as an expense on income statements. How to best spend in support of the business' goals - how to clearly identify and report on revenue and profit opportunities - is the common organizational language. 
+This article will help demystify the financial impact of Marketing. I will describe three ways to accurately measure past marketing performance, empirically decide how to set top down campaign budgets and how to ensure that each investment returns the likelier pay off for a business. This has become a critical skill for the modern marketer. Executives think of Marketing as a cost vs return tool first and foremost. Accountants definitely classify Marketing as an expense on income statements. How to best spend in support of the business' goals - how to clearly identify and report on revenue and profit opportunities - is an organizational language that top management understands. 
 
 With Marketing being an investment, one of the single most important equations in marketing has to be the **Return On Marketing Investment** aka ROMI.
 
@@ -36,10 +36,7 @@ The incremental margin is of course a critical measurement as without it, we can
 
 > .. and Marketing should take credit for 80% for the 3000 influenced responders (2400/3000)
 
-The measure enables the comparison of efficiencies between different marketing investments. It also allows for experiments and guides the business on marketing budget allocation to best maximise sales. 
-
-Beyond cost control and profitability decision making, adopting a financial measure like outlook.. It is typically calculated by doing a baseline-lift valuation on short-term sales, where the effect of a marketing effort on sales is separated from the level of sales that would have been reached without the marketing effort. 
-By comparing the returns and costs of marketing, ROMI encourages transparency and builds trust as financial impact is a language that top management understands and evaluates against. ROMI helps compare marketing decisions by revealing the ones with the higher efficiency.
+ROMI allows you to compare efficiencies between different marketing investments. It guides you on marketing budget allocation to best maximise incremental margins - by seperating the effect of marketing on revenues that would have been organically achieved. 
 
 Measure and optimize the strategy across all channels:
 
