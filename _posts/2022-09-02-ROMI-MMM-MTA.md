@@ -40,21 +40,7 @@ ROMI allows you to compare efficiencies between different marketing investments.
 
 ROMI-led companies use past performance results from time series techniques like marketing or media mix modelling - **MMM** - as part of their strategic planning. MMM compares high level incremental impact of online and offline marketing initiatives on revenues.  Marketers can use this to estimate the optimal marketing mix amongst campaign and channel alternatives and allocate budgets proportionally according to what is most likely to pay off. 
 
-Once the MMM budgets are set, Multi-Touch Attribution - **MTA** - tracks granular dimensions of in flight online performance. It is a solution that determines the relative contribution of individual customer touchpoints towards a goal. MTA allows marketers to make smarter tactical optimization decisions in near real-time, such as which call to action to use or which keywords to bid on.
-
-
-A fundamental problem in measuring advertising effectiveness is to quantify how revenue should be attributed to multiple touch-points along consumers' conversion
-paths, which is the sequence, timing, and engagement in advertising channels along the purchase funnel.
-
-By assembling information about user characteristics, media touch points, and sales/conversion data, marketers can understand which combination of channels,
-audience targets, publishers, devices, creatives, search keywords, or other marketing considerations are performing most effectively against their Key Performance Indicator (KPI). Thus, they are widely regarded by practitioners as a proxy for optimizing campaign performance. Contrary to media mix modeling, it is a bottom-up measurement approach that requires individual-level data.
-
-An individual's consumer's decision to purchase has four distinct drivers:
-*Purchase propensity (predisposition to purchase)
-*Traditional media
-*Non marketing drivers (seasonality, discounts, economy)
-*Digital media
-
+Once the MMM budgets are set, Multi-Touch Attribution - **MTA** - tracks online performance in flight. It is a solution that determines the relative contribution of individual customer touchpoints towards a goal. MTA allows marketers to make smarter tactical optimization decisions in near real-time, such as which call to action to use or which keywords to bid on.
 
 **Optimize all marketing investments, holistically. Achieve Better Results by Combining Methods**
 
