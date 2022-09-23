@@ -24,7 +24,7 @@ Let's break the ROMI equation down:
 
 > ROMI = ( Incremental margin − Marketing investment ) / Marketing investment 
 
-The concept of incremental margin is critical piece within our measurement. You want to calculate returns that were directly driven by Marketing, as opposed to increases in revenues due to other influences such as seasonality. Let's spend a few seconds understanding incremental margins by considering this simplistic example: 
+The concept of incremental margin is critical piece within our measurement. In a world where increases and revenues can be driven by several external factors beyond seasonality, you want to calculate returns that were directly influenced by Marketing. Let's spend a few seconds understanding incremental margins by considering this simplistic example: 
 
 | Treatment group | Control group |
 |:------|:------|
