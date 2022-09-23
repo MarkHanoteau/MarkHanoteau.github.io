@@ -56,11 +56,10 @@ For example, consider a brand that is running multiple campaigns across a number
 Most brands today rely on both online and offline channels to drives sales, revenue and other desired business outcomes. By leveraging a holistic measurement approach that reconciles data and insight from marketing mix modeling and multi-touch attribution, marketers can enjoy the truly comprehensive view they need to make the right decisions, at the right time, to optimize performance across every area of investment.
 
 
+Collecting the right data, making sense of complex and varied data, adding to the data. 
 
-* Find ways to bring incremental revenues beyond seasonality and cannibalism. 
-* Collecting the right data, making sense of complex and varied data, adding to the data. 
 
-Increase efficiency: develop top down framework for customer engagment. 
+
 
 "You have to spend money to make money" adage is never been truer than in Marketing. 
 
