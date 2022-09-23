@@ -32,7 +32,7 @@ The concept of incremental margin is critical piece within our measurement. In a
 | 3000 responders| 36 organic sales|
 | 0.60% Treated rate| 0.12% Control rate|  
 
-> Then the incremental response is 2400 = (0.6% - 0.12%) * 500,000..
+> The incremental response is 2400 = (0.6% - 0.12%) * 500,000..
 
 > .. and Marketing should take credit for 80% for the 3000 influenced responders (2400/3000)
 
@@ -84,12 +84,8 @@ Agile is a collective concept that includes different techniques that provide th
 
 One of the What tools  does Marketing pivot and optimize towards its outcomes? 
 
-Agile tracks via EBM
-
 Reaching strategic goals requires experimenting, inspecting, and adapting
 
 ![EBM](/assets/img/EBM.PNG)
-
-The top two marketing challenges I have consistently encountered across various industries and companies are as follows:
 
 
