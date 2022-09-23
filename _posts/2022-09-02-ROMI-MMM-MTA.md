@@ -18,7 +18,7 @@ It sure feels gratifying to solve customer problems. What consumes more of my me
 
 This article will help demystify the financial impact of Marketing. I will describe three ways to accurately measure past marketing performance, empirically decide how to set top down campaign budgets and how to ensure that each investment returns the likelier pay off for a business. This has become a critical skill for the modern marketer. Executives think of Marketing as a cost vs return tool first and foremost. Accountants definitely classify Marketing as an expense on income statements. How to best spend in support of the business' goals - how to clearly identify and report on revenue and profit opportunities - is an organizational language that top management understands. 
 
-With Marketing being an investment, one of the single most important equations in marketing has to be the **Return On Marketing Investment** aka ROMI.
+With Marketing being an investment, one of the single most important equations in marketing has to be the Return On Marketing Investment aka **ROMI.**
 
 Let's break the ROMI equation down:
 
@@ -42,9 +42,9 @@ ROMI-led companies use past performance results from time series techniques like
 
 Once the MMM budgets are set, Multi-Touch Attribution - **MTA** - tracks online performance in flight. It is a solution that determines the relative contribution of individual customer touchpoints towards a goal. MTA allows marketers to make smarter tactical optimization decisions in near real-time, such as which call to action to use or which keywords to bid on.
 
-**Optimize all marketing investments, holistically. Achieve Better Results by Combining Methods**
+By combiining both approaches, MMM as a top down and market level and MTA as a bottom up, audience level, should provide an integrated view of marketing performance. 
 
-Unified analytics combines the functionality of a market level, top down model (MMM) and an audience-level, bottom up model. 
+Combining methods and Unifying market level, top down model (MMM) and an audience-level, bottom up model such as MTA will achieve better results. 
 
 By combining both approaches, marketers can further corroborate which channels are contributing to the pre-defined KPIs while preventing misguided conclusions when gaps between these two methods arise. Blending the detailed view from MTA with the higher-level analysis provided by marketing mix modeling, companies gain more
 accurate measurements. However, the different data sources and levels of data capture make the automated reconciliation of the two approaches difficult. 
