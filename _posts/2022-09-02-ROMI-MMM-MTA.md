@@ -16,7 +16,13 @@ Prompt me for an elevator pitch on Marketing and an osmosis of customer centric 
 
 It sure feels gratifying to solve customer problems. What consumes more of my mental energy is achieving such outcomes in a way that also drives business value. Perhaps it's just me. However, many marketers - even those that pride themselves as great storytellers - notoriously struggle to transparently demonstrate the effectiveness of marketing on their business' financial outcomes. 
 
-This article will help demystify the financial impact of Marketing. I will describe three ways to accurately measure past marketing performance, empirically decide how to set top down campaign budgets and how to ensure that each investment returns the likelier pay off for a business. This has become a critical skill for the modern marketer. Executives think of Marketing as a cost vs return tool first and foremost. Accountants definitely classify Marketing as an expense on income statements. How to best spend in support of the business' goals - how to clearly identify and report on revenue and profit opportunities - is an organizational language that top management understands. 
+This article will help demystify the financial impact of Marketing. 
+
+Marketing can - and should - use a combination of these approaches to pivot and optimize towards its outcomes:
+
+should provide an integrated view of marketing performance.
+
+I will describe three ways to accurately measure past marketing performance, empirically decide how to set top down campaign budgets and how to ensure that each investment returns the likelier pay off for a business. This has become a critical skill for the modern marketer. Executives think of Marketing as a cost vs return tool first and foremost. Accountants definitely classify Marketing as an expense on income statements. How to best spend in support of the business' goals - how to clearly identify and report on revenue and profit opportunities - is an organizational language that top management understands. 
 
 With Marketing being an investment, one of the single most important equations in marketing has to be the Return On Marketing Investment aka **ROMI.**
 
@@ -38,16 +44,10 @@ The concept of incremental margin is critical piece within our measurement. In a
 
 ROMI allows you to compare efficiencies between different marketing investments. It guides you on marketing budget allocation to best maximise incremental margins - by seperating the effect of marketing on revenues that would have been organically achieved. 
 
-ROMI-led companies use past performance results from time series techniques like marketing or media mix modelling - **MMM** - as part of their strategic planning. MMM compares high level incremental impact of online and offline marketing initiatives on revenues.  Marketers can use this to estimate the optimal marketing mix amongst campaign and channel alternatives and allocate budgets proportionally according to what is most likely to pay off. 
+ROMI-led companies use past performance results from time series techniques like marketing or media mix modelling - **MMM** - as part of their strategic planning. MMM compares market level incremental impact of online and offline marketing initiatives on revenues.  Marketers can use this to estimate the optimal marketing mix amongst campaign and channel alternatives and allocate budgets proportionally according to what is most likely to pay off. 
 
-Once the MMM budgets are set, Multi-Touch Attribution - **MTA** - tracks online performance in flight. It is a solution that determines the relative contribution of individual customer touchpoints towards a goal. MTA allows marketers to make smarter tactical optimization decisions in near real-time, such as which call to action to use or which keywords to bid on.
+Once the MMM budgets are set, Multi-Touch Attribution - **MTA** - tracks audience level online performance in flight. It is a solution that determines the relative contribution of individual customer touchpoints towards a goal. MTA allows marketers to make smarter tactical optimization decisions in near real-time, such as which call to action to use or which keywords to bid on. 
 
-By combining both approaches, MMM as a top down and market level and MTA as a bottom up, audience level, should provide an integrated view of marketing performance. 
-
-Combining methods and Unifying market level, top down model (MMM) and an audience-level, bottom up model such as MTA will achieve better results. 
-
-By combining both approaches, marketers can further corroborate which channels are contributing to the pre-defined KPIs while preventing misguided conclusions when gaps between these two methods arise. Blending the detailed view from MTA with the higher-level analysis provided by marketing mix modeling, companies gain more
-accurate measurements. However, the different data sources and levels of data capture make the automated reconciliation of the two approaches difficult. 
 
 Marketers’ need for an integrated view of their marketing performance is as critical as ever. While marketing mix modeling and multi-touch attribution have their distinct advantages, marketers can realize the highest returns when they are used in tandem. By bringing insights from both methods of analysis together, marketers can get the comprehensive view of performance they need to inform their next best action within and across channels.
 
@@ -61,30 +61,6 @@ Collecting the right data, making sense of complex and varied data, adding to th
 
 
 
-"You have to spend money to make money" adage is never been truer than in Marketing. 
-
-Effectiveness: how do we get more out of everything that we do in Marketing?
-
-Ultimately you have to grow the top line, you have to grow revenues in order to succeed. (Mix Quantic Accounting to Marketing). 
-
-Greater levels of integrity on the insights. 
-
-Two pillars: Drive financial efficiency and improve marketing effectiveness.
-
-Drive financial efficiency: accountability to the business + provide greater transparency of investments. 
-
-effectiveness: plan campaigns with data and insights at key points of the marketing cycle. 
-
-What techniques provide Marketing the ability to adapt quickly to emerging information?
-
-What are the right levers?
-
-Agile is a collective concept that includes different techniques that provide the ability to adapt quickly to new conditions
-
 One of the What tools  does Marketing pivot and optimize towards its outcomes? 
-
-Reaching strategic goals requires experimenting, inspecting, and adapting
-
-![EBM](/assets/img/EBM.PNG)
 
 
