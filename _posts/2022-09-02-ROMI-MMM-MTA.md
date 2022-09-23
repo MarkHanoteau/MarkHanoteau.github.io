@@ -40,6 +40,15 @@ ROMI allows you to compare efficiencies between different marketing investments.
 
 ROMI-led companies use past performance results from time series techniques like marketing or media mix modelling - **MMM** - as part of their strategic planning. MMM compares high level incremental impact of online and offline marketing initiatives on revenues.  Marketers can use this to estimate the optimal marketing mix amongst campaign and channel alternatives and allocate budgets proportionally according to what is most likely to pay off. 
 
+Once the MMM budgets are set, Multi-Touch Attribution - **MTA** - tracks granular dimensions of in flight online media performance to ensure that each channel is optimized in near real-time.
+
+
+Cross channel shifts can be evaluated periodically throughout campaigns. 
+
+is a solution that offers tactical in-flight insights by determining the relative contribution of individual campaign impressions towards a goal for the purpose of performance measurement and optimizations. It suggests ways to optimize short-term marketing performance. It focuses on addressable channels and leverages granular, user-level data to analyze performance in near real time. It does this by calculating and assigning fractional KPI credit to the marketing touchpoints and dimensions (publisher, placement, creative, offer, etc.) along the consumer journey that influenced an action (e.g. a sale) towards the desired outcome of the campaign. Marketers can use this insight to make smarter tactical decisions, such as which call to action to use or which keywords to bid on.
+
+
+
 **Measure and Optimize the journey Tactically within addressable channels with Multi-Touch Attribution**
 
 Tactical decision making.
@@ -50,8 +59,6 @@ How should we allocate media within a channel?
 Who should we target?
 Where and how should we reach them?
 How often should I message them?
-
-MTA optimizes budgets, it's a technique that gives intra-channel optimal plan recommendation based on MMM budget constraints. This ensures the activations are optimized for each specific channel. 
 
 Media performance:
 What addressable marketing efforts drive the highest incremental sales?
@@ -72,10 +79,6 @@ Customer journey analysis:
 What are the most common paths to purchase?
 How do different audience segments perform aginast addressable media channels?
 How long does it typically take for consumers to convert following a media exposure?
-
-MTA optimizes in flight. MTA attribution is used to track results of campaigns as they run. It assesses performance across the most granular dimensions of media. Intra-channel optimizations can be done based on near real-time results. Cross channel shifts can be evaluated periodically throughout campaigns. 
-
-Multi-touch attribution (MTA), on the other hand, is a solution that offers tactical in-flight insights by determining the relative contribution of individual campaign impressions towards a goal for the purpose of performance measurement and optimizations. It suggests ways to optimize short-term marketing performance. It focuses on addressable channels and leverages granular, user-level data to analyze performance in near real time. It does this by calculating and assigning fractional KPI credit to the marketing touchpoints and dimensions (publisher, placement, creative, offer, etc.) along the consumer journey that influenced an action (e.g. a sale) towards the desired outcome of the campaign. Marketers can use this insight to make smarter tactical decisions, such as which call to action to use or which keywords to bid on.
 
 A fundamental problem in measuring advertising effectiveness is to quantify how revenue should be attributed to multiple touch-points along consumers' conversion
 paths, which is the sequence, timing, and engagement in advertising channels along the purchase funnel.
@@ -126,8 +129,6 @@ Drive financial efficiency: accountability to the business + provide greater tra
 effectiveness: plan campaigns with data and insights at key points of the marketing cycle. 
 
 What techniques provide Marketing the ability to adapt quickly to emerging information?
-
-Bet on transparency
 
 What are the right levers?
 
