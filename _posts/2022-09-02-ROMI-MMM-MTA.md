@@ -42,7 +42,7 @@ ROMI-led companies use past performance results from time series techniques like
 
 Once the MMM budgets are set, Multi-Touch Attribution - **MTA** - tracks online performance in flight. It is a solution that determines the relative contribution of individual customer touchpoints towards a goal. MTA allows marketers to make smarter tactical optimization decisions in near real-time, such as which call to action to use or which keywords to bid on.
 
-By combiining both approaches, MMM as a top down and market level and MTA as a bottom up, audience level, should provide an integrated view of marketing performance. 
+By combining both approaches, MMM as a top down and market level and MTA as a bottom up, audience level, should provide an integrated view of marketing performance. 
 
 Combining methods and Unifying market level, top down model (MMM) and an audience-level, bottom up model such as MTA will achieve better results. 
 
