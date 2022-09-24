@@ -14,13 +14,15 @@ Prompt me for an elevator pitch on Marketing and an osmosis of customer centric 
 * Engage across the customer journey
 * Grow and deepen relationships
 
-It sure feels gratifying to solve customer problems. What consumes more of my mental energy is achieving such outcomes in a way that also drives business value. Perhaps it's just me. However, many marketers - even those that pride themselves as great storytellers - notoriously struggle to transparently demonstrate the effectiveness of marketing on their business' financial outcomes. 
+Many marketers are gratified by solving customer problems. Delivering customer value in a way that also drives business value, however, tends to consume more mental energy. Marketing notoriously struggles to transparently demonstrate the effectiveness of its efforts on the business' financial outcomes.  
 
-Marketing can use a combination of three approaches to continuously pivot and optimize towards these financial outcomes:
+This is nevertheless a critical skill for the modern marketer. Executives think of Marketing as a cost vs return activity first and foremost. Accountants definitely classify Marketing as an expense on income statements. How to best spend in support of the business' goals - how to clearly identify and report on revenue and profit opportunities - is an organizational language that top management understands. 
+
+Marketing can use a combination of three approaches to sharpen their focus on business goals and continuously pivot and optimize towards financial outcomes:
 
 ![ROMI](/assets/img/ROMI.png)
 
-ROMI, MMM and MTA are three techniques that provide an integrated and business oriented view of marketing performance. They allow you to empirically set top down campaign budgets and give each investment the best chance of an incremental pay off for a business. This has become a critical skill for the modern marketer. Executives think of Marketing as a cost vs return tool first and foremost. Accountants definitely classify Marketing as an expense on income statements. How to best spend in support of the business' goals - how to clearly identify and report on revenue and profit opportunities - is an organizational language that top management understands. 
+When combined, ROMI, MMM and MTA are techniques that provide an integrated and business oriented view of marketing performance. They allow you to empirically set top down campaign budgets and give each investment the best chance of an incremental pay off for a business. Let's unpack these together.
 
 With Marketing being an investment, one of the single most important equations in marketing has to be the Return On Marketing Investment aka **ROMI.**
 
@@ -28,7 +30,7 @@ Let's break the ROMI equation down:
 
 > ROMI = ( Incremental margin − Marketing investment ) / Marketing investment 
 
-The concept of incremental margin is critical piece within our measurement. In a world where increases and revenues can be driven by several external factors beyond seasonality, you want to calculate returns that were directly influenced by Marketing. Let's spend a few seconds understanding incremental margins by considering this simplistic example: 
+The concept of incremental margin is critical piece within our measurement. In a world where increases and revenues are affected by several external factors beyond seasonality, you want to calculate returns that were directly influenced by Marketing. Let's spend a few seconds understanding incremental margins by considering this simplistic example: 
 
 | Treatment group | Control group |
 |:------|:------|
@@ -56,9 +58,4 @@ Most brands today rely on both online and offline channels to drives sales, reve
 
 Collecting the right data, making sense of complex and varied data, adding to the data. 
 
-
-
-
-One of the What tools  does Marketing pivot and optimize towards its outcomes? 
-
-
+many marketers - even those that pride themselves as great storytellers 
