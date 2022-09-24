@@ -16,9 +16,9 @@ Prompt me for an elevator pitch on Marketing and an osmosis of customer centric 
 
 It sure feels gratifying to solve customer problems. What consumes more of my mental energy is achieving such outcomes in a way that also drives business value. Perhaps it's just me. However, many marketers - even those that pride themselves as great storytellers - notoriously struggle to transparently demonstrate the effectiveness of marketing on their business' financial outcomes. 
 
-This article will help demystify the financial impact of Marketing. 
+Marketing can use a combination of three approaches to continuously pivot and optimize towards these financial outcomes:
 
-Marketing can - and should - use a combination of these approaches to pivot and optimize towards its outcomes:
+
 
 should provide an integrated view of marketing performance.
 
