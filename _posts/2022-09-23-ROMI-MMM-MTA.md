@@ -20,9 +20,7 @@ Marketing can use a combination of three approaches to continuously pivot and op
 
 ![ROMI](/assets/img/ROMI.png)
 
-should provide an integrated view of marketing performance.
-
-I will describe three ways to accurately measure past marketing performance, empirically decide how to set top down campaign budgets and how to ensure that each investment returns the likelier pay off for a business. This has become a critical skill for the modern marketer. Executives think of Marketing as a cost vs return tool first and foremost. Accountants definitely classify Marketing as an expense on income statements. How to best spend in support of the business' goals - how to clearly identify and report on revenue and profit opportunities - is an organizational language that top management understands. 
+ROMI, MMM and MTA are three techniques that provide an integrated and business oriented view of marketing performance. They allow you to empirically set top down campaign budgets and give each investment the best chance of an incremental pay off for a business. This has become a critical skill for the modern marketer. Executives think of Marketing as a cost vs return tool first and foremost. Accountants definitely classify Marketing as an expense on income statements. How to best spend in support of the business' goals - how to clearly identify and report on revenue and profit opportunities - is an organizational language that top management understands. 
 
 With Marketing being an investment, one of the single most important equations in marketing has to be the Return On Marketing Investment aka **ROMI.**
 
