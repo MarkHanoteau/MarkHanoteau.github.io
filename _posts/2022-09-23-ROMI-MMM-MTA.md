@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/ROMI.PNG
 share-img: /assets/img/NorthStar.jpeg
 tags: [ROMI, MMM, MTA]
 ---
+PEQUE
 
 Prompt me for an elevator pitch on Marketing and an osmosis of customer centric topics will most probably spring to my mind: 
 * Know your customer
