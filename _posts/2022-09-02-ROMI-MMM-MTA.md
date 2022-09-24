@@ -18,7 +18,7 @@ It sure feels gratifying to solve customer problems. What consumes more of my me
 
 Marketing can use a combination of three approaches to continuously pivot and optimize towards these financial outcomes:
 
-
+![ROMI](/assets/img/ROMI.PNG)
 
 should provide an integrated view of marketing performance.
 
