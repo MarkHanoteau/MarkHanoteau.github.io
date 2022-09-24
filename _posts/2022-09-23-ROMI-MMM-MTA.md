@@ -20,7 +20,7 @@ This is nevertheless a critical skill for the modern marketer. Executives think 
 
 Marketing can use a combination of three approaches to sharpen their focus on business goals and inform their next best action as they pivot and optimize towards better financial outcomes:
 
-![ROMI](/assets/img/ROMI.png)
+![ROMI](/assets/img/ROMI3.png)
 
 When combined, ROMI, MMM and MTA are techniques that provide an integrated and business oriented insight into marketing performance. They allow you to empirically set top down campaign, channel and media budgets and give each investment the best chance of an incremental pay off for a business. This article will describe how these solutions help maximize the efficiency and effectiveness of marketing portfolios. 
 
