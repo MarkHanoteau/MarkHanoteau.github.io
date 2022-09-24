@@ -41,7 +41,7 @@ The concept of incremental margin is critical piece within our measurement. In a
 
 ROMI allows you to compare efficiencies between different marketing investments. It guides you on marketing budget allocation to best maximise incremental margins - by seperating the effect of marketing on revenues that would have been organically achieved. 
 
-ROMI-led companies use past performance results from time series techniques like marketing or media mix modelling - **MMM** - as part of their strategic planning. MMM compares market level incremental impact of online and offline marketing initiatives on revenues.  Marketers can use this to estimate the optimal marketing mix amongst campaign, media and channel alternatives and allocate budgets proportionally according to what is most likely to pay off. Although this can done on a monthly, quartlery or annual basis, the recommendation is to opt for shorter feedback loops whenever possible. HBR's visual below illustrates the MMM circuit.
+ROMI-led companies use past performance results from time series techniques like marketing or media mix modelling - **MMM** - as part of their strategic planning. MMM compares the market level incremental impact of online and offline marketing initiatives on revenues.  Marketers can use this to estimate the optimal marketing mix amongst campaign, media and channel alternatives and allocate budgets proportionally according to what is most likely to pay off. Although this can done on a monthly, quartlery or annual basis, the recommendation is to opt for shorter feedback loops whenever possible. HBR's visual below illustrates the MMM circuit.
 
 ![MMM](/assets/img/MMM.jpeg)
 
