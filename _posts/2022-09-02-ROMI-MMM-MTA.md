@@ -2,9 +2,9 @@
 layout: post
 title: Evidenced based Marketing
 subtitle: Measure and optimize Marketing's contribution to enterprise value
-cover-img: /assets/img/ROMI.png
+cover-img: [/assets/img/ROMI.png](https://images.app.goo.gl/HRkUgfQ9XmTdkT4R9)
 thumbnail-img: /assets/img/ROMI.PNG
-share-img: /assets/img/ROMI.png
+share-img: [/assets/img/ROMI.png](https://images.app.goo.gl/HRkUgfQ9XmTdkT4R9)
 tags: [ROMI, MMM, MTA]
 ---
 
