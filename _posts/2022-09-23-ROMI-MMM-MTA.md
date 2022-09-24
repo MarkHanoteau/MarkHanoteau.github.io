@@ -18,8 +18,6 @@ Many marketers are gratified by solving customer problems. Delivering customer v
 
 This is nevertheless a critical skill for the modern marketer. Executives think of Marketing as a cost vs return activity first and foremost. Accounting even classifies Marketing as an expense on income statements. How to best spend in support of the business' goals - how to clearly identify and report on revenue and profit opportunities - is the only organizational language that top management truly understands. 
 
-Armed with this strategic -and tactical-level insight, brands can make a broad array of decisions to maximize the efficiency and effectiveness of their entire marketing portfolios.
-
 Marketing can use a combination of three approaches to sharpen their focus on business goals and inform their next best action as they pivot and optimize towards better financial outcomes:
 
 ![ROMI](/assets/img/ROMI.png)
