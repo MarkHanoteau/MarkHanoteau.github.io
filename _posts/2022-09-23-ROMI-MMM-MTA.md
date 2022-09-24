@@ -26,7 +26,7 @@ Marketing can use a combination of three approaches to sharpen their focus on bu
 
 When combined, ROMI, MMM and MTA are techniques that provide an integrated and business oriented insight into marketing performance. They allow you to empirically set top down campaign, channel and media budgets and give each investment the best chance of an incremental pay off for a business. This article will describe how these solutions help maximize the efficiency and effectiveness of marketing portfolios. 
 
-With Marketing being an investment, one of the single most important equations in marketing has to be the Return On Marketing Investment aka **ROMI.**.
+With Marketing being an investment, one of the single most important equations in marketing has to be the Return On Marketing Investment aka **ROMI**.
 
 > ROMI = ( Incremental margin − Marketing investment ) / Marketing investment 
 
