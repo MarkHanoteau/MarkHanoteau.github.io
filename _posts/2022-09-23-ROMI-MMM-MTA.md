@@ -16,7 +16,7 @@ Prompt me for an elevator pitch on Marketing and an osmosis of customer centric 
 
 Many marketers are gratified by solving customer problems. Delivering customer value in a way that also drives business value, however, tends to consume more mental energy. Marketing notoriously struggles to transparently demonstrate the effectiveness of its efforts on the business' financial outcomes.  
 
-This is nevertheless a critical skill for the modern marketer. Executives think of Marketing as a cost vs return activity first and foremost. Accountants definitely classify Marketing as an expense on income statements. How to best spend in support of the business' goals - how to clearly identify and report on revenue and profit opportunities - is an organizational language that top management understands. 
+This is nevertheless a critical skill for the modern marketer. Executives think of Marketing as a cost vs return activity first and foremost. Accounting even classifies Marketing as an expense on income statements. How to best spend in support of the business' goals - how to clearly identify and report on revenue and profit opportunities - is the only organizational language that top management truly understands. 
 
 Marketing can use a combination of three approaches to sharpen their focus on business goals and continuously pivot and optimize towards financial outcomes:
 
