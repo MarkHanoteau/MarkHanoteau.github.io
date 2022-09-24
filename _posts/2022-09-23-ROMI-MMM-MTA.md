@@ -38,9 +38,9 @@ The concept of incremental margin is critical piece within our measurement. In a
 | 3000 responders| 36 organic sales|
 | 0.60% Treated rate| 0.12% Control rate|  
 
-> The incremental response is 2400 = (0.6% - 0.12%) * 500,000..
+> The incremental response is **2400** = (0.6% - 0.12%) * 500,000..
 
-> .. and Marketing should take credit for 80% for the 3000 influenced responders (2400/3000)
+> .. and Marketing should take credit for **80%** for the 3000 influenced responders (2400/3000)
 
 ROMI allows you to compare efficiencies between different marketing investments. It guides you on marketing budget allocation to best maximise incremental margins - by seperating the effect of marketing on revenues that would have been organically achieved. 
 
