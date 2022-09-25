@@ -45,7 +45,7 @@ ROMI-led companies use past performance results from time-series techniques like
 
 ![MMM](/assets/img/MMM.jpeg)
 
-The MMM optimized budgets can be empirically altered through Multi-Touch Attribution. **MTA** drills deeper to track audience level online performance in-flight. It is a solution that quantifies the relative contribution of individual customer touchpoints towards a goal. MTA allows marketers to make smarter tactical optimization decisions in near real-time, such as which call to action to use, which keywords to bid on and which creative, placement or publisher to champion. [Direct Consulting](https://directiveconsulting.com/resources/glossary/attribution-model/) does a good job at explaining attribution modelling.
+The MMM optimized budgets can be empirically altered through Multi-Touch Attribution. **MTA** drills deeper to track audience-level online performance in-flight. It is a solution that quantifies the relative contribution of individual customer touchpoints towards a goal. MTA allows marketers to make smarter tactical optimization decisions in near real-time, such as which call to action to use, which keywords to bid on and which creative, placement or publisher to champion. [Direct Consulting](https://directiveconsulting.com/resources/glossary/attribution-model/) does a good job at explaining attribution modelling.
 
 
 ![MMM](/assets/img/MTA.webp)
